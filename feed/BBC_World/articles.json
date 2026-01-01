@@ -2,12 +2,6 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Two dead in 50-vehicle pile up on Japan highway",
-            "time": "2025-12-27T12:03:20",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d101/live/685fca30-e312-11f0-b67b-690eb873de1b.jpg",
-            "body": "<html><body><div><div data-component=\"text-block\" class=\"sc-3b6b161a-0 dPVOKT\"><p class=\"sc-9a00e533-0 eZyhnA\">A pile-up involving at least 50 vehicles on a highway in central Japan has left two people dead and 26 injured, according to police.</p><p class=\"sc-9a00e533-0 eZyhnA\">The incident was caused by a crash between two trucks, sparking a chain reaction that set at least 10 vehicles on fire, local police said.</p><p class=\"sc-9a00e533-0 eZyhnA\">A 77-year-old woman from Tokyo was killed, and another body was discovered in the driver's seat of a burnt-out truck. Five people were seriously injured and 21 suffered minor injuries, police said.</p><p class=\"sc-9a00e533-0 eZyhnA\">There was a heavy snow warning in place at the time of the crash. Police believe icy surfaces likely caused the trucks to skid on the roads.</p></div><div data-component=\"text-block\" class=\"sc-3b6b161a-0 dPVOKT\"><p class=\"sc-9a00e533-0 eZyhnA\">The crash happened on the Kan-etsu Expressway in Minakami, Gunma prefecture, about 160km (100 miles) north-west of Tokyo, at about 19:30 local time (10:30 GMT) on 26 December.</p><p class=\"sc-9a00e533-0 eZyhnA\">It took about seven and a half hours to put out the fire, police said. </p><p class=\"sc-9a00e533-0 eZyhnA\">Following the incident, a section of the highway was closed, with a long line of vehicles, many charred beyond recognition, stuck in the outbound lane. Work is under way to tow them away.</p><p class=\"sc-9a00e533-0 eZyhnA\">A man in his 60s, whose vehicle was involved in the accident, told local media outlet NHK he heard a loud explosion from the far end of the pile-up and saw fire during the crash. The blaze then spread to other vehicles, he said.</p><p class=\"sc-9a00e533-0 eZyhnA\">He said he was evacuated to a nearby toll gate with about 50 other people and spent the night in the hallway there.</p><p class=\"sc-9a00e533-0 eZyhnA\">Nexco, which operates the road, said checks were needed to see if the surface was damaged by the fire.</p><p class=\"sc-9a00e533-0 eZyhnA\">The company is warning travellers not to use the highway.</p></div></div></body></html>"
-        },
-        {
             "title": "Zelensky says peace deal is 90% ready in New Year address",
             "time": "2026-01-01T05:22:01",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3415/live/21f57130-e6c3-11f0-a8dc-93c15fe68710.jpg",
@@ -36,6 +30,12 @@
             "time": "2026-01-01T06:37:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4ac1/live/1e4a1310-e6dc-11f0-b67b-690eb873de1b.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Democratic politician Zohran Mamdani has been sworn in as the first Muslim Mayor of New York City. </p><p class=\"sc-9a00e533-0 eZyhnA\">New York Attorney General Letitia James oversaw his inauguration at midnight, as the city ushered in the new year. </p><p class=\"sc-9a00e533-0 eZyhnA\">Mamdani's wife, the artist Rama Duwaji, held out a Quran over which Mamdani took his oath of office.</p></div></div></body></html>"
+        },
+        {
+            "title": "Watch: Huge fire rips through historic Amsterdam church",
+            "time": "2026-01-01T08:15:21",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/da0f/live/806b12a0-e6e7-11f0-b67b-690eb873de1b.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Residents in Amsterdam were evacuated from their homes after a huge fire ripped through the historic Vondelkerk church in the city on Thursday morning.</p><p class=\"sc-9a00e533-0 eZyhnA\">Local media reports it is suspected that the structure, which dates back to 1880, was likely hit by fireworks.</p><p class=\"sc-9a00e533-0 eZyhnA\">Footage shows flames rapidly spreading through the building and firefighters working to put out the blaze.</p></div></div></body></html>"
         },
         {
             "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
@@ -164,6 +164,12 @@
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Crowds around the world have gathered to welcome the new year. </p><p class=\"sc-9a00e533-0 eZyhnA\">New Zealand and Australia were among the first places to bring in 2026, with bright fireworks displays with iconic backdrops.</p><p class=\"sc-9a00e533-0 eZyhnA\">South Korea brought in the New Year with a traditional bell toll, while Dubai and Paris lit up the sky with dazzling displays.</p><p class=\"sc-9a00e533-0 eZyhnA\"></p></div></div></body></html>"
         },
         {
+            "title": "Watch: Huge fire rips through historic Amsterdam church",
+            "time": "2026-01-01T08:15:21",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/da0f/live/806b12a0-e6e7-11f0-b67b-690eb873de1b.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Residents in Amsterdam were evacuated from their homes after a huge fire ripped through the historic Vondelkerk church in the city on Thursday morning.</p><p class=\"sc-9a00e533-0 eZyhnA\">Local media reports it is suspected that the structure, which dates back to 1880, was likely hit by fireworks.</p><p class=\"sc-9a00e533-0 eZyhnA\">Footage shows flames rapidly spreading through the building and firefighters working to put out the blaze.</p></div></div></body></html>"
+        },
+        {
             "title": "Stunning celestial events that lit up the skies in 2025",
             "time": "2025-12-31T15:33:33",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9707/live/7ed3beb0-dd00-11f0-a8dc-93c15fe68710.jpg",
@@ -174,12 +180,6 @@
             "time": "2025-12-31T01:17:48",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/805e/live/280e85f0-e5e4-11f0-aae2-2191c0e48a3b.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The Diving Chess World Championships has taken place in Groningen, Netherlands, with players using weighted pieces and magnetic boards. </p><p class=\"sc-9a00e533-0 eZyhnA\">Competitors must also complete each move in a single breath before resurfacing for air. </p><p class=\"sc-9a00e533-0 eZyhnA\">Former Dutch champion Zyon Kollen was crowned the men's champion while 17-year-old Josephine Damen, also from the Netherlands, took the women's title.</p></div></div></body></html>"
-        },
-        {
-            "title": "Brigitte Bardot: From French cinema to international fame",
-            "time": "2025-12-28T10:23:59",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ffd6/live/bf066820-e3d6-11f0-b67b-690eb873de1b.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Brigitte Bardot, the French model and actress, has died at the age of 91.</p><p class=\"sc-9a00e533-0 eZyhnA\">After enchanting Paris as a teenage model she took French cinema by storm in the 1950s.</p><p class=\"sc-9a00e533-0 eZyhnA\">She then became a global icon who directors competed to work with. But she struggled in the spotlight and upon retiring turned her attention to supporting animal charities.</p><p class=\"sc-9a00e533-0 eZyhnA\">Later in life, she damaged her reputation with a series of convictions for race-hate crimes in France and was also criticised for homophobic comments.</p></div></div></body></html>"
         }
     ]
 }
