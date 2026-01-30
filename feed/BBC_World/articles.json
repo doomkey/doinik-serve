@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Catherine O'Hara, star of Schitt's Creek and Home Alone, dies aged 71",
+            "time": "2026-01-30T22:47:05",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2ac7/live/aae2b1b0-fe1f-11f0-bd36-9d8a84b498ee.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">O'Hara's character Moira was a particular delight, with her wildly fluctuating accent, outlandish fashion sense, and brilliant one-liners, like \"Never assume, Twyla, because when you assume, it makes an ass out of... both of us.\"</p></div></div></body></html>"
+        },
+        {
             "title": "UN risks 'imminent financial collapse', secretary general warns",
             "time": "2026-01-30T16:24:18",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5e13/live/061dddb0-fdf9-11f0-a402-95e95a98d0ec.jpg",
@@ -29,7 +35,7 @@
             "title": "Civil rights investigation opened into Alex Pretti shooting",
             "time": "2026-01-30T19:23:45",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e737/live/71314a80-fe06-11f0-bb32-2b2b28af4780.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">A bomb cyclone will hit parts of the US - what is it?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The storm is expected to hit the East Coast this weekend, bringing heavy snow, strong winds and the risk of coastal flooding. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">43 mins ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">A bomb cyclone will hit parts of the US - what is it?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The storm is expected to hit the East Coast this weekend, bringing heavy snow, strong winds and the risk of coastal flooding. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Trump says Iran wants a deal rather than face military action",
