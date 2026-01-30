@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Don Lemon: Ex-CNN host arrested after anti-ICE protests at Minnesota church",
+            "time": "2026-01-30T14:13:36",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/936d/live/cd9ead90-fde2-11f0-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We're going to pursue this to the ends of the Earth,\" Harmeet Dhillon, from the Department of Justice's Civil Rights Division, said during an interview with podcaster Megyn Kelly on Friday.</p></div></div></body></html>"
+        },
+        {
             "title": "Syrian government reaches deal with Kurdish forces",
             "time": "2026-01-30T12:42:37",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5990/live/4d0407a0-fdd0-11f0-9312-c321edcbd89a.jpg",
@@ -14,28 +20,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response, Araghchi said: \"Iran has always welcomed a mutually beneficial, fair and equitable NUCLEAR DEAL - on equal footing, and free from coercion, threats, and intimidation - which ensures Iran's rights to PEACEFUL nuclear technology, and guarantees NO NUCLEAR WEAPONS.\"</p></div></div></body></html>"
         },
         {
-            "title": "Ukraine sees quieter night after Trump says Putin will not attack its cities",
-            "time": "2026-01-30T13:46:23",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/61a6/live/6382f330-fd51-11f0-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Temperatures in the capital, Kyiv, are due to plummet to -24C (-11F) over the coming days. Russia has recently intensified attacks on Ukraine's energy infrastructure, as it has during cold periods since its invasion began.</p></div></div></body></html>"
-        },
-        {
             "title": "Panama voids Hong Kong-based firm's canal port contracts",
             "time": "2026-01-30T13:16:05",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/567e/live/fef90420-fdac-11f0-8e3f-176b350fc659.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response, PPC said the new ruling lacks legal basis, and \"jeopardises not only PPC and its contract, but also the well-being and stability of thousands of Panamanian families who depend directly and indirectly on port activity\".</p></div></div></body></html>"
         },
         {
-            "title": "Burkina Faso junta announces ban on all political parties",
-            "time": "2026-01-30T13:38:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f09b/live/5cfbc6e0-fdce-11f0-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This will not help the country move forward. We're not happy with this,\" a member of a civil society group, who did not want to be named for fear of reprisals, told the BBC.</p></div></div></body></html>"
+            "title": "Ukraine sees quieter night after Trump says Putin will not attack its cities",
+            "time": "2026-01-30T13:46:23",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/61a6/live/6382f330-fd51-11f0-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Temperatures in the capital, Kyiv, are due to plummet to -24C (-11F) over the coming days. Russia has recently intensified attacks on Ukraine's energy infrastructure, as it has during cold periods since its invasion began.</p></div></div></body></html>"
         },
         {
-            "title": "Donald Trump sues IRS and US Treasury over leaked tax documents",
-            "time": "2026-01-30T02:37:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f889/live/de2bbfb0-fd77-11f0-99b2-191dbb1c06a2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Trump, his sons Donald Trump Jr, Eric Trump and the Trump Organization said in the lawsuit that they suffered reputational and financial harm, along with public embarrassment from leaks to the New York Times and ProPublica, which \"unfairly tarnished\" their business reputations, portrayed them in a false light and negatively affected their public standing, according to the filing.</p></div></div></body></html>"
+            "title": "Burkina Faso junta announces ban on all political parties",
+            "time": "2026-01-30T13:57:56",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f09b/live/5cfbc6e0-fdce-11f0-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This will not help the country move forward. We're not happy with this,\" a member of a civil society group, who did not want to be named for fear of reprisals, told the BBC.</p></div></div></body></html>"
         },
         {
             "title": "Myanmar: 170 killed in air strikes during criticised election, UN says",
@@ -44,16 +44,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The figures, which came from open sources, are likely to be currently incomplete \"because of the way in which communications are cut off and... the fear of individuals in some of these locations to speak to us\", he added, according to news agency AFP.</p></div></div></body></html>"
         },
         {
-            "title": "Ariel Siedman: South Africa expels top Israeli diplomat",
-            "time": "2026-01-30T13:50:20",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4d5c/live/4f5faae0-fdd0-11f0-9312-c321edcbd89a.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Seidman was appointed chargé d'affaires at Israel's embassy in South Africa last year and his role also extends to the neighbouring countries of Eswatini, Lesotho, Madagascar, Mauritius and Namibia.</p></div></div></body></html>"
+            "title": "Donald Trump sues IRS and US Treasury over leaked tax documents",
+            "time": "2026-01-30T02:37:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f889/live/de2bbfb0-fd77-11f0-99b2-191dbb1c06a2.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Trump, his sons Donald Trump Jr, Eric Trump and the Trump Organization said in the lawsuit that they suffered reputational and financial harm, along with public embarrassment from leaks to the New York Times and ProPublica, which \"unfairly tarnished\" their business reputations, portrayed them in a false light and negatively affected their public standing, according to the filing.</p></div></div></body></html>"
         },
         {
-            "title": "Fela Kuti to receive Grammys Lifetime Achievement Award",
-            "time": "2026-01-30T00:13:13",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bb23/live/64695ea0-fc6c-11f0-a8b8-bdd2c5f9bcad.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He pioneered the Afrobeat genre alongside drummer Tony Allen, blending West African rhythms, jazz, funk, highlife, extended improvisation, call-and-response vocals and politically charged lyricism.</p></div></div></body></html>"
+            "title": "Ariel Siedman: South Africa expels top Israeli diplomat",
+            "time": "2026-01-30T14:34:32",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4d5c/live/4f5faae0-fdd0-11f0-9312-c321edcbd89a.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Seidman was appointed chargé d'affaires at Israel's embassy in South Africa last year and his role also extends to the neighbouring countries of Eswatini, Lesotho, Madagascar, Mauritius and Namibia.</p></div></div></body></html>"
         },
         {
             "title": "Indonesia: Couple caned 140 times each for sex and alcohol offences",
@@ -66,6 +66,12 @@
             "time": "2026-01-30T00:08:47",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8196/live/4b3831a0-fd6a-11f0-8823-69776c0410a8.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When officers asked him for credentials, Anderson provided a Minnesota driver's licence, claimed be in possession of weapons, and \"displayed and threw\" what authorities described as \"numerous documents\" at jail staff, according to the complaint. </p></div></div></body></html>"
+        },
+        {
+            "title": "Fela Kuti to receive Grammys Lifetime Achievement Award",
+            "time": "2026-01-30T00:13:13",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bb23/live/64695ea0-fc6c-11f0-a8b8-bdd2c5f9bcad.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He pioneered the Afrobeat genre alongside drummer Tony Allen, blending West African rhythms, jazz, funk, highlife, extended improvisation, call-and-response vocals and politically charged lyricism.</p></div></div></body></html>"
         },
         {
             "title": "Iran: Worried families in India urge return of crew on seized ship",
@@ -84,18 +90,6 @@
             "time": "2026-01-30T01:48:09",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c3b8/live/3bbd2080-fc7c-11f0-b9c1-0d3cbd49d190.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Minneapolis, an ICE agent shot and killed 37-year-old Renee Good on 7 January, and a Border Patrol officer shot and killed 37-year-old Alex Pretti on 24 January. Both killings, and the ongoing immigration operation in the state, have sparked protests around the country. The second shooting led Democrats, and some Republicans, to push back on approving DHS funding. </p></div></div></body></html>"
-        },
-        {
-            "title": "Agents in Minneapolis could be pulled back if local officials co-operate, border tsar says",
-            "time": "2026-01-30T07:55:27",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8a77/live/e63b8660-fd7f-11f0-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">After frustration with the administration's handling of Good and Pretti's deaths appeared to reach a boiling point, both on the streets of Minneapolis and in the halls of Capitol Hill, Trump sent Homan to the city to take over the operation, sidelining Border Patrol chief Gregory Bovino, who had also led crackdowns in Chicago and other cities.</p></div></div></body></html>"
-        },
-        {
-            "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
-            "time": "2026-01-29T22:23:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2040/live/f9c934e0-fd41-11f0-a8b8-bdd2c5f9bcad.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Now a senior military source has indicated to Israeli journalists, including those from Haaretz and the <a target=\"_blank\" href=\"https://www.timesofisrael.com/idf-believes-70000-gazans-killed-in-war-as-claimed-by-hamas/\" class=\"sc-f9178328-0 iCaRzc\">Times of Israel</a>, that the total number given by the Hamas health ministry is largely accurate, even though they have not been able to break down how many were combatants and how many died as a direct result of the fighting.</p></div></div></body></html>"
         },
         {
             "title": "Why Iran's response to a US attack could be different this time",
