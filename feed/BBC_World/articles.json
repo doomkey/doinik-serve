@@ -2,16 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Trump says 'it would be great' if US 'didn't have to use' military force on Iran",
+            "time": "2026-01-30T06:12:01",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a18b/live/ece956d0-fdad-11f0-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response, Araghchi said: \"Iran has always welcomed a mutually beneficial, fair and equitable NUCLEAR DEAL - on equal footing, and free from coercion, threats, and intimidation - which ensures Iran's rights to PEACEFUL nuclear technology, and guarantees NO NUCLEAR WEAPONS.\"</p></div></div></body></html>"
+        },
+        {
             "title": "Trump says Putin will not attack Ukraine cities during cold week",
             "time": "2026-01-30T07:48:08",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/61a6/live/6382f330-fd51-11f0-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Temperatures in Kyiv were due to plummet from Thursday and reach -24C (-11F) over the next few days. In recent weeks, Russia has intensified attacks on Ukraine's energy infrastructure, as it has during cold periods since the full-scale invasion began in 2022. </p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Temperatures in Kyiv were due to plummet from Thursday, reaching -24C (-11F) over the next few days. In recent weeks, Russia has intensified attacks on Ukraine's energy infrastructure, as it has during cold periods since the full-scale invasion began in 2022. </p></div></div></body></html>"
         },
         {
-            "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+            "title": "Agents in Minneapolis could be pulled back if local officials co-operate, border tsar says",
             "time": "2026-01-30T07:55:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8a77/live/e63b8660-fd7f-11f0-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Trump's first year back in office, US Immigration and Customs Enforcement (ICE), which is part of DHS, carried out over 480,000 deportations, according to an agency document obtained by the BBC's US partner CBS News. </p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">After frustration with the administration's handling of Good and Pretti's deaths appeared to reach a boiling point, both on the streets of Minneapolis and in the halls of Capitol Hill, Trump sent Homan to the city to take over the operation, sidelining Border Patrol chief Gregory Bovino, who had also led crackdowns in Chicago and other cities.</p></div></div></body></html>"
         },
         {
             "title": "EU adds Iran's Revolutionary Guards to 'terrorist list'",
@@ -20,10 +26,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US-based Human Rights Activists News Agency said it had confirmed the killing of more than 6,301 people, including 5,925 protesters, while another group, the Norway-based Iran Human Rights, said the final toll could exceed 25,000.</p></div></div></body></html>"
         },
         {
+            "title": "Donald Trump sues IRS and US Treasury over leaked tax documents",
+            "time": "2026-01-30T02:37:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f889/live/de2bbfb0-fd77-11f0-99b2-191dbb1c06a2.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Trump, his sons Donald Trump Jr, Eric Trump and the Trump Organization said in the lawsuit that they suffered reputational and financial harm, along with public embarrassment from leaks to the New York Times and ProPublica, which \"unfairly tarnished\" their business reputations, portrayed them in a false light and negatively affected their public standing, according to the filing.</p></div></div></body></html>"
+        },
+        {
             "title": "Man accused of impersonating FBI agent to free Luigi Mangione",
             "time": "2026-01-30T00:08:47",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8196/live/4b3831a0-fd6a-11f0-8823-69776c0410a8.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When officers asked him for credentials, Anderson provided a Minnesota driver's license, claimed be in possession of weapons, and \"displayed and threw\" what authorities described as \"numerous documents\" at jail staff, according to the complaint. </p></div></div></body></html>"
+        },
+        {
+            "title": "Fela Kuti to receive Grammys Lifetime Achievement Award",
+            "time": "2026-01-30T00:13:13",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bb23/live/64695ea0-fc6c-11f0-a8b8-bdd2c5f9bcad.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He pioneered the Afrobeat genre alongside drummer Tony Allen, blending West African rhythms, jazz, funk, highlife, extended improvisation, call-and-response vocals and politically charged lyricism.</p></div></div></body></html>"
         },
         {
             "title": "France moves to abolish concept of marital duty to have sex",
@@ -32,10 +50,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Previously, rape was defined as a sexual act carried out with \"violence, constraint, threat or surprise\". Now it is any act where there is no \"informed,  specific, anterior and revocable\" consent. Silence or an absence of reaction do not imply consent, the law says.</p></div></div></body></html>"
         },
         {
-            "title": "German farm gives away millions of potatoes after bumper harvest",
-            "time": "2026-01-29T17:48:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/73d6/live/8bf25f20-fd30-11f0-890b-55ca0a00c59d.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We can store them until the middle of this year,\" said Hans-Joachim von Massow, Managing Director of <a target=\"_blank\" href=\"https://www.osterland-agrar.com/\" class=\"sc-f9178328-0 iCaRzc\">Osterland Agrar</a>, the agricultural firm that ended up with all the potatoes, after a customer contract was cancelled and settled.</p></div></div></body></html>"
+            "title": "Republicans and Democrats reach funding package deal, US president says",
+            "time": "2026-01-30T01:48:09",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c3b8/live/3bbd2080-fc7c-11f0-b9c1-0d3cbd49d190.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Minneapolis, an ICE agent shot and killed 37-year-old Renee Good on 7 January, and a Border Patrol officer shot and killed 37-year-old Alex Pretti on 24 January. Both killings, and the ongoing immigration operation in the state, have sparked protests around the country. The second shooting led Democrats, and some Republicans, to push back on approving DHS funding. </p></div></div></body></html>"
         },
         {
             "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
@@ -44,22 +62,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Now a senior military source has indicated to Israeli journalists, including those from Haaretz and the <a target=\"_blank\" href=\"https://www.timesofisrael.com/idf-believes-70000-gazans-killed-in-war-as-claimed-by-hamas/\" class=\"sc-f9178328-0 iCaRzc\">Times of Israel</a>, that the total number given by the Hamas health ministry is largely accurate, even though they have not been able to break down how many were combatants and how many died as a direct result of the fighting.</p></div></div></body></html>"
         },
         {
-            "title": "Republicans and Democrats reach funding package deal, US president says",
-            "time": "2026-01-30T01:48:09",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c3b8/live/3bbd2080-fc7c-11f0-b9c1-0d3cbd49d190.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Minneapolis, an ICE agent shot and killed 37-year-old Renee Good on 7 January, and a Border Patrol officer shot and killed 37-year-old Alex Pretti on 24 January. Both killings, and the ongoing immigration operation in the state, have sparked protests around the country. The second shooting led Democrats, and some Republicans, to push back on approving DHS funding. </p></div></div></body></html>"
-        },
-        {
             "title": "Pakistan’s crackdown on dissent about much more than Imran Khan",
             "time": "2026-01-29T23:11:02",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b6e6/live/9791ad00-fd6b-11f0-a8b8-bdd2c5f9bcad.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Dawn newspaper - the oldest in Pakistan, founded in 1941 by the country's founding father, Muhammad Ali Jinnah - has taken a financial hit for its reporting. In December, Dawn Media Group said it had been subject to an unannounced ban on government adverts, firstly on its newspaper, then on its TV and radio outlets, a move the Council of Newspaper Editors said was \"financially crippling the organisation\".</p></div></div></body></html>"
         },
         {
+            "title": "German farm gives away millions of potatoes after bumper harvest",
+            "time": "2026-01-29T17:48:24",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/73d6/live/8bf25f20-fd30-11f0-890b-55ca0a00c59d.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We can store them until the middle of this year,\" said Hans-Joachim von Massow, Managing Director of <a target=\"_blank\" href=\"https://www.osterland-agrar.com/\" class=\"sc-f9178328-0 iCaRzc\">Osterland Agrar</a>, the agricultural firm that ended up with all the potatoes, after a customer contract was cancelled and settled.</p></div></div></body></html>"
+        },
+        {
             "title": "Melania Trump documentary not being shown in South African cinemas",
             "time": "2026-01-29T16:29:28",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/df54/live/5bd8b5d0-fd2d-11f0-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">42 mins ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Agents in Minneapolis could be pulled back if local officials co-operate, border tsar says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Tom Homan says the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Suspected jihadits attack airport near Niger's capital",
@@ -78,6 +96,12 @@
             "time": "2026-01-29T13:31:24",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/97d6/live/4b0d51b0-fd15-11f0-833e-6bf0186607ca.jpg",
             "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">US to prosecute captain of seized oil tanker</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The captain of the Marinera, accused of carrying oil for Venezuela, Russia and Iran, will be prosecuted in a US court.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 days ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "What did UK and China get out of Starmer's reset visit?",
+            "time": "2026-01-30T08:23:12",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/00be/live/b2387e00-fdb5-11f0-8e3f-176b350fc659.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The prime minister's visit, the first in eight years, is a significant moment, signalling the importance of the economic relationship between the UK and China,\" Chris Fitzgerald, group director for international affairs at Octopus Energy told the BBC from China.</p></div></div></body></html>"
         },
         {
             "title": "Why did China execute 11 members of the Myanmar Ming mafia family?",
@@ -102,12 +126,6 @@
             "time": "2026-01-29T06:43:49",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8e76/live/adda0e50-fce3-11f0-a8b8-bdd2c5f9bcad.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">As well as the possibility of a civil war, such as experienced by Syria, Yemen and Libya, there is also the risk that in the chaos and confusion, ethnic tensions could spill over into armed conflict as Kurds, Baluchis and other minorities look to safeguard their own people amid a nationwide power vacuum.</p></div></div></body></html>"
-        },
-        {
-            "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
-            "time": "2026-01-29T16:25:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/354f/live/8973c100-fd24-11f0-a8b8-bdd2c5f9bcad.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Israel responded by launching a military campaign in Gaza, during which more than 71,660 people have been killed, according to the Hamas-run health ministry. Since the ceasefire began on 10 October 2025, at least 492 Palestinians have been killed, the health ministry says, as well as four Israeli soldiers.</p></div></div></body></html>"
         },
         {
             "title": "Watch: Batman tells city council to not assist ICE at Super Bowl",
