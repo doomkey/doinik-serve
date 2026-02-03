@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Thousands of Epstein documents taken down after victims identified",
+            "time": "2026-02-03T15:26:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5c4/live/211248f0-00f5-11f1-8067-e14d6844f3f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The DOJ has violated all three of our requirements,\" she told BBC's Newsday on Tuesday. \"Number one, many documents still haven't been disclosed. Number two, the date set for release has long passed. And number three, DOJ released the names of many of the survivors.\"</p></div></div></body></html>"
+        },
+        {
             "title": "Bill and Hillary Clinton agree to testify on Epstein as vote looms to hold them in contempt of Congress",
             "time": "2026-02-03T15:26:03",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8334/live/3e863430-00b1-11f1-9972-d3f265c101c6.jpg",
@@ -14,28 +20,46 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Finding themselves drifting further and further out from Quindalup beach, in Western Australia, Joanne realised she needed to do something - but she couldn't leave Beau, 12, and Grace, eight, alone.</p></div></div></body></html>"
         },
         {
+            "title": "Seven million cancers a year are preventable, says global report",
+            "time": "2026-02-03T16:00:13",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ad19/live/a2d11e60-0119-11f1-a88f-113f60a613fb.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This landmark study is a comprehensive assessment of preventable cancer worldwide, incorporating for the first time infectious causes of cancer alongside behavioural, environmental, and occupational risks,\" said Soerjomataram, the deputy head of the IARC Cancer Surveillance Unit.</p></div></div></body></html>"
+        },
+        {
+            "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year",
+            "time": "2026-02-03T13:17:53",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6fc5/live/3e3e3370-0119-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">We have met residents who have had no heating in their homes for days, in some cases weeks. They sleep in hats and coats, and under piles of blankets, but it is still bitterly cold.</p></div></div></body></html>"
+        },
+        {
+            "title": "Restored angel fresco resembling Italian PM Meloni sparks investigation",
+            "time": "2026-02-03T14:10:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b4ac/live/bad84ca0-0113-11f1-9972-d3f265c101c6.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Valentinetti, 83, denied the claims. \"The restored face is the one that was painted 25 years ago,\" he said, in remarks reported by news agency AGI.</p></div></div></body></html>"
+        },
+        {
             "title": "X offices raided in France as UK opens fresh investigation into Grok",
             "time": "2026-02-03T13:46:18",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/96f8/live/12bc3eb0-00ea-11f1-8974-f3140348ffed.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The reports about Grok raise deeply troubling questions about how people's personal data has been used to generate intimate or sexualised images without their knowledge or consent, and whether the necessary safeguards were put in place to prevent this,\" said William Malcolm, the ICO's executive director for regulatory risk &amp; innovation.</p></div></div></body></html>"
         },
         {
-            "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year",
-            "time": "2026-02-03T13:17:53",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9319/live/37732790-00aa-11f1-b404-95758ad66481.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">We have met residents who have had no heating in their homes for days, in some cases weeks. They sleep in hats and coats, and under piles of blankets, but it is still bitterly cold.</p></div></div></body></html>"
+            "title": "Brazil: 15 dead after bus carrying pilgrims overturns in Alagoas",
+            "time": "2026-02-03T16:39:57",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9fa2/live/2170f5d0-0118-11f1-9972-d3f265c101c6.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bueno Higino Filho, mayor of Coité do Noia, <a target=\"_blank\" href=\"https://diariodonordeste.verdesmares.com.br/ceara/onibus-que-partiu-de-juazeiro-do-norte-capota-e-15-romeiros-morrem-em-alagoas-1.3739552\" class=\"sc-f9178328-0 iCaRzc\">told local media:</a> \"The loss is immense. They were all my friends... I woke up today to the sad news and I'm heading to the site of the accident to see what we can do [to help].\"</p></div></div></body></html>"
         },
         {
             "title": "Son of Norway's crown princess hears details of rape charges in tense trial for royal family",
-            "time": "2026-02-03T14:46:52",
+            "time": "2026-02-03T16:19:18",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0581/live/cb17b6c0-0062-11f1-a8b8-bdd2c5f9bcad.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">However, the leader of Norway's Green Party, Arild Hermstad, who is a republican says the email exchanges point to a monarchy that is not working: \"It really puts not only the royal family in a big squeeze, but also for Norway itself, how do you actually solve this? At least she has to be very honest and frank.\"</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mette-Marit, who married the crown prince when her son was four, has admitted showing \"poor judgement\", but the fallout has already begun, with one organisation dropping her as patron for its annual prize.</p></div></div></body></html>"
         },
         {
-            "title": "Trump seeks $1bn in damages from Harvard",
-            "time": "2026-02-03T07:08:03",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/332e/live/5e7b4210-00db-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Three other Ivy League universities, Columbia, Penn and Brown, struck deals with Trump to preserve funding that was at risk due to similar claims by the administration, rather than go to court.</p></div></div></body></html>"
+            "title": "Two arrested over attempted sabotage of German naval vessels",
+            "time": "2026-02-03T16:30:11",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/63c4/live/8d54a9c0-010b-11f1-87ac-6bcb44a3becd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy,\" the EU's Eurojust crime agency said in a statement.</p></div></div></body></html>"
         },
         {
             "title": "Chappell Roan says revealing Grammys outfit wasn't 'that outrageous'",
@@ -56,40 +80,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Directorate General of Civil Aviation (DGCA) said on Tuesday that when the switches were operated according to Boeing's recommended procedure, they were found to be \"satisfactory\", staying at run instead of moving to cut-off (which can stop fuel supply to the engines).</p></div></div></body></html>"
         },
         {
-            "title": "Restored angel fresco resembling Italian PM Meloni sparks investigation",
-            "time": "2026-02-03T14:10:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b4ac/live/bad84ca0-0113-11f1-9972-d3f265c101c6.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Valentinetti, 83, denied the claims. \"The restored face is the one that was painted 25 years ago,\" he said, in remarks reported by news agency AGI.</p></div></div></body></html>"
+            "title": "Trump seeks $1bn in damages from Harvard",
+            "time": "2026-02-03T07:08:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/332e/live/5e7b4210-00db-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Three other Ivy League universities, Columbia, Penn and Brown, struck deals with Trump to preserve funding that was at risk due to similar claims by the administration, rather than go to court.</p></div></div></body></html>"
         },
         {
             "title": "Iran's president says it is ready to negotiate with the US",
             "time": "2026-02-03T09:35:01",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ca2d/live/3fffa0e0-00c9-11f1-8fbb-d70779046d18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">US-based Human Rights Activists News Agency (HRANA) says it has confirmed the deaths of 6,430 protesters, 152 children and 214 people associated with the government. It is still investigating some 11,280 cases. </p></div></div></body></html>"
-        },
-        {
-            "title": "China bans hidden car door handles over safety concerns",
-            "time": "2026-02-03T02:06:29",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/49e5/live/b9e22840-00d0-11f1-a266-e3d9153f08c1.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In November, the US National Highway Traffic Safety Administration (NHTSA) opened a probe focused on Tesla's electric-powered door handles, responding to reports that they suddenly stopped working, leaving children trapped in the cars.</p></div></div></body></html>"
-        },
-        {
-            "title": "Petro to meet Trump at White House - after months of angry rhetoric",
-            "time": "2026-02-03T00:00:32",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fab4/live/25a268d0-ffcb-11f0-b669-eb89c7ddc639.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Much of that border is under the sway of the National Liberation Army, or ELN. This Colombian guerrilla group, which was founded in the 1960s, controls drug trafficking, extortion, contraband and illegal mining of gold and coltan in border states such as Zulia, Táchira, Apure, and Amazonas - and works with corrupt elements of the Venezuelan government.</p></div></div></body></html>"
-        },
-        {
-            "title": "Gaza: Israel reopens key Rafah border crossing with Egypt",
-            "time": "2026-02-03T09:02:36",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/65c7/live/18bf71c0-001c-11f1-9e04-5db2d8d50a62.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"She used to be treated through monitoring, ultrasound imaging and tests to check the condition of her kidneys. Since the war started, because of food shortages, hunger, and the food she was forced to eat, she began dialysis,\" Da'ma said.</p></div></div></body></html>"
-        },
-        {
-            "title": "Fifa president Gianni Infantino called 'infantile' for wanting to lift Russia ban - BBC Sport",
-            "time": "2026-02-03T09:50:53",
-            "imgUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8436/live/463d09d0-00d7-11f1-aa82-6f1782137694.jpg",
-            "body": "<html><body><div><div class=\"ssrcss-1o5p6v2-RichTextContainer e5tfeyi1\"><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Infantino was awarded the Russian Order of Friendship medal by president Vladimir Putin after Russia hosted the 2018 World Cup.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">However, since Russia's ban, they have been unable to compete at the 2022 World Cup and and Uefa's Euro 2024 and the country will not be part of the 2026 World Cup.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Russia has not completely stopped playing international football as they have played matches against non-Western nations without needing the permission of Fifa or Uefa.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"War is a crime, not politics,\" added Bidnyi. \"It is Russia that politicises sport and uses it to justify aggression. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I share the position of the Ukrainian Association of Football, which also warns against Russia's return to international competitions.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"As long as Russians continue killing Ukrainians and politicising sport, their flag and national symbols have no place among people who respect values such as justice, integrity and fair play.\"</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Serhii Palkin, chief executive of Ukrainian club Shakhtar Donetsk, said Infantino's comments \"represent a complete detachment from reality\". </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"It is an attempt to pretend that war and aggression do not exist,\" he added.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"Football cannot exist outside reality and it has no right to turn a blind eye to evil.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"Such a decision carries responsibility, including responsibility for complicity in the silencing of war crimes.\"</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Shakhtar, 15-time Ukrainian champions, have not played home matches in Donetsk since 2014 due to the war in eastern Donbas.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">They have played at several different 'home' venues in the 12 years since, including in Poland and Germany. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Last year, <a href=\"/sport/articles/c99gl4pyn02o\" class=\"ssrcss-ckhpdl-InlineLink e1kn3p7n0\">Ukraine criticised the International Paralympic Committee's (IPC) decision</a> to lift a ban on athletes from Russia and its close ally Belarus.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">The Ukrainian National Paralympic Committee said the IPC had allowed Russia and Belarus to \"raise their flags, drenched in the blood of hundreds of thousands of people\".</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Despite the IPC lifting its ban, Russian and Belarusian Para-athletes will not be at next month's Winter Paralympics. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Although the IPC oversees the Games, there are four separate governing bodies in charge of the six sports taking place in Milan and Cortina d'Ampezzo.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Three of the governing bodies have decided to keep their bans on athletes from the two countries, and although Russia and Belarus are now allowed to compete in ice hockey, the decision came too late for them to take part in qualifying.</p></div></div></body></html>"
         },
         {
             "title": "Makoko demolitions: Shanties in Lagos Lagoon in Nigeria bulldozed and burnt",
