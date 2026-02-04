@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Russian attacks on Ukraine energy sites 'particularly depraved', Starmer says",
+            "time": "2026-02-04T08:08:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ee26/live/3ec09de0-019d-11f1-a8b8-bdd2c5f9bcad.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"It's a lot, you know, one week, we'll take anything, because it's really, really cold over there.\" </p></div></div></body></html>"
+        },
+        {
             "title": "Thousands of Epstein documents taken down after victims identified",
             "time": "2026-02-03T15:26:48",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5c4/live/211248f0-00f5-11f1-8067-e14d6844f3f6.jpg",
@@ -16,7 +22,7 @@
         {
             "title": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly shot dead",
             "time": "2026-02-04T01:37:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a17/live/cfe00bd0-0134-11f1-a8b8-bdd2c5f9bcad.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2777/live/567d42b0-01a4-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In 2015, he was given a death sentence in absentia for his role in the crackdown by a court in Tripoli<b id=\",\" class=\"sc-d16436d-0 gnUCoQ\">, </b>in the west of the country, where control is in the hands of the UN-backed government.</p></div></div></body></html>"
         },
         {
@@ -32,14 +38,8 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Home for Javier is a bare breeze block house, with no glass in some of the windows, and the sound of children's laughter coming from inside. He has five daughters - \"the most beautiful thing God has given me\", he says. His eldest is in college, studying to be a teacher.</p></div></div></body></html>"
         },
         {
-            "title": "Spain announces plans to ban social media for under-16s",
-            "time": "2026-02-03T20:32:33",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2967/live/4c998620-012a-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Under the changes, social media platforms would be required to have effective age verification systems, \"not just check boxes, but real barriers that work,\" the prime minister explained, in a possible reference to the loopholes Australian children use to bypass checks - including simply using a photo of an adult. </p></div></div></body></html>"
-        },
-        {
-            "title": "Fourteen migrants dead after collision with Greek coastguard boat",
-            "time": "2026-02-03T22:41:06",
+            "title": "Fifteen migrants dead after collision with Greek coastguard boat",
+            "time": "2026-02-04T08:06:21",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1598/live/7e5088c0-014e-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A search and rescue operation was ongoing on Tuesday night, which involved four coastguard vessels, a privately owned boat carrying civilian divers, and a helicopter.</p></div></div></body></html>"
         },
@@ -68,10 +68,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Former US President Bill Clinton and his wife Hillary Clinton, the former Secretary of State, have agreed to testify in the congressional investigation into late sex offender Jeffrey Epstein, allowing them to avoid being found in contempt of Congress.</p></div></div></body></html>"
         },
         {
-            "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year",
-            "time": "2026-02-03T13:17:53",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6fc5/live/3e3e3370-0119-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">We have met residents who have had no heating in their homes for days, in some cases weeks. They sleep in hats and coats, and under piles of blankets, but it is still bitterly cold.</p></div></div></body></html>"
+            "title": "Spain announces plans to ban social media for under-16s",
+            "time": "2026-02-03T20:32:33",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2967/live/4c998620-012a-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Under the changes, social media platforms would be required to have effective age verification systems, \"not just check boxes, but real barriers that work,\" the prime minister explained, in a possible reference to the loopholes Australian children use to bypass checks - including simply using a photo of an adult. </p></div></div></body></html>"
         },
         {
             "title": "France teacher fighting for life after knife attack by pupil",
