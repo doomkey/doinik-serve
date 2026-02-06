@@ -2,16 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "US and Iran hold talks as fears of direct conflict continue",
-            "time": "2026-02-06T11:41:26",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Human Rights Activists News Agency, a Washington-based group, said it had confirmed at least 6,883 deaths, warning that the number could be much higher, and that more than 50,000 people had been arrested.</p></div></div></body></html>"
-        },
-        {
             "title": "More than 30 killed in blast at Pakistan mosque, officials say",
             "time": "2026-02-06T11:30:05",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bd22/live/6b5737d0-0349-11f1-a423-8bf34c43c5e3.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At least 30 people have been killed and more than 100 injured in an explosion at a mosque during Friday prayers in Pakistan's capital, Islamabad, according to local officials. </p></div></div></body></html>"
+        },
+        {
+            "title": "US and Iran hold talks as fears of direct conflict continue",
+            "time": "2026-02-06T11:41:26",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Human Rights Activists News Agency, a Washington-based group, said it had confirmed at least 6,883 deaths, warning that the number could be much higher, and that more than 50,000 people had been arrested.</p></div></div></body></html>"
         },
         {
             "title": "Russian general Alexeyev shot several times in Moscow attack",
@@ -33,7 +33,7 @@
         },
         {
             "title": "TikTok told by EU to change 'addictive design' or face fines",
-            "time": "2026-02-06T12:53:40",
+            "time": "2026-02-06T13:55:46",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6ce4/live/87e7b660-0351-11f1-8dce-5f79cab4f7bf.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In its <a target=\"_blank\" href=\"https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act\" class=\"sc-f9178328-0 iCaRzc\">preliminary findings</a>, the Commission said TikTok did not \"adequately assess\" how features like autoplay could harm the wellbeing of its users, including children, and said it failed to implement measures to mitigate the risks.</p></div></div></body></html>"
         },
@@ -75,8 +75,8 @@
         },
         {
             "title": "Pandora to switch from silver to platinum over price surge",
-            "time": "2026-02-06T12:18:23",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/03a5/live/c411a200-0346-11f1-9d05-c7b737bbaef1.jpg",
+            "time": "2026-02-06T13:36:24",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/95f1/live/b679d450-035f-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Saks files for bankruptcy. What went wrong at the luxury retailer?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Saks Global, which owns Saks Fifth Avenue and Neiman Marcus, files for Chapter 11 bankruptcy protection, leaving questions about the luxury retailer's future.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">14 Jan 2026</span></p></div></div></body></html>"
         },
         {
