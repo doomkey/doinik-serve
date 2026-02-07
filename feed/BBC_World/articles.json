@@ -2,16 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
+            "time": "2026-02-07T11:53:53",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ca7f/live/44b1bfc0-0415-11f1-9154-2f1cc68521d4.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Kyiv, residents once again took shelter in metro stations. Among them, Oksana Kykhtenko, told the Reuters news agency: \"They [Russians] make us live in inhumane conditions. Without heating, without electricity.\" </p></div></div></body></html>"
+        },
+        {
             "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
             "time": "2026-02-07T01:36:32",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f7/live/cd988f30-03d9-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Before it was removed, Derrick Johnson, the president of the National Association for the Advancement of Colored People, or NAACP, called the video \"disgusting and utterly despicable\" and accused Trump of attempting to distract the public from the Epstein case and a \"rapidly failing economy.\" </p></div></div></body></html>"
-        },
-        {
-            "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
-            "time": "2026-02-07T08:06:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea0/live/6c5339b0-03ba-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The order, issued on Friday, does not specify the rate that could be imposed, but uses 25% as an example. It says the tariff could apply to goods imported into the US from any nation that \"directly or indirectly purchases, imports, or otherwise acquires any goods or services from Iran\".</p></div></div></body></html>"
         },
         {
             "title": "Winter Olympics 2026 opening ceremony: Milan-Cortina Games open as Mariah Carey & Andrea Bocelli perform - BBC Sport",
@@ -29,13 +29,7 @@
             "title": "Colorado funeral home director sentenced to 40 years for abusing corpses",
             "time": "2026-02-07T02:48:39",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ea3b/live/726f34c0-03c4-11f1-b7e1-afb6d0884c18.png",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
-            "time": "2026-02-06T20:27:57",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3020/live/3aec1150-0110-11f1-a8b8-bdd2c5f9bcad.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They took perfumes, accessories, make-up, cigarettes, headphones - everything, they didn't leave anything with us,\" one woman told the BBC.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">9 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Police probe new message in search for mother of Savannah Guthrie",
@@ -44,10 +38,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At a briefing on Thursday, FBI Special Agent Heith Janke said his agency was reviewing one of the notes, which he called a possible ransom note. It gave a deadline for payment of 17:00 on Thursday, he said, without specifying which time zone, and had a second deadline for Monday.</p></div></div></body></html>"
         },
         {
-            "title": "US intervention in Iran: What Iranians inside and outside the country say",
-            "time": "2026-02-07T02:03:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6d1a/live/81d45950-03b4-11f1-a90b-f3a352c39d66.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I don't know how many have been killed, how many are injured, or who is missing. I don't know how to reach mothers, fathers, brothers, sisters, wives, husbands, or children to offer condolences and express solidarity,\" he said.</p></div></div></body></html>"
+            "title": "Fugu feud: Zambians and Ghanaians clash on social media over president's outfit",
+            "time": "2026-02-07T09:54:55",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f54b/live/03b99790-038e-11f1-a36d-4dc7f32cefeb.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When Ghana's President John Dramani Mahama arrived for a three-day State Visit on Wednesday, he was proudly sporting a fugu - a traditional northern Ghanaian outfit made from hand‑woven, narrow strips of thick cotton fabric stitched together to form a structured, poncho‑style garment.</p></div></div></body></html>"
+        },
+        {
+            "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
+            "time": "2026-02-07T08:06:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea0/live/6c5339b0-03ba-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The order, issued on Friday, does not specify the rate that could be imposed, but uses 25% as an example. It says the tariff could apply to goods imported into the US from any nation that \"directly or indirectly purchases, imports, or otherwise acquires any goods or services from Iran\".</p></div></div></body></html>"
         },
         {
             "title": "Pakistan mosque explosion: More than 30 dead and 169 injured, officials say",
@@ -56,10 +56,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Amaq alleged that the IS attacker arrived at the \"central temple [mosque]\" in Tarlai district in the Shahzad area. Guards at the location then tried to halt the attacker at the external gate, it claimed, but he fired his pistol at them, injuring two, before heading inside.</p></div></div></body></html>"
         },
         {
-            "title": "Talks with US set to continue after 'good beginning', Iran's foreign minister says",
-            "time": "2026-02-06T17:59:08",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Human Rights Activists News Agency, a Washington-based group, said it had confirmed at least 6,941 deaths, warning the number could be much higher, and that more than 50,000 people had been arrested.</p></div></div></body></html>"
+            "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+            "time": "2026-02-06T20:27:57",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3020/live/3aec1150-0110-11f1-a8b8-bdd2c5f9bcad.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They took perfumes, accessories, make-up, cigarettes, headphones - everything, they didn't leave anything with us,\" one woman told the BBC.</p></div></div></body></html>"
         },
         {
             "title": "Russian general Alexeyev shot several times in Moscow attack",
@@ -68,16 +68,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In December 2025, another high-ranking officer in the GRU, Lt Gen Fanil Sarvarov, was killed when an explosive device detonated under a car in Moscow. He was in charge of the armed force's operational training department, according to Russia's SK.</p></div></div></body></html>"
         },
         {
-            "title": "Zambia fisherman fleeing elephants killed by crocodile",
-            "time": "2026-02-06T14:47:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/89d9/live/809bb1e0-036a-11f1-bab5-81d0d0b0abce.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Of the 26 wildlife-related deaths recorded in 2023, 15 were caused by crocodile attacks, most of them along the Luangwa River, according to Resource Africa, a community-led conservation NGO.</p></div></div></body></html>"
-        },
-        {
             "title": "Queen Elizabeth II: Coin portrait of late monarch criticised in Australia",
             "time": "2026-02-06T11:53:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c421/live/a7f290a0-0343-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">These include motifs of a horse and corgi, references to art and theatre to mark \"her enduring support for culture\", as well as some of her favourite flowers - roses and lily of the valley. The golden wattle, Australia's national floral emblem, is also represented. </p></div></div></body></html>"
+        },
+        {
+            "title": "Zambia fisherman fleeing elephants killed by crocodile",
+            "time": "2026-02-06T14:47:22",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/89d9/live/809bb1e0-036a-11f1-bab5-81d0d0b0abce.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Of the 26 wildlife-related deaths recorded in 2023, 15 were caused by crocodile attacks, most of them along the Luangwa River, according to Resource Africa, a community-led conservation NGO.</p></div></div></body></html>"
         },
         {
             "title": "Suspected Chinese spies arrested in quiet French town",
@@ -86,10 +86,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to the prosecutor's office, the suspected spies were trying to \"capture satellite data from [X owner Elon Musk's] Starlink network, as well as data from vital entities, notably military, in order to retransmit them to their country of origin, China\".</p></div></div></body></html>"
         },
         {
-            "title": "FBI fugitive found hiding in north Wales set for extradited to USA",
-            "time": "2026-02-06T11:53:11",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d738/live/8c09efb0-f857-11f0-9902-5de431bad348.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Daniel Andreas San Diego, 47, was one of the agency's \"most wanted fugitives\" after bombings in San Francisco, California, in 2003.</p></div></div></body></html>"
+            "title": "US intervention in Iran: What Iranians inside and outside the country say",
+            "time": "2026-02-07T02:03:39",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6d1a/live/81d45950-03b4-11f1-a90b-f3a352c39d66.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I don't know how many have been killed, how many are injured, or who is missing. I don't know how to reach mothers, fathers, brothers, sisters, wives, husbands, or children to offer condolences and express solidarity,\" he said.</p></div></div></body></html>"
         },
         {
             "title": "Why countries like Ghana, Benin and Guinea are courting African American stars",
@@ -126,12 +126,6 @@
             "time": "2026-02-06T15:58:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3f5f/live/691e2600-0370-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They came en masse in the name of religion, and they decided to kill our people,\" Abdulla Umar Usman, a former teacher and resident of Woro, told the BBC, explaining how the attack, in which at least 75 people are so far known to have been killed, unfolded.</p></div></div></body></html>"
-        },
-        {
-            "title": "Watch: Trump has called to nationalise US elections. Is it a big deal?",
-            "time": "2026-02-06T22:48:07",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dd13/live/19798a90-03ac-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">US President Donald Trump has urged Republicans to \"nationalise\" elections while repeating his false claims of 2020 election fraud in a podcast interview.</p><p class=\"sc-9a00e533-0 eZyhnA\">The US Constitution says that individual states determine how they carry out elections, and voting has long been administered by local officials across the country.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's Washington correspondent Daniel Bush explains why the president's comments are causing a stir in a midterm election year. </p><p class=\"sc-9a00e533-0 eZyhnA\"><i id=\"video-edited-by-alex-foster,-filmed-by-blanca-estrada\" class=\"sc-d16436d-0 iVdNuz\">Video edited by Alex Foster, filmed by Blanca Estrada</i></p></div></div></body></html>"
         },
         {
             "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
