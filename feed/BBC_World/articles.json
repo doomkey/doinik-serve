@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "France investigates ex-minister Jack Lang over Epstein links",
+            "time": "2026-02-07T18:10:55",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cead/live/a44d7860-043e-11f1-ac32-dfe0213e34da.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She said his lawyers had set up a company, Prytanee LLC, based in the US Virgin Islands.<b id=\"\" class=\"sc-d16436d-0 gnUCoQ\"> </b>Mediapart said Caroline Lang had received half of the shares, but she said she had not invested in it or received any funds from it.</p></div></div></body></html>"
+        },
+        {
             "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
             "time": "2026-02-07T14:05:01",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0223/live/a3873ed0-0415-11f1-9154-2f1cc68521d4.jpg",
@@ -32,12 +38,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Police said a track switch was set alight near Pesaro, on the Adriatic coast. Several hours later, police discovered severed electric cables near Bologna, along with a rudimentary explosive device left by a track nearby. </p></div></div></body></html>"
         },
         {
-            "title": "France investigates ex-minister Jack Lang over Epstein links",
-            "time": "2026-02-07T18:10:55",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cead/live/a44d7860-043e-11f1-ac32-dfe0213e34da.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She said his lawyers had set up a company, Prytanee LLC, based in the US Virgin Islands.<b id=\"\" class=\"sc-d16436d-0 gnUCoQ\"> </b>Mediapart said Caroline Lang had received half of the shares, but she said she had not invested in it or received any funds from it.</p></div></div></body></html>"
-        },
-        {
             "title": "S Korean crypto firm accidentally pays out $40bn in bitcoin",
             "time": "2026-02-07T13:56:49",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9d0b/live/4e5baa40-0424-11f1-9972-d3f265c101c6.jpg",
@@ -46,14 +46,14 @@
         {
             "title": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
             "time": "2026-02-06T23:05:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db9c/live/c4d85830-02a8-11f1-83b0-21555a6f44a1.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/68fe/live/20d42010-047a-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other long-held priorities have also faded from her campaign, including weapons exports, an anti-espionage law and immigration reform. This tactic, observers say, is less about policy and more about keeping her high position in the polls.</p></div></div></body></html>"
         },
         {
             "title": "Colorado funeral home director sentenced to 40 years for abusing corpses",
             "time": "2026-02-07T02:48:39",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ea3b/live/726f34c0-03c4-11f1-b7e1-afb6d0884c18.png",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">3 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Fugu feud: Zambians and Ghanaians clash on social media over president's outfit",
@@ -90,6 +90,12 @@
             "time": "2026-02-06T11:53:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c421/live/a7f290a0-0343-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">These include motifs of a horse and corgi, references to art and theatre to mark \"her enduring support for culture\", as well as some of her favourite flowers - roses and lily of the valley. The golden wattle, Australia's national floral emblem, is also represented. </p></div></div></body></html>"
+        },
+        {
+            "title": "Julie Inman Grant: The woman tasked with kicking Australian kids off social media",
+            "time": "2026-02-07T19:22:08",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ebb/live/dd0e8440-0327-11f1-9deb-9fec290cc1e6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When the job of eSafety Commissioner came up, she bashfully explains there was a small pool of candidates to choose from. The man who helped write the bill, Malcolm Turnbull, went on to become prime minister. He hired her and, she says, wanted a commissioner with a background in online safety, but also experience in the tech sector itself.</p></div></div></body></html>"
         },
         {
             "title": "'I don't want to imagine what happened' - Shock and disbelief in area Savannah Guthrie's mother went missing",
@@ -132,12 +138,6 @@
             "time": "2026-02-07T00:42:45",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a2f1/live/6e3f3700-0311-11f1-8727-2dfe1c773f32.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The place is frequented by students, their parents, teachers and book lovers. Regular visitors seem to know their way around the library and find the books they need with ease. And even if they can't, they say, Gowda can find anything.</p></div></div></body></html>"
-        },
-        {
-            "title": "Kwara attack survivors in Nigeria: 'They sent a letter asking to preach. Then they massacred us'",
-            "time": "2026-02-06T15:58:43",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3f5f/live/691e2600-0370-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They came en masse in the name of religion, and they decided to kill our people,\" Abdulla Umar Usman, a former teacher and resident of Woro, told the BBC, explaining how the attack, in which at least 75 people are so far known to have been killed, unfolded.</p></div></div></body></html>"
         },
         {
             "title": "Pakistan mosque explosion: where the attack unfolded",
