@@ -3,7 +3,7 @@
     "articles": [
         {
             "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
-            "time": "2026-02-07T13:02:44",
+            "time": "2026-02-07T14:05:01",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0223/live/a3873ed0-0415-11f1-9154-2f1cc68521d4.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Kyiv, residents once again took shelter in metro stations. Among them, Oksana Kykhtenko, told the Reuters news agency: \"They [Russians] make us live in inhumane conditions. Without heating, without electricity.\" </p></div></div></body></html>"
         },
@@ -32,10 +32,10 @@
             "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">10 hrs ago</span></p></div></div></body></html>"
         },
         {
-            "title": "Police probe new message in search for mother of Savannah Guthrie",
-            "time": "2026-02-07T03:59:18",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/40b4/live/00fd4170-03b4-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At a briefing on Thursday, FBI Special Agent Heith Janke said his agency was reviewing one of the notes, which he called a possible ransom note. It gave a deadline for payment of 17:00 on Thursday, he said, without specifying which time zone, and had a second deadline for Monday.</p></div></div></body></html>"
+            "title": "S Korean crypto firm accidentally pays out $40bn in bitcoin",
+            "time": "2026-02-07T13:56:49",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9d0b/live/4e5baa40-0424-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In April 2024 Citigroup, a US bank, mistakenly credited $81 trillion, instead of $280, to a customer's account. Two employees failed to spot the error before it was processed, but the bank reversed the transaction within hours after a third employee caught the mistake, the Financial Times reported.</p></div></div></body></html>"
         },
         {
             "title": "Fugu feud: Zambians and Ghanaians clash on social media over president's outfit",
@@ -44,10 +44,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When Ghana's President John Dramani Mahama arrived for a three-day State Visit on Wednesday, he was proudly sporting a fugu - a traditional northern Ghanaian outfit made from hand‑woven, narrow strips of thick cotton fabric stitched together to form a structured, poncho‑style garment.</p></div></div></body></html>"
         },
         {
+            "title": "Police probe new message in search for mother of Savannah Guthrie",
+            "time": "2026-02-07T03:59:18",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/40b4/live/00fd4170-03b4-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At a briefing on Thursday, FBI Special Agent Heith Janke said his agency was reviewing one of the notes, which he called a possible ransom note. It gave a deadline for payment of 17:00 on Thursday, he said, without specifying which time zone, and had a second deadline for Monday.</p></div></div></body></html>"
+        },
+        {
             "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
             "time": "2026-02-07T08:06:45",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea0/live/6c5339b0-03ba-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The order, issued on Friday, does not specify the rate that could be imposed, but uses 25% as an example. It says the tariff could apply to goods imported into the US from any nation that \"directly or indirectly purchases, imports, or otherwise acquires any goods or services from Iran\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Russian general Alexeyev shot several times in Moscow attack",
+            "time": "2026-02-06T16:39:38",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dbbc/live/8c424470-0331-11f1-bb5c-eb75deabbf98.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In December 2025, another high-ranking officer in the GRU, Lt Gen Fanil Sarvarov, was killed when an explosive device detonated under a car in Moscow. He was in charge of the armed force's operational training department, according to Russia's SK.</p></div></div></body></html>"
         },
         {
             "title": "Pakistan mosque explosion: More than 30 dead and 169 injured, officials say",
@@ -60,12 +72,6 @@
             "time": "2026-02-06T20:27:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3020/live/3aec1150-0110-11f1-a8b8-bdd2c5f9bcad.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They took perfumes, accessories, make-up, cigarettes, headphones - everything, they didn't leave anything with us,\" one woman told the BBC.</p></div></div></body></html>"
-        },
-        {
-            "title": "Russian general Alexeyev shot several times in Moscow attack",
-            "time": "2026-02-06T16:39:38",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dbbc/live/8c424470-0331-11f1-bb5c-eb75deabbf98.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In December 2025, another high-ranking officer in the GRU, Lt Gen Fanil Sarvarov, was killed when an explosive device detonated under a car in Moscow. He was in charge of the armed force's operational training department, according to Russia's SK.</p></div></div></body></html>"
         },
         {
             "title": "Queen Elizabeth II: Coin portrait of late monarch criticised in Australia",
@@ -101,7 +107,7 @@
             "title": "Could Bad Bunny set off political fireworks at the Super Bowl half-time show?",
             "time": "2026-02-07T00:00:14",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d25f/live/9c81e3f0-02f4-11f1-9da9-adf2eaae92f2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bad Bunny has said he feels a responsibility, as someone with influence, to highlight important issues. He has consistently used his platform and music to not only showcase his culture, but support the LGBTQ community and advocate for Puerto Rico's self-determination, which has remained an overseas US territory since 1898. </p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bad Bunny has said he feels a responsibility, as someone with influence, to highlight important issues. He has consistently used his platform and music to not only showcase his culture, but support the LGBTQ+ community and advocate for Puerto Rico's self-determination, which has remained an overseas US territory since 1898. </p></div></div></body></html>"
         },
         {
             "title": "'I dreamed of becoming a K-pop idol - but I felt like I was scammed'",
