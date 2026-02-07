@@ -2,16 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
-            "time": "2026-02-07T01:28:56",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea0/live/6c5339b0-03ba-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">It read: \"The President is holding Iran accountable for its pursuit of nuclear capabilities, support for terrorism, ballistic missile development, and regional destabilization that endanger American security, allies, and interests.\" </p></div></div></body></html>"
-        },
-        {
             "title": "Trump removes video with racist clip depicting Obamas as apes",
             "time": "2026-02-07T01:36:32",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f7/live/cd988f30-03d9-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Before it was removed, Derrick Johnson, the president of the National Association for the Advancement of Colored People, or NAACP, called the video \"disgusting and utterly despicable\" and accused Trump of attempting to distract the public from the Epstein case and a \"rapidly failing economy.\" </p></div></div></body></html>"
+        },
+        {
+            "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
+            "time": "2026-02-07T01:28:56",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ea0/live/6c5339b0-03ba-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">It read: \"The President is holding Iran accountable for its pursuit of nuclear capabilities, support for terrorism, ballistic missile development, and regional destabilization that endanger American security, allies, and interests.\" </p></div></div></body></html>"
         },
         {
             "title": "Winter Olympics 2026 opening ceremony: Milan-Cortina Games open as Mariah Carey & Andrea Bocelli perform - BBC Sport",
@@ -26,10 +26,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other long-held priorities have also faded from her campaign, including weapons exports, an anti-espionage law and immigration reform. This tactic, observers say, is less about policy and more about keeping her high position in the polls.</p></div></div></body></html>"
         },
         {
-            "title": "Russian general Alexeyev shot several times in Moscow attack",
-            "time": "2026-02-06T16:39:38",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dbbc/live/8c424470-0331-11f1-bb5c-eb75deabbf98.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In December 2025, another high-ranking officer in the GRU, Lt Gen Fanil Sarvarov, was killed when an explosive device detonated under a car in Moscow. He was in charge of the armed force's operational training department, according to Russia's SK.</p></div></div></body></html>"
+            "title": "Bad Bunny has the Super Bowl stage. What will he do with it?",
+            "time": "2026-02-07T00:00:14",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d25f/live/9c81e3f0-02f4-11f1-9da9-adf2eaae92f2.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bad Bunny has said he feels a responsibility, as someone with influence, to highlight important issues. He has consistently used his platform and music to not only showcase his culture, but support the LGBTQ community and advocate for Puerto Rico's self-determination, which has remained an overseas US territory since 1898. </p></div></div></body></html>"
         },
         {
             "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
@@ -54,6 +54,12 @@
             "time": "2026-02-06T17:59:08",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Human Rights Activists News Agency, a Washington-based group, said it had confirmed at least 6,941 deaths, warning the number could be much higher, and that more than 50,000 people had been arrested.</p></div></div></body></html>"
+        },
+        {
+            "title": "Russian general Alexeyev shot several times in Moscow attack",
+            "time": "2026-02-06T16:39:38",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dbbc/live/8c424470-0331-11f1-bb5c-eb75deabbf98.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In December 2025, another high-ranking officer in the GRU, Lt Gen Fanil Sarvarov, was killed when an explosive device detonated under a car in Moscow. He was in charge of the armed force's operational training department, according to Russia's SK.</p></div></div></body></html>"
         },
         {
             "title": "Zambia fisherman fleeing elephants killed by crocodile",
@@ -84,12 +90,6 @@
             "time": "2026-02-06T13:55:46",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6ce4/live/87e7b660-0351-11f1-8dce-5f79cab4f7bf.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In its <a target=\"_blank\" href=\"https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act\" class=\"sc-f9178328-0 iCaRzc\">preliminary findings</a>, the Commission said TikTok did not \"adequately assess\" how features like autoplay could harm the wellbeing of its users, including children, and said it failed to implement measures to mitigate the risks.</p></div></div></body></html>"
-        },
-        {
-            "title": "US-South Africa funding: As American cash dries up the fight to stop Aids gets harder",
-            "time": "2026-02-06T17:57:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f986/live/20141400-0380-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I often say to people, in order to end the epidemic for the world, we really do need to end the epidemic in South Africa. If we do not contain it, close it down, shut it down, we stand the huge risk of it continuing for decades.\"</p></div></div></body></html>"
         },
         {
             "title": "Ukrainian mother's joy after phone call with son she thought had been killed",
@@ -146,12 +146,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They came en masse in the name of religion, and they decided to kill our people,\" Abdulla Umar Usman, a former teacher and resident of Woro, told the BBC, explaining how the attack, in which at least 75 people are so far known to have been killed, unfolded.</p></div></div></body></html>"
         },
         {
-            "title": "Bad Bunny has the Super Bowl stage. What will he do with it?",
-            "time": "2026-02-07T00:00:14",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d25f/live/9c81e3f0-02f4-11f1-9da9-adf2eaae92f2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bad Bunny has said he feels a responsibility, as someone with influence, to highlight important issues. He has consistently used his platform and music to not only showcase his culture, but support the LGBTQ community and advocate for Puerto Rico's self-determination, which has remained an overseas US territory since 1898. </p></div></div></body></html>"
-        },
-        {
             "title": "Watch: Trump has called to nationalise US elections. Is it a big deal?",
             "time": "2026-02-06T22:48:07",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dd13/live/19798a90-03ac-11f1-9972-d3f265c101c6.jpg",
@@ -162,6 +156,12 @@
             "time": "2026-02-06T00:15:23",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7499/live/442d24c0-0057-11f1-b7e1-afb6d0884c18.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">What is clear is there are significant sums of money to be made. Based on channel membership and subscription fees, the BBC estimates AKA alone has earned at least 163,200 Yuan ($22,000, £16,300) since last April. The average annual income in China last year was 43,377 Yuan ($6,200, £4,600) according to China's Bureau of Statistics.</p></div></div></body></html>"
+        },
+        {
+            "title": "US-South Africa funding: As American cash dries up the fight to stop Aids gets harder",
+            "time": "2026-02-06T17:57:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f986/live/20141400-0380-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I often say to people, in order to end the epidemic for the world, we really do need to end the epidemic in South Africa. If we do not contain it, close it down, shut it down, we stand the huge risk of it continuing for decades.\"</p></div></div></body></html>"
         },
         {
             "title": "Watch: Ukrainian soldier thought to be dead calls his family",
