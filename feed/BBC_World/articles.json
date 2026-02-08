@@ -2,10 +2,28 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Japan votes in snap election as PM Sanae Takaichi takes a gamble",
+            "time": "2026-02-07T23:00:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f006/live/ebfa1970-047f-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The government's policy package may offer households short-term relief, but \"fails to address the underlying problems of weak productivity and stagnant real wages\", Masahiko Takeda, a senior fellow focusing on Asia at the Australian National University, wrote in an article this week.</p></div></div></body></html>"
+        },
+        {
+            "title": "Savannah Guthrie says 'we will pay' for mother's safe return.",
+            "time": "2026-02-08T01:58:07",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4726/live/c0223680-0492-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Authorities say that early on Sunday morning, a doorbell camera in her home was disconnected and removed. At about 02:28 local time, the app connected to her pacemaker, a implanted cardiac device, was disconnected from her phone.</p></div></div></body></html>"
+        },
+        {
             "title": "France investigates ex-minister Jack Lang over Epstein links",
             "time": "2026-02-07T18:10:55",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cead/live/a44d7860-043e-11f1-ac32-dfe0213e34da.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She said his lawyers had set up a company, Prytanee LLC, based in the US Virgin Islands.<b id=\"\" class=\"sc-d16436d-0 gnUCoQ\"> </b>Mediapart said Caroline Lang had received half of the shares, but she said she had not invested in it or received any funds from it.</p></div></div></body></html>"
+        },
+        {
+            "title": "ICE protester speaks out after White House shared fake arrest image",
+            "time": "2026-02-07T23:59:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/915a/live/5fb940b0-0396-11f1-9972-d3f265c101c6.png",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">US civil rights lawyer and activist Nekima Levy Armstrong says she was \"disgusted\" after the White House posted an image of her arrest which was edited to show her in tears.</p><p class=\"sc-9a00e533-0 eZyhnA\">She was detained for organising a protest against Immigration and Customs Enforcement (ICE) in a Minnesota church last month.</p><p class=\"sc-9a00e533-0 eZyhnA\">BBC Verify's Jake Horton spoke to Levy Armstrong about the manipulated image and the backlash she has faced.</p><p class=\"sc-9a00e533-0 eZyhnA\"><i id=\"produced-by-tom-joyner.-graphics-by-mark-edwards.\" class=\"sc-d16436d-0 iVdNuz\">Produced by Tom Joyner. Graphics by Mark Edwards.</i></p></div></div></body></html>"
         },
         {
             "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
@@ -14,22 +32,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Kyiv, residents once again took shelter in metro stations. Among them, Oksana Kykhtenko, told the Reuters news agency: \"They [Russians] make us live in inhumane conditions. Without heating, without electricity.\" </p></div></div></body></html>"
         },
         {
-            "title": "General shot in Moscow conscious after surgery, Russian media say",
-            "time": "2026-02-07T16:10:31",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f0a0/live/f162fd50-042a-11f1-9972-d3f265c101c6.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Afterwards, Alexeyev was placed in a medically induced coma. He has now regained consciousness. At this point, it can be cautiously stated that the threat to his life has passed,\" medical sources said, according to Tass.</p></div></div></body></html>"
-        },
-        {
-            "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
-            "time": "2026-02-07T01:36:32",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f7/live/cd988f30-03d9-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Before it was removed, Derrick Johnson, the president of the National Association for the Advancement of Colored People, or NAACP, called the video \"disgusting and utterly despicable\" and accused Trump of attempting to distract the public from the Epstein case and a \"rapidly failing economy.\" </p></div></div></body></html>"
-        },
-        {
-            "title": "Alleged mastermind among four arrested after Pakistan mosque blast",
-            "time": "2026-02-07T17:58:37",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/46c7/live/e2669cf0-044b-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Condemning the attack on Friday, Pakistan's Prime Minister Shehbaz Sharif expressed \"deep grief\". The country's President, Asif Ali Zardari, said \"targeting innocent civilians is a crime against humanity\".</p></div></div></body></html>"
+            "title": "Washington Post chief executive Will Lewis steps down after mass lay-offs",
+            "time": "2026-02-08T00:51:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9dfe/live/c6089a10-0485-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Savannah Guthrie says 'we will pay' for mother's safe return</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">\"We received your message,\" the US news anchor says in the latest video plea for the return of her mother Nancy Guthrie, 84, who is believed abducted. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">31 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "Italy says railways hit by 'serious sabotage' as Winter Olympics begin",
@@ -38,22 +44,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Police said a track switch was set alight near Pesaro, on the Adriatic coast. Several hours later, police discovered severed electric cables near Bologna, along with a rudimentary explosive device left by a track nearby. </p></div></div></body></html>"
         },
         {
+            "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
+            "time": "2026-02-07T01:36:32",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f7/live/cd988f30-03d9-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Before it was removed, Derrick Johnson, the president of the National Association for the Advancement of Colored People, or NAACP, called the video \"disgusting and utterly despicable\" and accused Trump of attempting to distract the public from the Epstein case and a \"rapidly failing economy.\" </p></div></div></body></html>"
+        },
+        {
             "title": "S Korean crypto firm accidentally pays out $40bn in bitcoin",
             "time": "2026-02-07T13:56:49",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9d0b/live/4e5baa40-0424-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In April 2024 Citigroup, a US bank, mistakenly credited $81 trillion, instead of $280, to a customer's account. Two employees failed to spot the error before it was processed, but the bank reversed the transaction within hours after a third employee caught the mistake, the Financial Times reported.</p></div></div></body></html>"
         },
         {
-            "title": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
-            "time": "2026-02-06T23:05:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/68fe/live/20d42010-047a-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other long-held priorities have also faded from her campaign, including weapons exports, an anti-espionage law and immigration reform. This tactic, observers say, is less about policy and more about keeping her high position in the polls.</p></div></div></body></html>"
-        },
-        {
             "title": "Colorado funeral home director sentenced to 40 years for abusing corpses",
             "time": "2026-02-07T02:48:39",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ea3b/live/726f34c0-03c4-11f1-b7e1-afb6d0884c18.png",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">3 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Savannah Guthrie says 'we will pay' for mother's safe return</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">\"We received your message,\" the US news anchor says in the latest video plea for the return of her mother Nancy Guthrie, 84, who is believed abducted. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">31 mins ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "General shot in Moscow conscious after surgery, Russian media say",
+            "time": "2026-02-07T16:10:31",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f0a0/live/f162fd50-042a-11f1-9972-d3f265c101c6.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Afterwards, Alexeyev was placed in a medically induced coma. He has now regained consciousness. At this point, it can be cautiously stated that the threat to his life has passed,\" medical sources said, according to Tass.</p></div></div></body></html>"
         },
         {
             "title": "Fugu feud: Zambians and Ghanaians clash on social media over president's outfit",
@@ -74,6 +86,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The order, issued on Friday, does not specify the rate that could be imposed, but uses 25% as an example. It says the tariff could apply to goods imported into the US from any nation that \"directly or indirectly purchases, imports, or otherwise acquires any goods or services from Iran\".</p></div></div></body></html>"
         },
         {
+            "title": "Alleged mastermind among four arrested after Pakistan mosque blast",
+            "time": "2026-02-07T17:58:37",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/46c7/live/e2669cf0-044b-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Condemning the attack on Friday, Pakistan's Prime Minister Shehbaz Sharif expressed \"deep grief\". The country's President, Asif Ali Zardari, said \"targeting innocent civilians is a crime against humanity\".</p></div></div></body></html>"
+        },
+        {
             "title": "Winter Olympics 2026 opening ceremony: Milan-Cortina Games open as Mariah Carey & Andrea Bocelli perform - BBC Sport",
             "time": "2026-02-06T22:37:34",
             "imgUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0779/live/7b0081f0-0394-11f1-a36d-4dc7f32cefeb.jpg",
@@ -86,22 +104,46 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"They took perfumes, accessories, make-up, cigarettes, headphones - everything, they didn't leave anything with us,\" one woman told the BBC.</p></div></div></body></html>"
         },
         {
-            "title": "Queen Elizabeth II: Coin portrait of late monarch criticised in Australia",
-            "time": "2026-02-06T11:53:57",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c421/live/a7f290a0-0343-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">These include motifs of a horse and corgi, references to art and theatre to mark \"her enduring support for culture\", as well as some of her favourite flowers - roses and lily of the valley. The golden wattle, Australia's national floral emblem, is also represented. </p></div></div></body></html>"
-        },
-        {
             "title": "Julie Inman Grant: The woman tasked with kicking Australian kids off social media",
             "time": "2026-02-07T19:22:08",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9ebb/live/dd0e8440-0327-11f1-9deb-9fec290cc1e6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When the job of eSafety Commissioner came up, she bashfully explains there was a small pool of candidates to choose from. The man who helped write the bill, Malcolm Turnbull, went on to become prime minister. He hired her and, she says, wanted a commissioner with a background in online safety, but also experience in the tech sector itself.</p></div></div></body></html>"
         },
         {
+            "title": "BBC debunks viral claims Bad Bunny is not a US citizen ahead of Super Bowl",
+            "time": "2026-02-07T21:11:23",
+            "imgUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0mzs9xj.jpg",
+            "body": "<html><body></body></html>"
+        },
+        {
+            "title": "Basant, Pakistan's famous but deadly kite festival, returns after 19-year ban",
+            "time": "2026-02-08T00:01:49",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b3ff/live/407315f0-0468-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"There was a lot of revenue,\" Yousaf says. \"And that revenue was going down to the poorest - the vendors on the street, the restaurants in the old city, the people who dyed the clothes, the people who were selling shoes, bangles, everything. </p></div></div></body></html>"
+        },
+        {
+            "title": "Ifunanya Nwangene's tragic death highlights Nigeria's snakebite problem",
+            "time": "2026-02-08T00:01:32",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ae1d/live/427c4b50-03d7-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In 2021, Nigeria's then-Health Minister, Olorunnimbe Mamora, stated that an average of 20,000 snakebites were recorded each year in the West African nation, describing the situation as having reached \"epidemic proportions\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Eko: How an indigenous teacher created a sensation in Indian cinema",
+            "time": "2026-02-08T00:57:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/643d/live/bf8d2340-f82d-11f0-a422-4ba8a094a8fa.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Eko, a title that plays on the word \"echo\", Momin plays Mlathi Chettathi, an enigmatic elder living alone in the Western Ghats, a vast mountain range along India's western coast known for its dense forests and mist-covered hills. As the film's lead, her presence anchors its fog-laced landscape and moral core.</p></div></div></body></html>"
+        },
+        {
+            "title": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
+            "time": "2026-02-06T23:05:00",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/68fe/live/20d42010-047a-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other long-held priorities have also faded from her campaign, including weapons exports, an anti-espionage law and immigration reform. This tactic, observers say, is less about policy and more about keeping her high position in the polls.</p></div></div></body></html>"
+        },
+        {
             "title": "'I don't want to imagine what happened' - Shock and disbelief in area Savannah Guthrie's mother went missing",
-            "time": "2026-02-07T16:23:42",
+            "time": "2026-02-08T01:50:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8bdc/live/e38b89a0-03b6-11f1-a387-b12d33792716.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to news website TMZ, which reportedly received one of the letters, the kidnappers were demanding millions of dollars' worth of the cryptocurrency, which is popular with criminals and often difficult to trace.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Police investigating new message in search for mother of Savannah Guthrie</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "US intervention in Iran: What Iranians inside and outside the country say",
@@ -116,28 +158,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">For instance, Liberia, Africa's oldest republic, was founded by freed black American slaves in 1822. After Ghana became independent in 1957, a wave of black intellectuals and artists moved there from the US. Martin Luther King, Malcolm X and Muhammad Ali subsequently paid high-profile visits to Ghana, while Guinea  became home to Black Panther leader Stokely Carmichael.</p></div></div></body></html>"
         },
         {
-            "title": "Could Bad Bunny set off political fireworks at the Super Bowl half-time show?",
-            "time": "2026-02-07T00:00:14",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d25f/live/9c81e3f0-02f4-11f1-9da9-adf2eaae92f2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bad Bunny has said he feels a responsibility, as someone with influence, to highlight important issues. He has consistently used his platform and music to not only showcase his culture, but support the LGBTQ+ community and advocate for Puerto Rico's self-determination, which has remained an overseas US territory since 1898. </p></div></div></body></html>"
-        },
-        {
             "title": "'I dreamed of becoming a K-pop idol - but I felt like I was scammed'",
             "time": "2026-02-06T23:05:12",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0eb5/live/e73378c0-0252-11f1-8c1c-47c1f6b3eac7.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The company, however, denied that the staff member entered the female dormitory, and said the cameras were installed only in common areas, such as entrances and kitchens, for \"safety reasons\", following past incidents involving intruders.</p></div></div></body></html>"
-        },
-        {
-            "title": "What we still don't know about the disappearance of Savannah Guthrie's mother",
-            "time": "2026-02-07T01:43:16",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bbf3/live/f5646720-03c3-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Nearly a week since the disappearance of Nancy Guthrie, the mother of US news presenter Savannah Guthrie, police are investigating a new message sent to a local news station. It comes after the first deadline from an alleged ransom letter passed on Thursday evening. </p><p class=\"sc-9a00e533-0 eZyhnA\">Guthrie's family continues to plea for proof that their mother, who is believed to have been abducted from her home in Tucson, Arizona, is still alive. </p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's Regan Morris is in Tucson and details the status of the investigation, and the questions that remain.</p></div></div></body></html>"
-        },
-        {
-            "title": "Anke Gowda: The Karnataka man who built a library of two million books",
-            "time": "2026-02-07T00:42:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a2f1/live/6e3f3700-0311-11f1-8727-2dfe1c773f32.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The place is frequented by students, their parents, teachers and book lovers. Regular visitors seem to know their way around the library and find the books they need with ease. And even if they can't, they say, Gowda can find anything.</p></div></div></body></html>"
         },
         {
             "title": "Pakistan mosque explosion: where the attack unfolded",
