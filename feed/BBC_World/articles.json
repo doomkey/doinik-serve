@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "FBI releases images of masked person in hunt for Nancy Guthrie",
+            "time": "2026-02-10T19:04:23",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6def/live/a79545d0-06ae-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nancy Guthrie, 84, disappeared in the middle of night from her home in Tucson, Arizona, last weekend.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 day ago</span></p></div></div></body></html>"
+        },
+        {
             "title": "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files",
             "time": "2026-02-10T12:07:35",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4540/live/fe1dd650-0673-11f1-b5e2-dd58fc65f0f6.jpg",
@@ -33,21 +39,15 @@
         },
         {
             "title": "Trump threatens to block opening of US-Canada bridge",
-            "time": "2026-02-10T16:03:47",
+            "time": "2026-02-10T19:58:08",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cc88/live/535a3030-0617-11f1-b653-2f014e2e8e4d.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The bridge, which spans the Detroit River and is named after late Canadian hockey legend Gordie Howe, who played for the Detroit Red Wings, is expected to open to traffic pending formal tests and approvals in the early part of this year. Construction began in 2018, but the project has been a point of contention between the countries for more than a decade.</p></div></div></body></html>"
-        },
-        {
-            "title": "Savannah Guthrie issues new plea as ransom deadline passes",
-            "time": "2026-02-10T10:04:26",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/95f5/live/da4f9f60-0669-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We are currently operating a 24-hour command post that includes crisis management experts, analytic support, and investigative teams. But we still need the public's help,\" the FBI statement added, including the number for the FBI's tip line.</p></div></div></body></html>"
         },
         {
             "title": "Biathlon medallist Sturla Holm Laegreid admits cheating on girlfriend - BBC Sport",
             "time": "2026-02-10T17:19:20",
             "imgUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0586/live/84f26820-06a7-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"ssrcss-nqezkk-RichTextContainer e5tfeyi1\"><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">The seven-time world champion finished third in the biathlon - which combines cross-country skiing and rifle shooting - behind champion Johan-Olav Botn, a fellow Norwegian, and Eric Perrot of France.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">It is a second Olympic medal for Laegreid, who won gold in the relay at the 2022 Games.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Asked about his admission in the news conference later, he added: \"Of course, now I hope I didn't ruin Johan's day.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I don't know if it was the right choice or not, but it was the choice I made.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I made the choice to tell the world what I did so maybe there's a chance she will see what she really means to me - maybe not, but I don't want to think I didn't try everything to get her back.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I don't want to steal the show. I hope this is just like a day-or-two thing. Then you are an Olympic gold medallist forever.\"</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Botn shouted the name of late team-mate Sivert Guttorm Bakken as he crossed the line to win gold. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Bakken was <a href=\"/sport/articles/c33mkn574vgo\" class=\"ssrcss-18834jl-InlineLink e1kn3p7n0\">found dead on 23 December</a> in a hotel room in northern Italy, about two hours from where the biathlon was held. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I was racing with him the entire last loop. And, yeah, it was more like a feeling of crossing the finish line together, and seeing the number one beside my name was really special,\" an emotional Botn said.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Laegreid added: \"We were five guys on the start line, and one of them was watching from above. This was for Sivert, really.\"</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"ssrcss-nqezkk-RichTextContainer e5tfeyi1\"><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">The seven-time world champion finished third in the biathlon - which combines cross-country skiing and rifle shooting - behind champion Johan-Olav Botn, a fellow Norwegian, and Eric Perrot of France.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">It is a second Olympic medal for Laegreid, who won gold in the relay at the 2022 Games.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Asked about his admission in the news conference later, he added: \"Of course, now I hope I didn't ruin Johan's day.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I don't know if it was the right choice or not, but it was the choice I made.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I made the choice to tell the world what I did so maybe there's a chance she will see what she really means to me - maybe not, but I don't want to think I didn't try everything to get her back.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I don't want to steal the show. I hope this is just like a day-or-two thing. Then you are an Olympic gold medallist forever.\"</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Five-time Olympic champion Johannes Thingnes Boe, who is now a biathlete expert with broadcasters NRK, questioned the timing of Laegreid's admission.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"It came as a complete surprise. His action was wrong - we saw a repentant lad standing there. Unfortunately, the time, place and timing are all wrong,\" said Boe, a former team-mate of Laegreid.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Botn shouted the name of late team-mate Sivert Guttorm Bakken as he crossed the line to win gold. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Bakken was <a href=\"/sport/articles/c33mkn574vgo\" class=\"ssrcss-18834jl-InlineLink e1kn3p7n0\">found dead on 23 December</a> in a hotel room in northern Italy, about two hours from where the biathlon was held. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"I was racing with him the entire last loop. And, yeah, it was more like a feeling of crossing the finish line together, and seeing the number one beside my name was really special,\" an emotional Botn said.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Laegreid added: \"We were five guys on the start line, and one of them was watching from above. This was for Sivert, really.\"</p></div></div></body></html>"
         },
         {
             "title": "Pilot praised after landing faulty Somali passenger plane on seashore",
@@ -72,6 +72,12 @@
             "time": "2026-02-10T13:47:39",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f9c1/live/78443290-067d-11f1-9794-9f23a318f722.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Along the way, the troupe has shared a message of mindfulness, with its leader, the Venerable Bhikkhu Pannakara, saying: \"My hope is, when this walk ends, the people we met will continue practicing mindfulness and find peace.\" </p></div></div></body></html>"
+        },
+        {
+            "title": "Venezuelan opposition politician under house arrest after kidnap, son says",
+            "time": "2026-02-10T18:07:56",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2803/live/8a0a1160-0697-11f1-9c2e-13936a78ae9c.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We hold Delcy Rodríguez, Jorge Rodríguez, and Diosdado Cabello responsible for any harm to Juan Pablo's life,\" Justice First wrote on social media, referring to Venezuela's interim president, the National Assembly speaker, and the interior minister respectively.</p></div></div></body></html>"
         },
         {
             "title": "Catherine O'Hara cause of death confirmed as pulmonary embolism",
