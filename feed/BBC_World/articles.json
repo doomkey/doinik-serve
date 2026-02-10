@@ -2,22 +2,10 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Ghislaine Maxwell refuses to answer questions about Epstein from Congress",
-            "time": "2026-02-10T01:09:11",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/14a6/live/e9dde380-061c-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">While the performance carried a message of unity for Latinos in general, the artist sang for the island we are both from, writes BBC Mundo's Ronald Ávila.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "Trump threatens to block opening of US-Canada bridge",
-            "time": "2026-02-10T09:44:26",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cc88/live/535a3030-0617-11f1-b653-2f014e2e8e4d.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The bridge, which spans the Detroit River, is expected to open to traffic pending formal tests and approvals in the early part of this year. Construction began in 2018, but the project has been a point of contention between the countries for more than a decade.</p></div></div></body></html>"
-        },
-        {
-            "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
-            "time": "2026-02-10T07:12:36",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e697/live/9d4f8590-0654-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"As of today, I am no longer represented by Wasserman, the talent agency led by Casey Wasserman,\" she said. </p></div></div></body></html>"
+            "title": "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files",
+            "time": "2026-02-10T12:07:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4540/live/fe1dd650-0673-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">After viewing the unredacted documents, Massie and Khanna, who co-sponsored the law which compelled the release of the Epstein files last year, told reporters they had a list of about 20 people in which every name was redacted except for Epstein's and his convicted sex trafficker associate Ghislaine Maxwell.</p></div></div></body></html>"
         },
         {
             "title": "Macron urges Europe to start acting like world power",
@@ -26,13 +14,25 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to Macron, the 27-member EU needs €1,2tn (£1tn; $1.4tn) a year to invest in the vital sectors of security and defence, clean energy, and artificial intelligence.</p></div></div></body></html>"
         },
         {
+            "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
+            "time": "2026-02-10T07:12:36",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e697/live/9d4f8590-0654-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"As of today, I am no longer represented by Wasserman, the talent agency led by Casey Wasserman,\" she said. </p></div></div></body></html>"
+        },
+        {
             "title": "Kenya to confront Russia over 'unacceptable' use of Kenyan soldiers",
             "time": "2026-02-10T11:20:46",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2768/live/498e0670-000f-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Kenya and Russia have had long relations since independence, literally. So this, in my view, becomes a very unfortunate episode of otherwise very positive and cordial relations between our two countries,\" he added.</p></div></div></body></html>"
         },
         {
-            "title": "Savannah Guthrie asks public to help find missing mother Nancy",
+            "title": "Trump threatens to block opening of US-Canada bridge",
+            "time": "2026-02-10T09:44:26",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cc88/live/535a3030-0617-11f1-b653-2f014e2e8e4d.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The bridge, which spans the Detroit River and is named after late Canadian hockey legend Gordie Howe, who played for the Detroit Red Wings, is expected to open to traffic pending formal tests and approvals in the early part of this year. Construction began in 2018, but the project has been a point of contention between the countries for more than a decade.</p></div></div></body></html>"
+        },
+        {
+            "title": "Savannah Guthrie issues new plea as ransom deadline passes",
             "time": "2026-02-10T10:04:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/95f5/live/da4f9f60-0669-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We are currently operating a 24-hour command post that includes crisis management experts, analytic support, and investigative teams. But we still need the public's help,\" the FBI statement added, including the number for the FBI's tip line.</p></div></div></body></html>"
@@ -42,6 +42,18 @@
             "time": "2026-02-10T07:25:42",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d3df/live/62944060-05f7-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Over the course of the next several weeks, there will be testimony from experts, family members of children who died, and by Zuckerberg, Adam Mosseri, the head of Instagram, and Neal Mohan, the CEO of YouTube.</p></div></div></body></html>"
+        },
+        {
+            "title": "Marc Anthony says Beckham family feud is 'unfortunate' but 'hardly the truth'",
+            "time": "2026-02-10T13:32:09",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7203/live/8b6affc0-067d-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"In front of our 500 wedding guests,\" he continued, \"Marc Anthony called me to the stage, where in the schedule was planned to be my romantic dance with my wife but instead my mum was waiting to dance with me instead.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Buddhist monks 108-day Walk for Peace set to end in Washington DC",
+            "time": "2026-02-10T13:47:39",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f9c1/live/78443290-067d-11f1-9794-9f23a318f722.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Along the way, the troupe has shared a message of mindfulness, with its leader, the Venerable Bhikkhu Pannakara, saying: \"My hope is, when this walk ends, the people we met will continue practicing mindfulness and find peace.\" </p></div></div></body></html>"
         },
         {
             "title": "Catherine O'Hara cause of death confirmed as pulmonary embolism",
@@ -77,19 +89,19 @@
             "title": "Epstein survivors call for full release of files in vieo",
             "time": "2026-02-09T13:11:21",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0b72/live/948269f0-05aa-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">While the performance carried a message of unity for Latinos in general, the artist sang for the island we are both from, writes BBC Mundo's Ronald Ávila.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">While the performance carried a message of unity for Latinos in general, the artist sang for the island we are both from, writes BBC Mundo's Ronald Ávila.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">3 hrs ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal",
+            "time": "2026-02-10T11:40:14",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0e88/live/74185aa0-0666-11f1-ad0b-39fef3bf1fc8.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Disconnected by limited public transportation, without tourists or major events, daily life in our towns moved slowly, all while shaped by a public debt crisis and a subsequent bankruptcy that caused profound political, social, and economic turmoil.</p></div></div></body></html>"
         },
         {
             "title": "Thailand election 2026: The result the polls never saw coming",
             "time": "2026-02-09T23:58:04",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3ec2/live/fd605c80-05e0-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">It was also harder for the reformists to distinguish themselves on a single issue this time. In 2023, after nine years being ruled by the stern, avuncular Prayuth Chan-ocha, the general who led the 2014 coup, there was a broad yearning for change, and the Move Forward party, under its suave, telegenic leader Pita Limjaroenrat, promised no deals with \"the uncles\" – those involved in the coup. </p></div></div></body></html>"
-        },
-        {
-            "title": "Super Bowl 2026: Is Seattle Seahawks' Sam Darnold greatest NFL redemption story? - BBC Sport",
-            "time": "2026-02-09T21:56:58",
-            "imgUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c71/live/ac753a50-05fb-11f1-b7e1-afb6d0884c18.png",
-            "body": "<html><body><div><div class=\"ssrcss-nqezkk-RichTextContainer e5tfeyi1\"><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Quarterbacks grab all the headlines, for good or bad, but they simply cannot do it all by themselves in this ultimate team sport. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Tom Brady regularly had, and needed, a top-10 defence on his side to win Super Bowls, while Patrick Mahomes lost two of them because he was soundly beaten up by opposing defences.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">In Seattle, Darnold found the perfect storm of a team on the up and a defensive head coach assembling a crack unit that would go on to dominate the NFL, needing just a solid quarterback to steer the offence.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Having the league's leading receiver Jaxon Smith-Njigba and Super Bowl MVP running back Kenneth Walker also helped, and plenty will say Darnold did not have to do much.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">He became the first quarterback to enjoy successive 14-win seasons with two different teams - only Brady had managed it with one - but still there were questions as he led the league in turnovers, giving the ball away 20 times.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Around 80% of play-off games are won by teams with the fewest turnovers. In Super Bowls the record was 40-7 when winning the turnover battle.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Darnold has the fourth most giveaways in the NFL since being drafted (106) despite spending two years as a back-up, so once again he had to prove himself as he was written off as a liability before even entering the post-season.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">The response was remarkable as Darnold's Seattle became the first Super Bowl champions without a single turnover in the play-offs.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">He answered the mental questions of facing the Rams again with 346 yards and three touchdowns, before doing just enough in the Super Bowl itself.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Was it flashy? No. MVP worthy? Not even close. But Darnold, now 28, did what he had to - he kept hold of the ball, made plays when needed and managed the game without ego or trying to be the hero.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">No quarterback has won a Super Bowl having played for five teams before, but then no quarterback has been counted out so many times and got back to the top.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Luck has played a part, teams like Minnesota and Seattle took a chance and the Seahawks have furnished Darnold with everything he could possibly want in a team - and maybe there's a hatful of quarterbacks in the league who could have won a Super Bowl with them this season.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">None have been where Darnold has though and not many have done more to earn it. His redemption story really is one for the ages. </p></div></div></body></html>"
         },
         {
             "title": "Manipur: Can a new chief minister bring peace to the troubled state?",
@@ -110,16 +122,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Myres came up with the idea for Relooted during a visit to London. His mother had gone to the British Museum, where she saw the Nereid Monument - an ancient tomb that had been dismantled and moved between 1842 and 1844 to the museum, brick by brick, from the south of Turkey.</p></div></div></body></html>"
         },
         {
+            "title": "Super Bowl 2026: Is Seattle Seahawks' Sam Darnold greatest NFL redemption story? - BBC Sport",
+            "time": "2026-02-09T21:56:58",
+            "imgUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c71/live/ac753a50-05fb-11f1-b7e1-afb6d0884c18.png",
+            "body": "<html><body><div><div class=\"ssrcss-nqezkk-RichTextContainer e5tfeyi1\"><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Quarterbacks grab all the headlines, for good or bad, but they simply cannot do it all by themselves in this ultimate team sport. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Tom Brady regularly had, and needed, a top-10 defence on his side to win Super Bowls, while Patrick Mahomes lost two of them because he was soundly beaten up by opposing defences.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">In Seattle, Darnold found the perfect storm of a team on the up and a defensive head coach assembling a crack unit that would go on to dominate the NFL, needing just a solid quarterback to steer the offence.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Having the league's leading receiver Jaxon Smith-Njigba and Super Bowl MVP running back Kenneth Walker also helped, and plenty will say Darnold did not have to do much.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">He became the first quarterback to enjoy successive 14-win seasons with two different teams - only Brady had managed it with one - but still there were questions as he led the league in turnovers, giving the ball away 20 times.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Around 80% of play-off games are won by teams with the fewest turnovers. In Super Bowls the record was 40-7 when winning the turnover battle.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Darnold has the fourth most giveaways in the NFL since being drafted (106) despite spending two years as a back-up, so once again he had to prove himself as he was written off as a liability before even entering the post-season.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">The response was remarkable as Darnold's Seattle became the first Super Bowl champions without a single turnover in the play-offs.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">He answered the mental questions of facing the Rams again with 346 yards and three touchdowns, before doing just enough in the Super Bowl itself.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Was it flashy? No. MVP worthy? Not even close. But Darnold, now 28, did what he had to - he kept hold of the ball, made plays when needed and managed the game without ego or trying to be the hero.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">No quarterback has won a Super Bowl having played for five teams before, but then no quarterback has been counted out so many times and got back to the top.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Luck has played a part, teams like Minnesota and Seattle took a chance and the Seahawks have furnished Darnold with everything he could possibly want in a team - and maybe there's a hatful of quarterbacks in the league who could have won a Super Bowl with them this season.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">None have been where Darnold has though and not many have done more to earn it. His redemption story really is one for the ages. </p></div></div></body></html>"
+        },
+        {
             "title": "Kardashian and Hamilton go public: Key Super Bowl takeaways",
             "time": "2026-02-09T14:58:58",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/88d6/live/2c3f0e40-05b7-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Sitting in the stands, Kim Kardashian and Lewis Hamilton made their first major public appearance together, after weeks of speculation about their romance. The seven-time Formula 1 world champion and the reality TV star were spotted chatting and smiling together during the game, and were caught on video by NBC News. </p></div></div></body></html>"
-        },
-        {
-            "title": "Revealing names and faces of the victims of Iran's protest crackdown",
-            "time": "2026-02-09T10:47:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8572/live/0ff017a0-0361-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div data-testid=\"byline-contributors-contributor-0\" class=\"sc-3adb3607-5 iMnQuR\"><p class=\"sc-3adb3607-7 echTHp\"><span class=\"sc-3adb3607-8 dcphMW\">Roja Assadi, Farzad SeifiKaran, Sana Tabatabaei, Roonak Faraji, and Johanna Chisholm</span><span data-testid=\"byline-contributors-contributor-0-role-location\" class=\"sc-3adb3607-9 dRohlg\">BBC News Persian Forensic, BBC Near East Visual Journalism and BBC News</span></p></div></div></body></html>"
         },
         {
             "title": "BBC reports from outside court after Jimmy Lai sentencing",
