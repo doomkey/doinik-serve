@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Tumbler Ridge mass shooting: What we know so far",
+            "time": "2026-02-11T10:18:16",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a50f/live/54887cb0-0738-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We have three police vehicles in our town, we are very small. We are a small community. We know each other, we all know the victims. They are our friends, our friends' children.\"</p></div></div></body></html>"
+        },
+        {
             "title": "Nancy Guthrie: Police search Arizona home of person detained in connection with case",
             "time": "2026-02-11T08:53:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/51c5/live/7b03dca0-071e-11f1-811d-d70cdc846ab3.jpg",
@@ -14,16 +20,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">It added the King had \"made clear...his profound concern\" over allegations against his brother, and the King and Queen's \"thoughts and sympathies have been, and remain with, the victims of any and all forms of abuse\".</p></div></div></body></html>"
         },
         {
-            "title": "BBC's Lyse Doucet in Tehran for first time since unprecedented protest crackdown",
-            "time": "2026-02-10T17:57:31",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/538f/live/5164bad0-06b1-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The BBC has visited Iran for the first time since the crackdown by security forces on nationwide anti-government protests last month.</p><p class=\"sc-9a00e533-0 eZyhnA\">Iran's leaders are marking 47 years since the Islamic Revolution, with bunting and flags decorating the streets of Tehran - but the pain is still raw after unprecedented force was used to put down the protests.</p><p class=\"sc-9a00e533-0 eZyhnA\">Human rights activists have said they have confirmed the killing of at least 6,400 protesters, but warned that the final death toll could be far higher.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's chief international correspondent Lyse Doucet is reporting from Tehran on condition that none of her material is used on the BBC's Persian Service. These restrictions apply to all international media organisations operating in Iran.</p></div></div></body></html>"
-        },
-        {
             "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
-            "time": "2026-02-11T05:55:02",
+            "time": "2026-02-11T11:02:25",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2e8e/live/3a6515e0-06d5-11f1-92c7-bd6cac3ac086.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Israel and Hamas agreed to a ceasefire last October, ending a two-year war started by the 7 October 2023 Hamas attack inside Israel. Approximately 1,200 people were killed and 251 were taken hostage in the attack. Israel's military campaign in response has killed more than 71,000 people, according to Gaza's Hamas-run health ministry.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Israel is concerned that in the haste to get a deal with Iran, the president might embrace a deal that doesn't address Iran's missile programme or support for proxy groups, or that allows it to have some remnant of its nuclear programme,\" said Daniel Byman, a professor at Georgetown University's School of Foreign Service.</p></div></div></body></html>"
         },
         {
             "title": "Britney Spears sells rights to entire music catalogue",
@@ -48,6 +48,30 @@
             "time": "2026-02-11T07:25:47",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a870/live/e213f630-0716-11f1-81d1-6ffb932daf53.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Russian forces also dropped seven bombs on the city of Slovyansk on Tuesday, Donetsk regional head Vadym Filashkin said on Telegram. Three people, including an 11-year-old girl, were killed.</p></div></div></body></html>"
+        },
+        {
+            "title": "India cuts takedown window to three hours for YouTube, Meta, X and others",
+            "time": "2026-02-11T08:27:41",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/774a/live/d1506e60-070b-11f1-bc0b-fdf72ddbacc3.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Companies will not be allowed to remove these labels once they are added. They must also use automated tools to detect and prevent illegal AI content, including deceptive or non-consensual material, false documents, child sexual abuse material, explosives-related content and impersonation.</p></div></div></body></html>"
+        },
+        {
+            "title": "Ghana declares Wednesday 'Fugu Day' to promote batakari after Zambia banter",
+            "time": "2026-02-11T11:23:20",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aca4/live/3aa1fe90-0727-11f1-811d-d70cdc846ab3.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The fugu, also known as batakari, is a traditional northern Ghanaian top made from hand‑woven, narrow strips of thick cotton fabric stitched together to form a structured, poncho‑style garment.</p></div></div></body></html>"
+        },
+        {
+            "title": "BBC's Lyse Doucet in Tehran for first time since unprecedented protest crackdown",
+            "time": "2026-02-10T17:57:31",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/538f/live/5164bad0-06b1-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The BBC has visited Iran for the first time since the crackdown by security forces on nationwide anti-government protests last month.</p><p class=\"sc-9a00e533-0 eZyhnA\">Iran's leaders are marking 47 years since the Islamic Revolution, with bunting and flags decorating the streets of Tehran - but the pain is still raw after unprecedented force was used to put down the protests.</p><p class=\"sc-9a00e533-0 eZyhnA\">Human rights activists have said they have confirmed the killing of at least 6,400 protesters, but warned that the final death toll could be far higher.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's chief international correspondent Lyse Doucet is reporting from Tehran on condition that none of her material is used on the BBC's Persian Service. These restrictions apply to all international media organisations operating in Iran.</p></div></div></body></html>"
+        },
+        {
+            "title": "Sussan Ley: Australia's Liberal Party leader under pressure after key resignation",
+            "time": "2026-02-11T10:10:39",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f31e/live/b28de9e0-06dd-11f1-b109-ab4f4b4e9e76.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The coalition, a partnership dating back to the 1940s, has twice split and reunited under her leadership, further undermining her tenure.</p></div></div></body></html>"
         },
         {
             "title": "Biathlon medallist Sturla Holm Laegreid admits cheating on girlfriend - BBC Sport",
@@ -128,31 +152,7 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Along the way, the troupe has shared a message of mindfulness, with its leader, the Venerable Bhikkhu Pannakara, saying: \"My hope is, when this walk ends, the people we met will continue practicing mindfulness and find peace.\" </p></div></div></body></html>"
         },
         {
-            "title": "Catherine O'Hara cause of death confirmed as pulmonary embolism",
-            "time": "2026-02-10T01:26:32",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/557e/live/879b36b0-0607-11f1-8c32-271a400f2f4c.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Actor Pedro Pascal, who worked with O'Hara on The Last of Us, wrote on Instagram: \"Oh, genius to be near you. Eternally grateful. There is less light in my world, this lucky world that had you, will keep you, always.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Herzog visit: Australian police defend actions after protest violence",
-            "time": "2026-02-10T09:34:33",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6107/live/47ada0a0-0644-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Prime Minister Anthony Albanese, who is to meet Herzog later on Tuesday, said he was \"devastated\" by the scenes, saying they \"shouldn't be taking place,\" but defended the invitation to Herzog and said protesters \"undermined\" their cause at the protest.</p></div></div></body></html>"
-        },
-        {
-            "title": "BP steps up cost cutting as profits slide",
-            "time": "2026-02-10T11:07:26",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/28f4/live/52c9f1c0-0651-11f1-aea3-ab6941d946c2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Cornelia Meyer, chief executive of Meyer Resources and a former BP executive, told the BBC that O'Neill had \"a stellar track record\", and when it comes to reviving BP's fortunes, \"if anybody can, she probably can\".</p></div></div></body></html>"
-        },
-        {
-            "title": "Australian author guilty of creating child sex abuse material over erotic novel",
-            "time": "2026-02-10T06:44:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/58ed/live/942487b0-0648-11f1-8532-0bca598fb018.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Importantly, those descriptions and language are used in the portions of the book to describe a character similar to a young child when the sexual activity is occurring,\" Chisholm said, according to the Australian Associated Press.</p></div></div></body></html>"
-        },
-        {
-            "title": "Sanctions-busting shadow ships are increasing - the big question is what to do about them",
+            "title": "The ghost ships in the English Channel and the question of what to do about them",
             "time": "2026-02-11T00:17:37",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/37ac/live/9dd85410-0695-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The confirmed linkage between Gale, Sea Shell, and Beeta, alongside fabricated AIS position history and prior impersonation, is consistent with deliberate identity manipulation,\" says Ana Subasic, an analyst at the global trade intelligence company Kpler.</p></div></div></body></html>"
@@ -165,7 +165,7 @@
         },
         {
             "title": "What we know about the abduction of Savannah Guthrie's mother Nancy",
-            "time": "2026-02-10T23:39:26",
+            "time": "2026-02-11T11:10:14",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fc9d/live/b7e4ce80-0279-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Guthrie was born in Australia, but when she was a toddler her family moved to Tucson, Arizona, where she grew up for most of her childhood. She did not travel back to Australia until 2015, visiting with her mum Nancy and fulfilling her \"lifelong dream to return\", she told the Daily Telegraph. </p></div></div></body></html>"
         },
