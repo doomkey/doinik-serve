@@ -2,10 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+            "time": "2026-02-12T19:15:27",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eb9f/live/604a8500-0848-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"So that includes motor vehicles, but it also includes power plants, the oil and gas sector, methane from landfills, even aircraft. So it really runs the gamut, all of the standards for each of the sectors is premised on this one thing.\"</p></div></div></body></html>"
+        },
+        {
             "title": "Minneapolis immigration enforcement operation to 'conclude', officials say",
-            "time": "2026-02-12T18:22:21",
+            "time": "2026-02-12T19:47:08",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b6e8/live/17a22a90-0822-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The fight over how immigration agents operate has now put the federal government at risk of a partial shutdown as Congress debates a funding measure for the DHS, which includes ICE. If lawmakers do not pass the measure, the department, which also includes emergency assistance, will lose its funding starting Saturday.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Following the fatal shooting of Alex Pretti last month, President Donald Trump dispatched Homan to Minneapolis to oversee the surge, sidelining the operation's leader, Greg Bovino, who had faced intense criticism for ICE's use of force and what many in the city alleged were civil rights violations.</p></div></div></body></html>"
         },
         {
             "title": "Kim Ju Ae: North Korea leader Kim Jong Un chooses daughter as heir, Seoul says",
@@ -32,22 +38,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Yunus voted in the capital Dhaka, as did the two leading candidates, Tarique Rahman, 60, for the BNP, and Jamaat's leader Shafiqur Rahman, 67.</p></div></div></body></html>"
         },
         {
-            "title": "Four takeaways from Pam Bondi's fiery Epstein testimony",
-            "time": "2026-02-12T16:30:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/25a8/live/1c15d370-0795-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other Republicans joined in to defend her, including the committee chairman, congressman Jim Jordan, who praised how Bondi had implemented President Trump's crackdown on illegal immigration.</p></div></div></body></html>"
-        },
-        {
             "title": "Cyclone Gezani: Toamasina in ruins as storm rips through Madagascar and on towards Mozambique",
             "time": "2026-02-12T14:01:04",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2bad/live/5d11b3e0-0816-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"It's total chaos, 90% of house roofs have been blown off, entirely or in part,\" the head of disaster management at the Action Against Hunger aid agency, Rija Randrianarisoa, told AFP.</p></div></div></body></html>"
         },
         {
+            "title": "Judge blocks US military from demoting Mark Kelly over 'illegal orders' video",
+            "time": "2026-02-12T20:31:12",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bd5e/live/19995920-0842-11f1-a418-9d2f92813770.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This Court has all it needs to conclude that Defendants have trampled on Senator Kelly's First Amendment freedoms and threatened the constitutional liberties of millions of military retirees,\" he wrote. \"To say the least, our retired veterans deserve more respect from their Government, and our Constitution demands they receive it!\"</p></div></div></body></html>"
+        },
+        {
             "title": "James Van Der Beek: Dawson's Creek stars Katie Holmes and Busy Philipps lead tributes",
             "time": "2026-02-12T09:02:30",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/49fa/live/0098f3e0-07f2-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ritter wrote on Instagram: \"Smart, funny, empathic, kind, talented and just pure magic. I'm so grateful for our friendship and so heartbroken. All my love goes out to his amazing wife Kimberly and their children.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Four takeaways from Pam Bondi's fiery Epstein testimony",
+            "time": "2026-02-12T16:30:24",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/25a8/live/1c15d370-0795-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other Republicans joined in to defend her, including the committee chairman, congressman Jim Jordan, who praised how Bondi had implemented President Trump's crackdown on illegal immigration.</p></div></div></body></html>"
         },
         {
             "title": "Two US Navy ships collide near South America",
@@ -66,12 +78,6 @@
             "time": "2026-02-12T10:15:47",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/19fb/live/1357d0f0-07c5-11f1-a698-917cc58bf039.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">It said that 13 popular resources were now missing from the National System of Domain Names (NSDI), including YouTube, Facebook, WhatsApp web, Instagram, the BBC and Deutsche Welle. Once an entry is removed, the site does not open without a virtual private network (VPN).</p></div></div></body></html>"
-        },
-        {
-            "title": "Sudan boat tragedy: At least 21 die after boat sinks on River Nile",
-            "time": "2026-02-12T11:51:41",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2e29/live/61185bf0-07fe-11f1-8981-b35bbe94674f.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The boat was travelling between the villages of Tayba al-Khawad and Deim al-Qarai, carrying nearly 30 passengers, including women, elderly people and children, the Sudan Doctors Network said. </p></div></div></body></html>"
         },
         {
             "title": "North Korea: Who is Kim Ju Ae, the daughter who may succeed Kim Jong Un?",
@@ -102,6 +108,12 @@
             "time": "2026-02-12T00:00:05",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/69c4/live/478c7130-07fe-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Meanwhile, the country's biggest union, FNV, is continuing to lobby the Dutch government to make it the official recommendation. And, anyway, Dutch employees already have a legal right to request reduced hours.</p></div></div></body></html>"
+        },
+        {
+            "title": "'My son is dead': Swiss bar owners confronted by fire victim families",
+            "time": "2026-02-12T18:40:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0a6b/live/4d2b8430-0841-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The owners of a Swiss bar, where a deadly fire broke out on New Year's Eve, killing 41 people and injuring at least 115 others, were heckled by grieving families, as they appeared in court in Switzerland on Thursday.</p><p class=\"sc-9a00e533-0 eZyhnA\">Jessica and Jacques Moretti are under criminal investigation for involuntary manslaughter, as well as bodily harm and arson through negligence.</p></div></div></body></html>"
         },
         {
             "title": "Watch: Three issues that matter to voters in the Bangladesh election",
