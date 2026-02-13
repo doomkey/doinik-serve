@@ -33,15 +33,21 @@
         },
         {
             "title": "Japan says it seized Chinese vessel amid tensions with Beijing",
-            "time": "2026-02-13T01:12:04",
+            "time": "2026-02-13T02:44:29",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bdfd/live/69df6540-0875-11f1-9349-4f5468f5dc48.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to Takaichi's remarks, which China's foreign ministry described as \"egregious\", Beijing summoned Tokyo's ambassador and warned its citizens to reconsider travel and study in Japan.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">China's Xi Jinping makes rare reference to recent military purge</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Zhang Youxia, widely seen as Xi's closest military ally, was in January removed from his post.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 day ago</span></p></div></div></body></html>"
         },
         {
             "title": "Tumbler Ridge shooting suspect had police visits over mental health struggles",
             "time": "2026-02-12T18:34:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6099/live/ddcf9510-082f-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Her son, Darian Quist, 17, was in the mechanics classroom with about 15 other students when the shooting took place. They blocked the doors and remained there for about two hours, until police escorted them out. </p></div></div></body></html>"
+        },
+        {
+            "title": "Taylor Swift wants to block Cathay Home 'Swift Home' trademark",
+            "time": "2026-02-13T02:29:17",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/620a/live/e85ba490-0872-11f1-bb9c-791b2927f89b.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Swift, represented by TAS Rights Management LLC, appealed against Cathay Home's application in a document, seen by the BBC, which was issued to the US Patent and Trademark Office on Wednesday.</p></div></div></body></html>"
         },
         {
             "title": "Norway's former PM Jagland charged with gross corruption over Epstein links",
@@ -74,10 +80,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This Court has all it needs to conclude that Defendants have trampled on Senator Kelly's First Amendment freedoms and threatened the constitutional liberties of millions of military retirees,\" he wrote. \"To say the least, our retired veterans deserve more respect from their Government, and our Constitution demands they receive it!\"</p></div></div></body></html>"
         },
         {
-            "title": "Bangladesh election: Polls close in first vote since Gen Z protests ousted former PM Sheikh Hasina",
-            "time": "2026-02-12T13:15:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0249/live/85b65510-07ff-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Yunus voted in the capital Dhaka, as did the two leading candidates, Tarique Rahman, 60, for the BNP, and Jamaat's leader Shafiqur Rahman, 67.</p></div></div></body></html>"
+            "title": "Tumbler Ridge grieves after one of Canada's deadliest mass shootings",
+            "time": "2026-02-13T03:10:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e556/live/ba60fef0-0854-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We've been insulated,\" Tracy Krauss, a local pastor, told the BBC. \"A newcomer comes to town and they're locking up, and everyone laughs, because why are you doing that? Nothing happens here.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Sussan Ley: Does Liberal Party drama show Australian politics still has a problem with women?",
+            "time": "2026-02-13T03:11:21",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d7f9/live/ef9b2f80-0865-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Instead of, as a woman, getting out there and arguing for quotas, standing up for them, Ley came out with this line, which I just thought was BS, about being a zealot for getting more women into parliament, but agnostic on quotas,\" Savva says.</p></div></div></body></html>"
         },
         {
             "title": "Who were the victims of the shootings in Tumbler Ridge, Canada?",
@@ -96,18 +108,6 @@
             "time": "2026-02-12T22:40:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/08c0/live/4b6910b0-0862-11f1-9711-6bb3c7faafe7.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"American citizens, and only American citizens, should decide American elections,\" the White House posted on social media, referencing a common talking point of the president's that there is widespread fraud in elections. There is no evidence to support this. </p></div></div></body></html>"
-        },
-        {
-            "title": "North Korea: Who is Kim Ju Ae, the daughter who may succeed Kim Jong Un?",
-            "time": "2026-02-12T16:00:09",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/30dc/live/2b05ab20-8848-11f0-b391-6936825093bd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The exact number, and their order, is by no means certain, however Kim is very secretive about his family, only introducing his wife to the public after they had been married for some time.</p></div></div></body></html>"
-        },
-        {
-            "title": "Four takeaways from Pam Bondi's fiery Epstein testimony",
-            "time": "2026-02-12T16:30:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/25a8/live/1c15d370-0795-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Other Republicans joined in to defend her, including the committee chairman, congressman Jim Jordan, who praised how Bondi had implemented President Trump's crackdown on illegal immigration.</p></div></div></body></html>"
         },
         {
             "title": "'My son is dead': Swiss bar owners confronted by fire victim families",
