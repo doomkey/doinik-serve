@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Marco Rubio says US and Europe 'belong together' despite tensions",
+            "time": "2026-02-14T15:28:12",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f567/live/80039470-09a8-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Rubio, the Trump administration's most senior diplomat, said it was \"neither our goal nor our wish\" to end the transatlantic partnership, adding: \"For us Americans, our home may be in the Western Hemisphere, but we will always be a child of Europe.</p></div></div></body></html>"
+        },
+        {
             "title": "French rape survivor Gisèle Pelicot: I need to have answers",
             "time": "2026-02-14T06:00:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/55fa/live/695085c0-0904-11f1-9972-d3f265c101c6.jpg",
@@ -12,18 +18,6 @@
             "time": "2026-02-14T08:12:09",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/15f8/live/e31d5a70-0988-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">After the doorbell footage was released, investigators received more than 13,000 tips, including 4,000 in the 24 hours.</p></div></div></body></html>"
-        },
-        {
-            "title": "Bangladesh election: Can new leader bring change after landslide win?",
-            "time": "2026-02-14T00:03:33",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ddf4/live/d650f680-0906-11f1-aaa8-3d1a2959c828.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"For the Awami League to come back to the electoral process in Bangladesh, it's going to take a while, because their credibility is in question. When you are accused of killing your own people, of atrocities, persecution, then the people will decide where they fit in in the future of Bangladesh politics.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Partial US government shutdown could mean airport delays, travel groups say",
-            "time": "2026-02-14T05:04:15",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/08e3/live/30182e10-090a-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US Coast Guard, which the DHS also oversees, could also be affected. Vice Admiral Thomas Allan told lawmakers that going a few days without funding would mean about 56,000 workers going without pay, leading the agency to suspend missions that were not critical or lifesaving. </p></div></div></body></html>"
         },
         {
             "title": "'Canadians are with you', Carney says at Tumbler Ridge shooting vigil",
@@ -38,16 +32,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Judea and Samaria is the Jewish homeland of the people of Israel,\" said Zvi Sukkot, a lawmaker in Smotrich's far-right Religious Zionism party. \"I expect there to be full Israeli sovereignty here, but in the meantime at least we can supervise, so there will be no environmental harm, and we won't harm the heritage of the people of Israel, even if it's in Palestinian-run areas.\"</p></div></div></body></html>"
         },
         {
+            "title": "Casey Wasserman to sell talent agency after Epstein fallout - reports",
+            "time": "2026-02-14T13:28:26",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de77/live/7b579890-09a8-11f1-acb3-91fbf84be714.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Tribes grant the Colorado River legal personhood - can this help save it?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The river, which runs through seven US states that share it, is currently facing the worst drought in 1,200 years. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">3 hrs ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "Russia killed opposition leader Alexei Navalny using toxin from dart frog, UK says",
+            "time": "2026-02-14T15:58:12",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/268c/live/8e42e360-09a8-11f1-acb3-91fbf84be714.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">By acting on receptors in the central nervous system, it can cause \"muscle twitching and paralysis, seizures, slow heart rate, respiratory failure and finally death,\" she said.</p></div></div></body></html>"
+        },
+        {
+            "title": "Guinea-Bissau: Planned US-funded baby vaccine trial blasted by WHO",
+            "time": "2026-02-14T16:20:33",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6df3/live/5a9712a0-09a5-11f1-90a0-33c579c60bf0.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But some people can experience jaundice, dark urine, feeling very tired, nausea, vomiting and pain in the abdomen.</p></div></div></body></html>"
+        },
+        {
             "title": "Cuba oil refinery fire hits as fuel crisis deepens",
             "time": "2026-02-14T03:03:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f750/live/8e3beee0-0942-11f1-8315-770a96f27812.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies,\" the UK Foreign Office warned recently.</p></div></div></body></html>"
-        },
-        {
-            "title": "Casey Wasserman to sell talent agency after Epstein fallout - reports",
-            "time": "2026-02-14T13:28:26",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de77/live/7b579890-09a8-11f1-acb3-91fbf84be714.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Tribes grant the Colorado River legal personhood - can this help save it?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The river, which runs through seven US states that share it, is currently facing the worst drought in 1,200 years. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Orban rival Magyar accuses opponents of planning blackmail ahead of Hungarian election",
@@ -62,22 +68,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"While the US retreats from clean vehicle standards, the rest of the world is accelerating, and American automakers are falling behind,\" said Margo T Oge, a former head of the EPA, who was in post when the endangerment finding was brought in.</p></div></div></body></html>"
         },
         {
-            "title": "Who is on helmet that led to Ukrainian athlete's disqualification from Winter Olympics?",
-            "time": "2026-02-13T18:14:06",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e229/live/aa12d8b0-090e-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to Angels of Sport, during her school presidential election campaign she wrote about herself: \"I'd like to tell you a little about myself: I'm 15 years old, I have a music education, and I'm passionate about learning English. My hobby is houseplant cultivation. I'm determined, friendly, and hardworking. I try to approach life with humour and positivity.\"</p></div></div></body></html>"
+            "title": "France probes baby formula producers over contamination recalls",
+            "time": "2026-02-13T22:30:17",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/61d5/live/73b16cc0-092a-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Nestle said on Friday that it intended to run five factories around the clock to increase baby formula production after the global recall. Those factories are in France, Spain, Germany, Switzerland and the Netherlands.</p></div></div></body></html>"
+        },
+        {
+            "title": "Partial US government shutdown could mean airport delays, travel groups say",
+            "time": "2026-02-14T05:04:15",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/08e3/live/30182e10-090a-11f1-b7e1-afb6d0884c18.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US Coast Guard, which the DHS also oversees, could also be affected. Vice Admiral Thomas Allan told lawmakers that going a few days without funding would mean about 56,000 workers going without pay, leading the agency to suspend missions that were not critical or lifesaving. </p></div></div></body></html>"
         },
         {
             "title": "Kathryn Ruemmler: Top Goldman Sachs lawyer who called Epstein 'Uncle Jeffrey' resigns",
             "time": "2026-02-13T17:10:45",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ae44/live/c0da8e10-0884-11f1-afdb-d7bdb19f40ab.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Far from [receiving] a sweetheart deal, Mr Epstein was subjected to a lengthy, aggressive, [and] highly unusual federal investigation for what were, in essence, local [offences] of sexual solicitation,\" Ruemmler wrote.</p></div></div></body></html>"
-        },
-        {
-            "title": "France probes baby formula producers over contamination recalls",
-            "time": "2026-02-13T22:30:17",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/61d5/live/73b16cc0-092a-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Nestle said on Friday that it intended to run five factories around the clock to increase baby formula production after the global recall. Those factories are in France, Spain, Germany, Switzerland and the Netherlands.</p></div></div></body></html>"
         },
         {
             "title": "Don Lemon pleads not guilty in Minnesota church protest case",
@@ -92,22 +98,34 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A third Venezuelan man, Gabriel Alejandro Hernandez Ledezma, who lived nearby, was also arrested after the 14 January incident, but a court filing shows he was taken to an ICE detention facility in Texas, and was later returned to Minnesota and released by order of a federal judge.</p></div></div></body></html>"
         },
         {
+            "title": "Bangladesh election: Can new leader bring change after landslide win?",
+            "time": "2026-02-14T00:03:33",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ddf4/live/d650f680-0906-11f1-aaa8-3d1a2959c828.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"For the Awami League to come back to the electoral process in Bangladesh, it's going to take a while, because their credibility is in question. When you are accused of killing your own people, of atrocities, persecution, then the people will decide where they fit in in the future of Bangladesh politics.\"</p></div></div></body></html>"
+        },
+        {
             "title": "Why did former teen superstar James Van Der Beek need help to pay his medical bills?",
             "time": "2026-02-14T00:03:22",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0f99/live/81541b70-0907-11f1-aaa8-3d1a2959c828.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On top of the costly treatments, Van Der Beek was not making the same cash that he'd seen in the prime of his career decades ago. He had said he was paid \"almost nothing\" for Dawson's Creek and his contract didn't include residuals - payments writers, actors and directors receive when their work is re-aired on television. Actors on other still-popular shows from that same period, like Friends, are said to make about $20m annually from such payments.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">This is because in the US private healthcare system, even those with insurance can face high deductibles and thousands of dollars in out-of-pocket costs, said Eva Stahl, the vice-president of policy at Undue Medical Debt, a non-profit that has paid off about $25bn of medical debt for almost 15 million people.</p></div></div></body></html>"
         },
         {
-            "title": "Winter Olympics 2026: Why Eileen Guo and Alysa Liu have divided social media",
-            "time": "2026-02-13T23:05:07",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ab46/live/633eea90-08b0-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Chinese Australian dissident artist Badiucao, known for his content against the Chinese Communist Party, posted drawings of the athletes recently. One showed Liu in front of a Tiananmen tank, a reference to her father's activism, and another showed Gu holding a Chinese flag, with what appear to be bodies hidden underneath, a not-so-subtle reference to the accusations against Beijing.  </p></div></div></body></html>"
+            "title": "Who is on helmet that led to Ukrainian athlete's disqualification from Winter Olympics?",
+            "time": "2026-02-13T18:14:06",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e229/live/aa12d8b0-090e-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to Angels of Sport, during her school presidential election campaign she wrote about herself: \"I'd like to tell you a little about myself: I'm 15 years old, I have a music education, and I'm passionate about learning English. My hobby is houseplant cultivation. I'm determined, friendly, and hardworking. I try to approach life with humour and positivity.\"</p></div></div></body></html>"
         },
         {
             "title": "Has Kenya nipped Valentine's Day money bouquets in the bud?",
             "time": "2026-02-14T00:02:04",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f99d/live/46ff19e0-08f1-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Recently though, instead of the soft red petals, some people have been opting for the brown, blue or purple of crisp banknotes, folded, rolled or fastened together into floral-like bouquets.</p></div></div></body></html>"
+        },
+        {
+            "title": "Winter Olympics 2026: Why Eileen Guo and Alysa Liu have divided social media",
+            "time": "2026-02-13T23:05:07",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ab46/live/633eea90-08b0-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Chinese Australian dissident artist Badiucao, known for his content against the Chinese Communist Party, posted drawings of the athletes recently. One showed Liu in front of a Tiananmen tank, a reference to her father's activism, and another showed Gu holding a Chinese flag, with what appear to be bodies hidden underneath, a not-so-subtle reference to the accusations against Beijing.  </p></div></div></body></html>"
         },
         {
             "title": "Iran fortifies underground complex near nuclear site, satellite images show",
@@ -126,6 +144,12 @@
             "time": "2026-02-13T06:02:40",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2cec/live/8b8bb8f0-0803-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"People didn't want to know us, and I can understand that entirely,\" says Frances, thinking back to what Andrew did. While their daughter, Alice, says her father \"never forgave himself\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Tribes grant the Colorado River legal personhood - can this help save it?",
+            "time": "2026-02-14T13:13:13",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8b78/live/608361d0-02c2-11f1-b5e2-dd58fc65f0f6.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Indigenous tribes in the southwestern US, led by the Colorado River Indian Tribes (CRIT), have granted the Colorado River legal personhood to help protect it for future generations. In November 2025, the CRIT, made up of the Mojave, Hopi, Navajo and Chemehuevi tribes, passed the resolution recognising the river as a living, life-giving entity with rights like a person. </p><p class=\"sc-9a00e533-0 eZyhnA\">The Colorado River is currently facing the worst drought in 1,200 years. </p><p class=\"sc-9a00e533-0 eZyhnA\">The seven US states that share the river have until 14 February to reach a new water sharing agreement before current ones expires at the end of 2026, or the federal government will step in with their own plan. CRIT believe that personhood status will be a start to help protect the river.</p></div></div></body></html>"
         },
         {
             "title": "Gasps and disbelief in US as 'Quad God's' Olympic dream crumbles",
@@ -150,12 +174,6 @@
             "time": "2026-02-13T11:31:06",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9239/live/e93eee50-08e3-11f1-b5e2-dd58fc65f0f6.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Following the latest release of the Epstein files, claims made by the then Prince Andrew in a 2019 BBC Newsnight interview can be put under fresh scrutiny.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC’s Sean Coughlan and Sarah Campbell have gone through the interview to compare Andrew Mountbatten-Windsor’s replies with emails which were apparently sent to and from the former prince.</p><p class=\"sc-9a00e533-0 eZyhnA\">He is facing growing pressure from US officials and the family of his prominent accuser, the late Virginia Giuffre, to testify in the US about his links to Jeffrey Epstein.</p><p class=\"sc-9a00e533-0 eZyhnA\">The disgraced financier was convicted in 2008 of procuring a child for prostitution and died by suicide in 2019, as he awaited trial on sex trafficking charges.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC has contacted Andrew Mountbatten-Windsor for comment. He has previously denied any wrongdoing.</p></div></div></body></html>"
-        },
-        {
-            "title": "'My son is dead': Swiss bar owners confronted by fire victim families",
-            "time": "2026-02-12T18:40:50",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0a6b/live/4d2b8430-0841-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The owners of a Swiss bar, where a deadly fire broke out on New Year's Eve, killing 41 people and injuring at least 115 others, were heckled by grieving families, as they appeared in court in Switzerland on Thursday.</p><p class=\"sc-9a00e533-0 eZyhnA\">Jessica and Jacques Moretti are under criminal investigation for involuntary manslaughter, as well as bodily harm and arson through negligence.</p></div></div></body></html>"
         }
     ]
 }
