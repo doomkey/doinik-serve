@@ -3,7 +3,7 @@
     "articles": [
         {
             "title": "Marco Rubio says US and Europe 'belong together' despite tensions",
-            "time": "2026-02-14T17:10:53",
+            "time": "2026-02-14T18:44:47",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f567/live/80039470-09a8-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Rubio, the Trump administration's most senior diplomat, said it was \"neither our goal nor our wish\" to end the transatlantic partnership, adding: \"For us Americans, our home may be in the Western Hemisphere, but we will always be a child of Europe.</p></div></div></body></html>"
         },
@@ -41,19 +41,13 @@
             "title": "Casey Wasserman to sell talent agency after Epstein fallout - reports",
             "time": "2026-02-14T13:28:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de77/live/7b579890-09a8-11f1-acb3-91fbf84be714.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Tribes grant the Colorado River legal personhood - can this help save it?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The river, which runs through seven US states that share it, is currently facing the worst drought in 1,200 years. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">5 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Tribes grant the Colorado River legal personhood - can this help save it?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The river, which runs through seven US states that share it, is currently facing the worst drought in 1,200 years. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "'We are not protected' says Hebron mayor, as Israel expands control of West Bank",
             "time": "2026-02-13T22:12:03",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dfd7/live/142e0380-0803-11f1-9972-d3f265c101c6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Judea and Samaria is the Jewish homeland of the people of Israel,\" said Zvi Sukkot, a lawmaker in Smotrich's far-right Religious Zionism party. \"I expect there to be full Israeli sovereignty here, but in the meantime at least we can supervise, so there will be no environmental harm, and we won't harm the heritage of the people of Israel, even if it's in Palestinian-run areas.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Cuba oil refinery fire hits as fuel crisis deepens",
-            "time": "2026-02-14T03:03:27",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f750/live/8e3beee0-0942-11f1-8315-770a96f27812.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies,\" the UK Foreign Office warned recently.</p></div></div></body></html>"
         },
         {
             "title": "Orban rival Magyar accuses opponents of planning blackmail ahead of Hungarian election",
@@ -68,22 +62,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"While the US retreats from clean vehicle standards, the rest of the world is accelerating, and American automakers are falling behind,\" said Margo T Oge, a former head of the EPA, who was in post when the endangerment finding was brought in.</p></div></div></body></html>"
         },
         {
+            "title": "Kathryn Ruemmler: Top Goldman Sachs lawyer who called Epstein 'Uncle Jeffrey' resigns",
+            "time": "2026-02-13T17:10:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ae44/live/c0da8e10-0884-11f1-afdb-d7bdb19f40ab.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Far from [receiving] a sweetheart deal, Mr Epstein was subjected to a lengthy, aggressive, [and] highly unusual federal investigation for what were, in essence, local [offences] of sexual solicitation,\" Ruemmler wrote.</p></div></div></body></html>"
+        },
+        {
             "title": "France probes baby formula producers over contamination recalls",
             "time": "2026-02-13T22:30:17",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/61d5/live/73b16cc0-092a-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Nestle said on Friday that it intended to run five factories around the clock to increase baby formula production after the global recall. Those factories are in France, Spain, Germany, Switzerland and the Netherlands.</p></div></div></body></html>"
         },
         {
+            "title": "Cuba oil refinery fire hits as fuel crisis deepens",
+            "time": "2026-02-14T03:03:27",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f750/live/8e3beee0-0942-11f1-8315-770a96f27812.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies,\" the UK Foreign Office warned recently.</p></div></div></body></html>"
+        },
+        {
             "title": "Partial US government shutdown could mean airport delays, travel groups say",
             "time": "2026-02-14T05:04:15",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/08e3/live/30182e10-090a-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US Coast Guard, which the DHS also oversees, could also be affected. Vice Admiral Thomas Allan told lawmakers that going a few days without funding would mean about 56,000 workers going without pay, leading the agency to suspend missions that were not critical or lifesaving. </p></div></div></body></html>"
-        },
-        {
-            "title": "Kathryn Ruemmler: Top Goldman Sachs lawyer who called Epstein 'Uncle Jeffrey' resigns",
-            "time": "2026-02-13T17:10:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ae44/live/c0da8e10-0884-11f1-afdb-d7bdb19f40ab.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Far from [receiving] a sweetheart deal, Mr Epstein was subjected to a lengthy, aggressive, [and] highly unusual federal investigation for what were, in essence, local [offences] of sexual solicitation,\" Ruemmler wrote.</p></div></div></body></html>"
         },
         {
             "title": "Don Lemon pleads not guilty in Minnesota church protest case",
