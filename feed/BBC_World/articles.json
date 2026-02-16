@@ -2,16 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Bondi criticised after saying all Epstein files have been released",
-            "time": "2026-02-15T21:32:23",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d134/live/2a2760c0-0ab8-11f1-99f8-175d6377faa5.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In the letter, Bondi and her deputy Todd Blanche wrote: \"In accordance with the requirements of the Act, and as described in various Department submissions to the courts of the Southern District of New York assigned to the Epstein and Maxwell prosecutions and related orders, the Department released all 'records, documents, communications and investigative materials in the possession of the Department' that 'relate to' any of nine different categories.\"</p></div></div></body></html>"
-        },
-        {
             "title": "Savannah Guthrie pleas for Nancy Guthrie release as FBI analyses glove",
             "time": "2026-02-16T04:53:41",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1cd8/live/d17cfc80-0b04-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In the US TV anchor's latest video appeal, she addresses \"whoever has her, or knows where she is\", adding that Nancy Guthrie's loved ones \"still have hope\". </p></div></div></body></html>"
+        },
+        {
+            "title": "Bondi criticised after saying all Epstein files have been released",
+            "time": "2026-02-15T21:32:23",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d134/live/2a2760c0-0ab8-11f1-99f8-175d6377faa5.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In the letter, Bondi and her deputy Todd Blanche wrote: \"In accordance with the requirements of the Act, and as described in various Department submissions to the courts of the Southern District of New York assigned to the Epstein and Maxwell prosecutions and related orders, the Department released all 'records, documents, communications and investigative materials in the possession of the Department' that 'relate to' any of nine different categories.\"</p></div></div></body></html>"
         },
         {
             "title": "Ukraine's ex-energy minister arrested while attempting to leave country",
@@ -104,8 +104,14 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">After the doorbell footage was released, investigators received more than 13,000 tips, including 4,000 in the first 24 hours.</p></div></div></body></html>"
         },
         {
+            "title": "Trump has big plans for Venezuela's oil but are they feasible?",
+            "time": "2026-02-16T00:29:21",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">During the Chávez presidency, Venezuela reclassified its reserves. Previously, there were thought to be just 80 billion barrels of extractable oil, but by 2011, its reported figure had nearly quadrupled. That statistical change was made possible by high oil prices at the time, which allowed previously unviable projects to look feasible.</p></div></div></body></html>"
+        },
+        {
             "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-            "time": "2026-02-15T20:13:08",
+            "time": "2026-02-16T08:05:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Because it overstimulates these nerve receptors, if dosed correctly, it can cause muscle twitching, paralysis, seizures, slow heart rate, respiratory failure and ultimately death, she explained.</p></div></div></body></html>"
         },
