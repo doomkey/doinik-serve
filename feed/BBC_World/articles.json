@@ -2,8 +2,14 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Eight skiers found dead after California avalanche",
+            "time": "2026-02-18T21:54:30",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31a3/live/87f7fc50-0d10-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Sheriff tells BBC he believes Nancy Guthrie being held close to her home</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Sheriff Chris Nanos, who is leading the hunt, said he was confident they would find her - whether it took \"10 days, 10 months, or worse\".</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">8 hrs ago</span></p></div></div></body></html>"
+        },
+        {
             "title": "Chagos Islands: Do not give away Diego Garcia, Trump tells UK",
-            "time": "2026-02-18T20:57:22",
+            "time": "2026-02-18T22:08:13",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Posting on the Truth Social platform on Wednesday, Trump wrote: \"I have been telling Prime Minister Keir Starmer, of the United Kingdom, that Leases are no good when it comes to Countries, and that he is making a big mistake by entering a 100 Year Lease...\"</p></div></div></body></html>"
         },
@@ -11,7 +17,7 @@
             "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
             "time": "2026-02-18T19:37:35",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5592/live/677dc670-0cc6-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">California hit by heavy snow as avalanche leaves skiers missing</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Six others skiers were rescued, according to the Nevada County Sheriff's Office, but conditions remain dangerous, with a high chance of further avalanches. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">5 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">California hit by heavy snow as avalanche leaves skiers missing</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Six others skiers were rescued, according to the Nevada County Sheriff's Office, but conditions remain dangerous, with a high chance of further avalanches. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Iran security official appears to fire on crowd at cemetery",
@@ -26,10 +32,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The victims, believed to be men aged between 20 and 40, were buried shortly afterwards in accordance with local tradition, another local resident told the BBC.</p></div></div></body></html>"
         },
         {
-            "title": "Billionaire Lex Wexner tells lawmakers he was 'naive' and 'conned' by Epstein",
+            "title": "Billionaire Les Wexner tells lawmakers he was 'naive' and 'conned' by Epstein",
             "time": "2026-02-18T20:58:35",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f405/live/7313d010-0d02-11f1-9797-cb73f0113553.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We should be very clear that there would be no Epstein island, there'd be no Epstein plane, there'd be no money to traffic women and girls,\" Congressman Robert Garcia, of California, said. \"Mr Epstein would not be the wealthy man he was without the support of Lex Wexner.\"</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We should be very clear that there would be no Epstein island, there'd be no Epstein plane, there'd be no money to traffic women and girls,\" congressman Robert Garcia, of California, said. </p></div></div></body></html>"
         },
         {
             "title": "Wrexham dancer, 71, gobsmacked to feature in Taylor Swift's Opalite music video",
@@ -83,7 +89,7 @@
             "title": "Australia temporarily bans citizen from IS-linked group trying to return",
             "time": "2026-02-18T07:08:18",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ba4f/live/c30e7860-0c92-11f1-ab92-c5c4ffbfd0e0.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Robot dog: Galgotias University faces backlash for claiming Chinese product as own at India AI summit",
@@ -131,7 +137,7 @@
             "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
             "time": "2026-02-18T04:32:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8004/live/aefcd7a0-0c32-11f1-aea9-35917f4e91eb.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Sheriff tells BBC he believes Nancy Guthrie being held close to her home</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Sheriff Chris Nanos, who is leading the hunt, said he was confident they would find her - whether it took \"10 days, 10 months, or worse\".</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Sheriff tells BBC he believes Nancy Guthrie being held close to her home</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Sheriff Chris Nanos, who is leading the hunt, said he was confident they would find her - whether it took \"10 days, 10 months, or worse\".</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">8 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Iran says 'guiding principles' agreed with US at nuclear talks",
@@ -167,7 +173,7 @@
             "title": "South Africa hit by gold fever after lucky find in cattle pen",
             "time": "2026-02-18T00:28:35",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/822b/live/a904dd50-0c3e-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Women from Syria's Alawite minority tell of kidnap and rape",
@@ -179,7 +185,7 @@
             "title": "'He did it for us': US soldier recalls Jesse Jackson's efforts to free him and two other POWs",
             "time": "2026-02-18T00:23:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0e46/live/438cf750-0c43-11f1-b8ba-135d136c986f.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">California hit by heavy snow as avalanche leaves skiers missing</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Six others skiers were rescued, according to the Nevada County Sheriff's Office, but conditions remain dangerous, with a high chance of further avalanches. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">5 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">California hit by heavy snow as avalanche leaves skiers missing</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Six others skiers were rescued, according to the Nevada County Sheriff's Office, but conditions remain dangerous, with a high chance of further avalanches. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
