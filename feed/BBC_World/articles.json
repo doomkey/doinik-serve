@@ -2,16 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Tariffs ruling is major blow to Trump's second-term agenda",
+            "time": "2026-02-20T16:28:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f90b/live/b382ce60-0e76-11f1-9acc-6bf6c7adf476.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Congress, not the president, has the power to impose tariffs, the justices ruled. And nothing in the law that the president based his tariffs on, the Emergency Economic Powers Act of 1977, delegated such sweeping powers to Trump.</p></div></div></body></html>"
+        },
+        {
+            "title": "Nasa targets March 6 date to send humans back around the Moon",
+            "time": "2026-02-20T16:32:49",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d945/live/86f4ff70-08d7-11f1-9972-d3f265c101c6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">They'll be at a distance of 6,500-9,500km (4,000 to 6,000 miles) above the lunar surface, and will have several hours dedicated to studying and taking images of the Moon.</p></div></div></body></html>"
+        },
+        {
             "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
             "time": "2026-02-20T11:10:31",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1d26/live/cb2c34f0-0e5f-11f1-b048-c9424b2cf5fd.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The judge, Norbert Hofer, himself an experienced climber who works with mountain and helicopter rescue teams in Tyrol, said Thomas P was an excellent Alpinist, but that his girlfriend was light-years behind him in terms of her climbing abilities.</p></div></div></body></html>"
-        },
-        {
-            "title": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
-            "time": "2026-02-20T05:45:43",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/043b/live/ff016940-0daa-11f1-9fe5-57999fe11004.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In previous military operations in the Middle East, the US used RAF Fairford, in Gloucestershire, and the UK overseas territory of Diego Garcia, in the Indian Ocean. </p></div></div></body></html>"
         },
         {
             "title": "Asos co-founder dies after Thailand balcony fall",
@@ -26,12 +32,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Venezuela's socialist government has always denied holding political prisoners but first announced days after Maduro's capture, on 8 January, that \"a significant number\" of prisoners would be freed as a goodwill gesture.</p></div></div></body></html>"
         },
         {
-            "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
-            "time": "2026-02-20T10:33:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/15be/live/432eaa20-0e45-11f1-8705-e59653a64488.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"He was warm, generous, prepared, and so passionate about what he did,\" she wrote on Instagram. \"ALS is a cruel and unforgiving disease. May his memory inspire more research, awareness, and progress toward a cure.\"</p></div></div></body></html>"
-        },
-        {
             "title": "Cameroon soldiers handed rare prison sentences after killing of 21 civilians in Northwest region",
             "time": "2026-02-20T13:44:30",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/567f/live/e26fabc0-0e5e-11f1-9120-a910fc22c6ac.jpg",
@@ -39,7 +39,7 @@
         },
         {
             "title": "Authorities in Italy accuse man of training dog to illegally dump his rubbish",
-            "time": "2026-02-20T14:56:28",
+            "time": "2026-02-20T15:57:17",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/af9f/live/3b795c80-0e5e-11f1-9120-a910fc22c6ac.png",
             "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Watch: Skier tells BBC of 'panic' as avalanche hit Italian slopes</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Footage shows a queue of people, including children, covered in snow after an avalanche struck a valley in Courmayeur.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 days ago</span></p></div></div></body></html>"
         },
@@ -47,7 +47,25 @@
             "title": "Jharkhand: Mother and infant burnt to death over witchcraft allegations",
             "time": "2026-02-20T10:10:42",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/07ce/live/7fe59480-0e2f-11f1-8cd2-611404a18f3d.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">22 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 mins ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
+            "time": "2026-02-20T05:45:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/043b/live/ff016940-0daa-11f1-9fe5-57999fe11004.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In previous military operations in the Middle East, the US used RAF Fairford, in Gloucestershire, and the UK overseas territory of Diego Garcia, in the Indian Ocean. </p></div></div></body></html>"
+        },
+        {
+            "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+            "time": "2026-02-20T10:33:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/15be/live/432eaa20-0e45-11f1-8705-e59653a64488.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"He was warm, generous, prepared, and so passionate about what he did,\" she wrote on Instagram. \"ALS is a cruel and unforgiving disease. May his memory inspire more research, awareness, and progress toward a cure.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Woman charged over abandoning dog at Las Vegas airport",
+            "time": "2026-02-20T15:57:00",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/32b8/live/bedd7b50-0e73-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">KFC, Nando's, and others ditch chicken welfare pledge</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Wingstop, Burger King, and others have walked away from an industry commitment to avoid using fast-growing chickens</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">19 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "Hamas holds vote to choose new interim leader, source tells BBC",
@@ -98,60 +116,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The gold bars, worth an estimated 560 million yen ($3.6m; £2.7m), were given last November by a donor who wished to remain anonymous, Osaka Mayor Hideyuki Yokoyama told a press conference on Thursday.</p></div></div></body></html>"
         },
         {
-            "title": "Sudan civil war: UN says atrocities are 'hallmarks of genocide'",
-            "time": "2026-02-19T16:38:50",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/195b/live/21a2de70-0d51-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The body of evidence we collected — including the prolonged siege, starvation and denial of humanitarian assistance, followed by mass killings, rape, torture and enforced disappearance, systematic humiliation and perpetrators' own declarations - leaves only one reasonable inference,\" said fact-finding mission expert Mona Rishmawi. \"The RSF acted with intent to destroy, in whole or in part, the Zaghawa and Fur communities in El-Fasher. These are the hallmarks of genocide.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
-            "time": "2026-02-19T21:33:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a39b/live/c6cf6130-0db4-11f1-a954-b3152d2d59e8.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"And to end that, we have today, and I'm pleased to announce that Kazakhstan, Azerbaijan, UAE, Morocco, Bahrain, Qatar, Saudi Arabia, Uzbekistan, and Kuwait have all contributed more than $7bn toward the relief package\".</p></div></div></body></html>"
-        },
-        {
-            "title": "Robert Mugabe's son Bellarmine arrested in South Africa after reported shooting in Johannesburg",
-            "time": "2026-02-19T16:29:25",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/164d/live/56361970-0d8a-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Bellarmine Mugabe, 28, was taken into custody after a 23-year-old man, believed to be a gardener, was shot and injured.</p></div></div></body></html>"
-        },
-        {
-            "title": "Yoon Suk Yeol: South Korea's ex-president jailed for life over martial law attempt",
-            "time": "2026-02-19T09:46:55",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ab04/live/3ed0c190-0d71-11f1-b1f2-a50c2c5773ab.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Former prime minister Han Duck-soo was handed a 23-year jail term last month for his part in the insurrection, while ex-defence minister Kim Yong-hyun, who advised Yoon to impose martial law, was jailed for 30 years on Thursday.</p></div></div></body></html>"
-        },
-        {
-            "title": "Veteran Belarus dissident who refused exile released",
-            "time": "2026-02-19T20:15:42",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/97ac/live/e8d25460-0dc6-11f1-b7e1-afb6d0884c18.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">'Never give up': Belarusian prisoners celebrate release after US lifts sanctions</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">14 Dec 2025</span></p></div></div></body></html>"
-        },
-        {
-            "title": "White House presses Iran to make deal, while ramping up military presence",
-            "time": "2026-02-19T06:08:07",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2ef1/live/25603cf0-0d43-11f1-b20c-af552a549c33.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US said \"progress was made\" and Badr Albusaidi, the foreign minister of Oman, which is mediating the talks, said the negotiations \"concluded with good progress\" on common aims and technical issues.</p></div></div></body></html>"
-        },
-        {
-            "title": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
-            "time": "2026-02-19T00:04:44",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1e2f/live/5d6254a0-0ce7-11f1-9829-df4a8e2d9f77.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Four months on, Gazans say Hamas is again extending its control over security, tax revenue, and government services, raising questions about its long-term strategy, and whether it is prepared to give up its weapons and authority, as now required under the second stage of Donald Trump's peace plan.</p></div></div></body></html>"
-        },
-        {
-            "title": "Chagos Islands: Do not give away Diego Garcia, Trump tells UK",
-            "time": "2026-02-19T09:03:42",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Posting on the Truth Social platform on Wednesday, Trump wrote: \"I have been telling Prime Minister Keir Starmer, of the United Kingdom, that Leases are no good when it comes to Countries, and that he is making a big mistake by entering a 100 Year Lease...\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Eight skiers found dead after California avalanche",
-            "time": "2026-02-19T12:55:38",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31a3/live/87f7fc50-0d10-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The avalanche that trapped the skiers was rated as a D2.5 on a destructive potential scale of D1 to D5, according to the Sierra Avalanche Center, which would mean it was over half a mile in length and would have a deposit of around 6.5ft. </p></div></div></body></html>"
-        },
-        {
             "title": "Russia-Ukraine war: How one Russian village lost its fighting-age men to conflict",
             "time": "2026-02-20T00:29:39",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/818f/live/9aa4fae0-0cea-11f1-b7e1-afb6d0884c18.jpg",
@@ -173,7 +137,7 @@
             "title": "South African farmers fear devastation as foot-and-mouth takes hold",
             "time": "2026-02-20T00:37:30",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4ce6/live/52a5a940-0d96-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">22 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">8 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "How India Gives report: Ordinary citizens power $6bn in charity annually",
@@ -215,7 +179,7 @@
             "title": "Rouble Nagi: The teacher who won $1m for turning India's slums into open-air classrooms",
             "time": "2026-02-19T02:44:45",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4622/live/4152dbd0-0cb1-11f1-be0b-7bd43c95266e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"When you work in areas like these [slums], you have to build relationships not just with the students but the entire community. Whether that's through monetary help, supplying provisions in difficult times or offering a listening ear to someone who's overwhelmed. If we earn the trust and support of the community, we can continue our good work,\" Nagi explains.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Which teams are through to T20 World Cup Super 8s?</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">What will India, Sri Lanka, West Indies, England, South Africa, New Zealand, Zimbabwe and Pakistan have to do reach the semi-finals of the 2026 T20 World Cup? </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "The two farms in Senegal that supply many of the UK's vegetables",
