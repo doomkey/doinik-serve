@@ -2,16 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Iran students resume anti-government protests",
-            "time": "2026-02-22T14:00:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a75b/live/6cc1b4f0-0fd9-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US-based Human Rights Activists News Agency (Hrana) said it had confirmed the killing of at least 7,015 people during that wave, including 6,508 protesters, 226 children and 214 people affiliated with the government. The latest figures were updated on 15 February.</p></div></div></body></html>"
-        },
-        {
             "title": "Pakistan launches deadly strikes on Afghanistan",
             "time": "2026-02-22T11:33:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cdfd/live/e14f4bb0-0fdf-11f1-a14a-6ffec9f362f0.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a statement on X, it said the targets included members of the banned Tehreek-i-Taliban Pakistan, which the government refers to as \"Fitna al Khawarij,\" along with their affiliates and the Islamic State-Khorasan Province.</p></div></div></body></html>"
+        },
+        {
+            "title": "Trump curious why Iran has not 'capitulated', Witkoff says",
+            "time": "2026-02-22T16:22:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3c58/live/16a6d830-1005-11f1-909d-47e99fcb7a58.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Why, under this sort of pressure, with the amount of seapower and naval power that we have over there, why haven't they come to us and said, 'We profess that we don't want a weapon, so here's what we're prepared to do?'\"</p></div></div></body></html>"
         },
         {
             "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
@@ -83,7 +83,7 @@
             "title": "Nasa astronauts' moon mission delayed due to rocket issue",
             "time": "2026-02-21T21:05:18",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/39f8/live/6cc0a920-0f4d-11f1-9a2a-8fa7cf422a25.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Three US astronauts, Reid Wiseman, Victor Glover and Christina Koch, and Canadian astronaut, Jeremy Hanse, are due to take off in the mega Moon rocket, which will allow them several hours to study the moon's surface up close. </p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Three US astronauts, Reid Wiseman, Victor Glover and Christina Koch, and Canadian astronaut, Jeremy Hansen, are due to take off in the mega Moon rocket, which will allow them several hours to study the moon's surface up close. </p></div></div></body></html>"
         },
         {
             "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
