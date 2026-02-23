@@ -2,6 +2,18 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "El Mencho: Mexico sends thousands of soldiers to stop violence after drug lord's death",
+            "time": "2026-02-23T21:12:47",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e39e/live/a5ab2ba0-10cb-11f1-b4d3-abf57a569766.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Defence Secretary Ricardo Trevilla said an extra 2,500 soldiers had been sent to western Mexico on Monday, with the government saying about 9,500 troops have been deployed overall since Sunday. </p></div></div></body></html>"
+        },
+        {
+            "title": "US partially evacuates embassy in Lebanon amid rising Iran tensions",
+            "time": "2026-02-23T19:08:55",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fd75/live/d26e5f80-10e5-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Watch: What to watch for during Trump's State of the Union address</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">BBC Washington correspondent Daniel Bush on who may skip the speech, why the president is fuming at the Supreme Court, and what policies could, or couldn’t, be in for a shake‑up.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">16 mins ago</span></p></div></div></body></html>"
+        },
+        {
             "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
             "time": "2026-02-23T06:01:59",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4762/live/1529f130-107e-11f1-8ee3-49f22c5c2685.jpg",
@@ -10,20 +22,20 @@
         {
             "title": "Ukraine negotiator tells BBC how it feels to sit over the table from Russia",
             "time": "2026-02-23T19:17:11",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bd3e/live/e6d3dd50-10dc-11f1-97cc-8b3c62c7814d.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3227/live/d020a450-10f8-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Much of this work, he said, is complete, thanks in part to the close involvement of US officials, including General Alexus Grynkewich, Nato's top commander in Europe, and Dan Driscoll, Secretary of the Army.</p></div></div></body></html>"
         },
         {
-            "title": "Violence erupts in Mexico after drug lord El Mencho killed",
-            "time": "2026-02-23T11:27:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0057/live/4d3913e0-10b4-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US state department has urged its nationals to shelter in place until further notice in the states of Jalisco, Baja California, Quintana Roo and areas of Guanajuato, Guerrero, Michoacán, Oaxaca, Nuevo León and Tamaulipas.</p></div></div></body></html>"
+            "title": "Trump vows higher tariffs on countries that 'play games' with existing trade deals",
+            "time": "2026-02-23T21:12:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bfde/live/054d08f0-10ac-11f1-bcca-5de40b00ede7.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Any Country that wants to 'play games' with the ridiculous supreme court decision, especially those that have 'Ripped Off' the U.S.A. for years, and even decades, will be met with a much higher Tariff, and worse, than that which they just recently agreed to,\" he wrote on Truth Social. \"Buyer beware.\" </p></div></div></body></html>"
         },
         {
-            "title": "Man killed after entering secure perimeter of Trump's Mar-a-Lago residence, Secret Service says",
-            "time": "2026-02-23T19:26:32",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">One of Martin's friends, Dustin Rollins, 20, told the New York Times that the man was \"probably one of the kinder souls that I've actually ever met\", and that he had struggled with the death of his sister three years earlier.</p></div></div></body></html>"
+            "title": "Rob Jetten becomes Netherlands' youngest ever prime minister",
+            "time": "2026-02-23T16:33:33",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7587/live/6ff2c730-10b6-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Jesse Klaver, leader of the GreenLeft-Labour coalition, the biggest alliance in opposition, posted on X on Friday about the government's financial plans: \"Ordinary people will pay hundreds of Euros more, while the very richest won't be asked to pay anything extra.</p></div></div></body></html>"
         },
         {
             "title": "Briton among 19 killed in Nepal bus crash",
@@ -32,10 +44,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The bus - which had been carrying tourists - had been travelling to the capital, Kathmandu, when it lost control and fell 200m on to the bank of the Trishuli river, in the country's central Dhading district, in the early hours of Monday morning.</p></div></div></body></html>"
         },
         {
-            "title": "Rob Jetten becomes Netherlands' youngest ever prime minister",
-            "time": "2026-02-23T16:33:33",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7587/live/6ff2c730-10b6-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Jesse Klaver, leader of the GreenLeft-Labour coalition, the biggest alliance in opposition, posted on X on Friday about the government's financial plans: \"Ordinary people will pay hundreds of Euros more, while the very richest won't be asked to pay anything extra.</p></div></div></body></html>"
+            "title": "Man killed after entering secure perimeter of Trump's Mar-a-Lago residence, Secret Service says",
+            "time": "2026-02-23T19:26:32",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">One of Martin's friends, Dustin Rollins, 20, told the New York Times that the man was \"probably one of the kinder souls that I've actually ever met\", and that he had struggled with the death of his sister three years earlier.</p></div></div></body></html>"
         },
         {
             "title": "Australia backs removing Andrew from royal line of succession",
@@ -83,7 +95,7 @@
             "title": "Greenland says 'no thanks' to Trump US hospital boat",
             "time": "2026-02-22T17:27:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8cf5/live/efb924e0-1012-11f1-88db-fb6ad00d69d6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Nick Reiner pleads not guilty in the killing of parents Rob and Michele</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nick Reiner, 32, appeared in a Los Angeles courtroom on Monday, after his parents were found dead in their Brentwood home in December.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Watch: What to watch for during Trump's State of the Union address</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">BBC Washington correspondent Daniel Bush on who may skip the speech, why the president is fuming at the Supreme Court, and what policies could, or couldn’t, be in for a shake‑up.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">16 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
@@ -143,19 +155,13 @@
             "title": "Family of Palestinian-American man killed in West Bank call for accountability",
             "time": "2026-02-21T21:27:07",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0333/live/22305ad0-0ee5-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Nick Reiner pleads not guilty in the killing of parents Rob and Michele</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Nick Reiner, 32, appeared in a Los Angeles courtroom on Monday, after his parents were found dead in their Brentwood home in December.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Watch: What to watch for during Trump's State of the Union address</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">BBC Washington correspondent Daniel Bush on who may skip the speech, why the president is fuming at the Supreme Court, and what policies could, or couldn’t, be in for a shake‑up.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">16 mins ago</span></p></div></div></body></html>"
         },
         {
-            "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
-            "time": "2026-02-21T18:11:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e698/live/9924a1a0-0cd8-11f1-b054-335fa224f76a.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">All the suspects deny any intention to kill, according to the investigating magistrate. Two refused to talk, he said, while the others admitted being at the scene, and some admitted inflicting blows.</p></div></div></body></html>"
-        },
-        {
-            "title": "Katseye girl group's Manon Bannerman steps away to focus on health",
-            "time": "2026-02-21T13:27:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f8f2/live/e9d61e90-0f20-11f1-ba0f-9b79f390a896.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I try to tell myself it doesn't matter, but if 1,000 people are sending you death threats, it's jarring,\" Lara Raj told the BBC.</p></div></div></body></html>"
+            "title": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
+            "time": "2026-02-23T21:24:31",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3967/live/0d78ab50-10d0-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This is Mexico after all - usually there'd be music, people outside, people enjoying life, and there's a really, kind of eerie, feeling in the air here,\" he added.</p></div></div></body></html>"
         },
         {
             "title": "Resilient Zelensky tells BBC Putin has started WW3 and must be stopped",
@@ -203,7 +209,7 @@
             "title": "From Venezuela to immigration, Project 2025 provided Trump's roadmap",
             "time": "2026-02-22T00:02:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5306/live/b0f39890-3c96-11ef-8b26-8df2085234c9.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to a list of questions about Project 2025, White House spokesman Davis Ingle said: \"In just a year, President Trump has made America the hottest country in the world by securing the border, signing the largest middle class tax cuts in history, and bringing in trillions of dollars in investments.\"</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Watch: What to watch for during Trump's State of the Union address</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">BBC Washington correspondent Daniel Bush on who may skip the speech, why the president is fuming at the Supreme Court, and what policies could, or couldn’t, be in for a shake‑up.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">14 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "Child marriage in India: How football is helping girls fight against proposals",
