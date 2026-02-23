@@ -2,20 +2,26 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+            "time": "2026-02-23T06:01:59",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4762/live/1529f130-107e-11f1-8ee3-49f22c5c2685.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The border with Ukraine is 250km away. But sometimes the front line feels much closer. This part of Russia, Lipetsk region, like many others, has been targeted by Ukrainian drones. Around Yelets the authorities have installed emergency shelters. I spot one at a bus stop, another in a park.</p></div></div></body></html>"
+        },
+        {
             "title": "Resilient Zelensky tells BBC Putin has started WW3 and must be stopped",
             "time": "2026-02-22T22:00:47",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/910b/live/bcf7bfe0-102a-11f1-b048-c9424b2cf5fd.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c62e/live/777b4930-1081-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"No, no, no, it's two parallel tracks... you are playing chess with a lot of leaders, not with Russia. There is not one right way. You have to choose a lot of parallel steps, parallel directions. And one of these parallel ways will, I think, bring success. For us, success is to stop Putin.\"</p></div></div></body></html>"
         },
         {
             "title": "Violence erupts in Mexico after drug lord El Mencho killed",
             "time": "2026-02-23T05:30:58",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9fb0/live/1fd8d1f0-1074-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mike Vigil, former Chief of International Operations for the US Drug Enforcement Administration, described the operation as \"one of the most significant actions undertaken in the history of drug trafficking\". He was speaking to CBS, the BBC's US news partner.</p></div></div></body></html>"
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7840/live/29774360-1086-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mike Vigil, former chief of international operations for the US Drug Enforcement Administration, described the operation as \"one of the most significant actions undertaken in the history of drug trafficking\" to CBS, the BBC's US news partner.</p></div></div></body></html>"
         },
         {
             "title": "Man killed after entering secure perimeter of Trump's Mar-a-Lago residence, Secret Service says",
-            "time": "2026-02-22T22:08:03",
+            "time": "2026-02-23T07:16:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In July 2024, Trump was shot in the ear as he stood in front of crowds in Butler, Pennsylvania. One bystander was killed and two were injured in the shooting. The shooter, 20-year-old Matthew Crooks, was immediately shot and killed by security forces and his motive remains unknown.</p></div></div></body></html>"
         },
@@ -26,12 +32,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a statement on X, it said the targets included members of the banned Tehreek-i-Taliban Pakistan, which the government refers to as \"Fitna al Khawarij,\" along with their affiliates and the Islamic State-Khorasan Province.</p></div></div></body></html>"
         },
         {
-            "title": "Bones of St Francis of Assisi go on public display in Italy",
-            "time": "2026-02-22T17:49:01",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f0e3/live/9acee870-1008-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The late Pope Francis, who died last year after leading the Roman Catholic Church for more than a decade, chose his name and modelled his papacy after the radical humility of Saint Francis.</p></div></div></body></html>"
-        },
-        {
             "title": "Trump curious why Iran has not 'capitulated', Witkoff says",
             "time": "2026-02-22T18:18:41",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3c58/live/16a6d830-1005-11f1-909d-47e99fcb7a58.jpg",
@@ -39,9 +39,21 @@
         },
         {
             "title": "North Korea: Kim Jong Un re-appointed as general secretary at party congress",
-            "time": "2026-02-23T02:40:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e011/live/a806b2d0-1052-11f1-ab75-091f8efaa094.jpg",
+            "time": "2026-02-23T07:15:47",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d27d/live/16e50db0-1089-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While Kim has remained at the top of North Korean leadership, the party congress' presidium, or executive committee, has been reshuffled since the last meeting in 2021. More than half of its 39 members have been replaced, according to state media.</p></div></div></body></html>"
+        },
+        {
+            "title": "Cheryl Grimmer: Prosecutors consider reopening cold case disappearance",
+            "time": "2026-02-23T05:07:47",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9212/live/fc3e91f0-9939-11f0-869a-3fa4ad43e8ee.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last October, Jeremy Buckingham, a member of the NSW Legislative Council, the state's upper house, used parliamentary privilege to name the suspect. He had been known only as Mercury, as his real name is legally protected because he was a minor at the time of the alleged crime.</p></div></div></body></html>"
+        },
+        {
+            "title": "Bones of St Francis of Assisi go on public display in Italy",
+            "time": "2026-02-22T17:49:01",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f0e3/live/9acee870-1008-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The late Pope Francis, who died last year after leading the Roman Catholic Church for more than a decade, chose his name and modelled his papacy after the radical humility of Saint Francis.</p></div></div></body></html>"
         },
         {
             "title": "Greenland says 'no thanks' to Trump US hospital boat",
@@ -125,7 +137,7 @@
             "title": "Who was El Mencho, Mexico's most wanted man?",
             "time": "2026-02-23T03:17:03",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8bb9/live/72807460-105d-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Nemesio Oseguera Cervantes – more commonly known as 'El Mencho' – is one of them. Hailing from humble rural roots in the western state of Michoacán, his rise to the top of one of the most feared and dangerous cartels in modern Mexico, the Jalisco New Generation Cartel (CJNG), was meteoric. And it was achieved through aggression, ambition, brutality and ruthlessness.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Hailing from humble rural roots in the western state of Michoacán, his rise to the top of one of the most feared and dangerous cartels in modern Mexico, the Jalisco New Generation Cartel (CJNG), was meteoric. And it was achieved through aggression, ambition, brutality and ruthlessness.</p></div></div></body></html>"
         },
         {
             "title": "Are you cut out for living and working in Antarctica?",
@@ -170,6 +182,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Sitting among green rolling hills, studded with olive groves, most homes in al-Mughayir are in an area where Israel's military controls security, but the internationally backed Palestinian Authority (PA) should provide basic services.  Increasingly though, it cannot – it is mired in a deep economic crisis.</p></div></div></body></html>"
         },
         {
+            "title": "What the killing of drug lord 'El Mencho' means for Mexico",
+            "time": "2026-02-23T07:12:06",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d600/live/3b45a1f0-1085-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Mexico's most wanted man and the leader of the feared Jalisco New Generation (CJNG) drug cartel has been killed, Mexico's defence ministry has confirmed.</p><p class=\"sc-9a00e533-0 eZyhnA\">The security operation and killing has been heralded as a victory in both Mexico and the United States.</p><p class=\"sc-9a00e533-0 eZyhnA\">However, it was met <a target=\"_self\" href=\"https://www.bbc.co.uk/news/articles/c795qgejzpxo\" class=\"sc-f9178328-0 iCaRzc\">with violence across Mexico</a> as the CJNG retaliated by setting cars alight, building roadblocks and attacking security forces in eight states.</p><p class=\"sc-9a00e533-0 eZyhnA\">Mexico's President Claudia Sheinbaum Pardo has urged people to remain \"calm\".</p></div></div></body></html>"
+        },
+        {
             "title": "Inside press briefing as Trump criticises Supreme Court tariffs ruling",
             "time": "2026-02-20T22:56:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/033a/live/3fd35640-0eaa-11f1-b048-c9424b2cf5fd.jpg",
@@ -179,25 +197,13 @@
             "title": "Giant tortoises return to Galápagos island after nearly 200 years",
             "time": "2026-02-21T20:26:04",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b28c/live/95c9ad70-0f62-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Giant tortoises are roaming the Galápagos island of Floreana for the first time in more than 180 years, in what conservationists have called a \"hugely significant milestone\".</p><p class=\"sc-9a00e533-0 eZyhnA\">One hundred and fifty eight captive-bred juvenile <a target=\"_self\" href=\"https://www.bbc.co.uk/news/articles/c9wn1jrzk4go\" class=\"sc-f9178328-0 iCaRzc\">tortoises were released on the island</a> as part of the Floreana Ecological Restoration Project led by the Galápagos National Park Directorate.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-9003107f-3 hFA-DmC\"><div class=\"sc-feaf8701-1 dzYnRP\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 goAeMP\">What the killing of drug lord 'El Mencho' means for Mexico</h2></p></div><p data-testid=\"card-description\" class=\"sc-9003107f-4 jAVyXz\">Nemesio Oseguera Cervantes, known as \"El Mencho\", was killed during a security operation to arrest him, Mexico's defence ministry has said.</p><p class=\"sc-1907e52a-0 jkvOKk\"><span data-testid=\"card-metadata-tag\" class=\"sc-1907e52a-2 coRVrA\">Latin America</span></p></div></div></body></html>"
         },
         {
             "title": "Watch: Why haven't more Americans faced charges in the Epstein case?",
             "time": "2026-02-19T21:38:06",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fc4a/live/8500ee40-0dd2-11f1-b7e1-afb6d0884c18.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The arrest of Andrew Mountbatten-Windsor on suspicion of misconduct in public office is dominating headlines in the US.</p><p class=\"sc-9a00e533-0 eZyhnA\">Yet some US lawmakers are asking why no Americans linked to the late convicted sex offender Jeffrey Epstein are under criminal investigation. </p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's North America editor Sarah Smith explains why US prosecutors don't seem to be any closer to bringing charges against others in relation to revelations in the Epstein files.</p><p class=\"sc-9a00e533-0 eZyhnA\">Andrew has previously denied any wrongdoing in relation to Epstein; he has not responded to the BBC's requests for comment on the specific allegations in relation to the release of millions of Epstein files in January.</p><p class=\"sc-9a00e533-0 eZyhnA\"></p><p class=\"sc-9a00e533-0 eZyhnA\"><i id=\"video-produced-by-madeline-gerber;-edited-by-alex-foster.\" class=\"sc-d16436d-0 iVdNuz\">Video produced by Madeline Gerber; edited by Alex Foster. </i></p></div></div></body></html>"
-        },
-        {
-            "title": "The day Andrew Mountbatten-Windsor was arrested",
-            "time": "2026-02-19T22:20:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/105b/live/33336e40-0de0-11f1-9972-d3f265c101c6.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">On Thursday morning Andrew Mountbatten-Windsor was arrested at Sandringham Estate in Norfolk, on his 66th birthday. </p><p class=\"sc-9a00e533-0 eZyhnA\">The former prince was taken to a police station in Aylsham on suspicion of misconduct in public office - he was later released under investigation, Thames Valley Police said. </p><p class=\"sc-9a00e533-0 eZyhnA\">In statement, King Charles III said \"the law must take its course\". </p><p class=\"sc-9a00e533-0 eZyhnA\">The King and Queen have both been seen carrying out Royal duties as normal. </p><p class=\"sc-9a00e533-0 eZyhnA\">Andrew's arrest came after Thames Valley Police said they were assessing a complaint over the alleged sharing of confidential material by the former prince with late sex offender Jeffrey Epstein. </p><p class=\"sc-9a00e533-0 eZyhnA\">Andrew, has previously denied any wrongdoing in relation to Epstein; he has not responded to the BBC's requests for comment on the specific allegations in relation to the release of millions of Epstein files in January. </p><p class=\"sc-9a00e533-0 eZyhnA\"><i id=\"video-by-rachel-flynn-and-marina-costa.\" class=\"sc-d16436d-0 iVdNuz\">Video by Rachel Flynn and Marina Costa.</i></p></div></div></body></html>"
-        },
-        {
-            "title": "Flying oranges: Italian town holds historic street battle",
-            "time": "2026-02-16T15:10:12",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/393f/live/b6c9edb0-0b42-11f1-b5e2-dd58fc65f0f6.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">A town in northern Italy has started celebrating carnival with its annual Battle of the Oranges, where people hurl the fruit at each other for fun.</p><p class=\"sc-9a00e533-0 eZyhnA\">The historic carnival in Ivrea, an old medieval town near Turin, celebrates the legend of Violetta, a miller's daughter who freed people from a tyrant starving the town.</p><p class=\"sc-9a00e533-0 eZyhnA\">The colourful battle commemorates the uprising and is played between nine teams on foot, who represent the people who revolted, while the orange throwers on horse-drawn carriages represent the feudal armies.</p><p class=\"sc-9a00e533-0 eZyhnA\">The oranges used during the celebration are not suitable for sale, an organiser said, adding that they are collected and used for fertiliser after the event.</p></div></div></body></html>"
         }
     ]
 }
