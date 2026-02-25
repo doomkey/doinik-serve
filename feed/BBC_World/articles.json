@@ -2,6 +2,30 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
+            "time": "2026-02-25T05:56:02",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b72/live/bdc762d0-1215-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last month, he gave a national address from the White House where he struck similar themes and cited similar statistics – but it hasn't convinced the public. The president and his aides appear to be hoping that with a bigger State of the Union audience, which should measure in the tens of millions, the results will be different.</p></div></div></body></html>"
+        },
+        {
+            "title": "Ukraine remembers its dead as war enters a fifth year",
+            "time": "2026-02-24T18:13:58",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3d13/live/92971250-11ab-11f1-a8f6-f18f581059b8.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last month, Zelensky said that \"officially\" 55,000 Ukrainians had been killed on the battlefield – but according to other Ukrainian sources, which the BBC has cross-referenced, the number of Ukrainians killed could be as high as 200,000.</p></div></div></body></html>"
+        },
+        {
+            "title": "Japan to deploy missiles on Yonaguni island near Taiwan by 2031",
+            "time": "2026-02-25T06:00:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2674/live/a06c4dd0-11f8-11f1-ac81-73be0b86ece0.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Takaichi's remarks to parliament plunged ties with China to their lowest level in years and Beijing has been piling on the pressure in a wide range of ways - sending warships, throttling rare earth exports, curbing Chinese tourism, cancelling concerts and even reclaiming its pandas.</p></div></div></body></html>"
+        },
+        {
+            "title": "Chinese dance group's tour triggers bomb threat against Australian PM",
+            "time": "2026-02-25T05:15:05",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ce06/live/6b6d9310-11fc-11f1-9aaf-2d926c8af0e6.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">One of the emails, which was written in Chinese, said large quantities of nitro-glycerine explosives have been placed around the Lodge, the name of the prime minister's official residence in Canberra.</p></div></div></body></html>"
+        },
+        {
             "title": "Kordofan drone strikes: Sudan's pivotal new front line as truce remains elusive",
             "time": "2026-02-25T00:43:00",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6d5c/live/f65cdfe0-11c4-11f1-9120-a910fc22c6ac.jpg",
@@ -10,20 +34,32 @@
         {
             "title": "German chancellor lands in Beijing for inaugural China trip",
             "time": "2026-02-25T05:53:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9548/live/431f8fa0-120e-11f1-b048-c9424b2cf5fd.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1f12/live/248150a0-120f-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While, in response to past allegations of unfairly controlling its currency's value, it's said it's committed to implementing a floating exchange rate regime, based on market supply and demand, but managed where necessary.</p></div></div></body></html>"
+        },
+        {
+            "title": "Senegal anti-LGBT law: PM Ousmane Sonko seeks tougher legislation, doubling prison terms",
+            "time": "2026-02-25T05:46:42",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e26b/live/e38804a0-1203-11f1-bd5e-af799bf42f36.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Earlier this month, police detained 12 men, among them two public figures and a prominent journalist, under anti-LGBT laws. Local media outlets say around 30 people have been arrested in total this month.</p></div></div></body></html>"
+        },
+        {
+            "title": "Trump hits out at reports that top US general warned against attacking Iran",
+            "time": "2026-02-24T16:01:54",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6249/live/1778f420-1198-11f1-b6a5-03d43da28d6c.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"He has not spoken of not doing Iran, or even the fake limited strikes that I have been reading about,\" Trump added. \"He knows only one thing, how to win, and, if he is told to do so, will be leading the pack.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Chris Baghsarian: Police make arrests over alleged kidnap and murder",
+            "time": "2026-02-25T05:09:56",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d558/live/abbe6f10-11d0-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Wednesday, two men, aged 24 and 29, were arrested for questioning, as forensic testing confirmed the body located near a golf course on the city outskirts belonged to Baghsarian.</p></div></div></body></html>"
         },
         {
             "title": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC",
             "time": "2026-02-24T23:30:18",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/40c1/live/bc242da0-1166-11f1-b66b-81ee8bb2df5e.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Districts 3 and 4, they ran younger members of the family, better educated and with less of a godfather image than the older generation. In District 3 they ran under the Democrat party, traditionally their preferred political partner, but in District 4, 34-year-old Chatchai Pitutecha ran under Prime Minister Anutin Charvirakul's Bhumjaithai party, known for its deep pockets and its skill in winning \"Baan Yai\" over to his side. </p></div></div></body></html>"
-        },
-        {
-            "title": "Japan to deploy missiles on Yonaguni island near Taiwan by 2031",
-            "time": "2026-02-25T03:30:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2674/live/a06c4dd0-11f8-11f1-ac81-73be0b86ece0.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Takaichi's remarks to parliament plunged ties with China to their lowest level in years and Beijing has been piling on the pressure in a wide range of ways - sending warships, throttling rare earth exports, curbing Chinese tourism, cancelling concerts and even reclaiming its pandas.</p></div></div></body></html>"
         },
         {
             "title": "FBI Director Kash Patel's jet use delayed investigations, Dem alleges",
@@ -36,12 +72,6 @@
             "time": "2026-02-24T06:02:13",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/17ca/live/2f09e430-10d2-11f1-801d-ed3cff6bf876.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I see it - just two metres, three metres. Just murders, just click, clack, bang. It's not a drama, it's not a movie, it's real life,\" he says.</p></div></div></body></html>"
-        },
-        {
-            "title": "Ukraine remembers its dead as war enters a fifth year",
-            "time": "2026-02-24T18:13:58",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3d13/live/92971250-11ab-11f1-a8f6-f18f581059b8.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last month, Zelensky said that \"officially\" 55,000 Ukrainians had been killed on the battlefield – but according to other Ukrainian sources, which the BBC has cross-referenced, the number of Ukrainians killed could be as high as 200,000.</p></div></div></body></html>"
         },
         {
             "title": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
@@ -134,34 +164,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Much of this work, he said, is complete, thanks in part to the close involvement of US officials, including General Alexus Grynkewich, Nato's top commander in Europe, and Dan Driscoll, Secretary of the Army.</p></div></div></body></html>"
         },
         {
-            "title": "Rob Jetten becomes Netherlands' youngest ever prime minister",
-            "time": "2026-02-23T16:33:33",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7587/live/6ff2c730-10b6-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Jesse Klaver, leader of the GreenLeft-Labour coalition, the biggest alliance in opposition, posted on X on Friday about the government's financial plans: \"Ordinary people will pay hundreds of Euros more, while the very richest won't be asked to pay anything extra.</p></div></div></body></html>"
-        },
-        {
-            "title": "Briton among 19 killed in Nepal bus crash",
-            "time": "2026-02-23T14:14:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c184/live/603c8d80-10a7-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The bus - which had been carrying tourists - had been travelling to the capital, Kathmandu, when it lost control and fell 200m on to the bank of the Trishuli river, in the country's central Dhading district, in the early hours of Monday morning.</p></div></div></body></html>"
-        },
-        {
-            "title": "Australia backs removing Andrew from royal line of succession",
-            "time": "2026-02-23T17:02:46",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1cc2/live/07a98f30-10af-11f1-ae9c-bbdf8b825e1a.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Removing Andrew from the line of succession would require an act of Parliament supported by the 14 Commonwealth countries where King Charles III, his brother, is head of state, including Australia.</p></div></div></body></html>"
-        },
-        {
-            "title": "Man killed after entering secure perimeter of Trump's Mar-a-Lago residence, Secret Service says",
-            "time": "2026-02-23T19:26:32",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">One of Martin's friends, Dustin Rollins, 20, told the New York Times that the man was \"probably one of the kinder souls that I've actually ever met\", and that he had struggled with the death of his sister three years earlier.</p></div></div></body></html>"
-        },
-        {
-            "title": "Mugabe South Africa arrest: Robert Mugabe's son Bellarmine charged with attempted murder",
-            "time": "2026-02-23T12:21:05",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d5cf/live/dea85440-10b3-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mugabe and Tobias Tamirepi Matonhodze, 33, also face additional charges, including defeating the ends of justice, which relates to the missing firearm, prosecutors say.</p></div></div></body></html>"
+            "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
+            "time": "2026-02-25T03:18:11",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1c3b/live/bc2aeeb0-1206-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Shein boss, also known as Sky or Chris Xu, was speaking at the High-quality Development Conference in Guangzhou, a global manufacturing powerhouse that is home to most of China's clothing production.</p></div></div></body></html>"
         },
         {
             "title": "Threat of further violence looms after Mexican cartel rampage",
@@ -234,6 +240,12 @@
             "time": "2026-02-22T00:02:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5306/live/b0f39890-3c96-11ef-8b26-8df2085234c9.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to a list of questions about Project 2025, White House spokesman Davis Ingle said: \"In just a year, President Trump has made America the hottest country in the world by securing the border, signing the largest middle class tax cuts in history, and bringing in trillions of dollars in investments.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "BBC sees burnt cars in Puerto Vallarta after Mexican cartel violence",
+            "time": "2026-02-25T05:57:14",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/30c9/live/a150d4e0-120d-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The evidence of Sunday's terrifying cartel rampage is still visible across parts of Mexico. </p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's Will Grant visits Puerto Vallarta, a popular coastal resort town in Jalisco state, to see the lines of burnt cars in a Costco car park and the cleanup. </p><p class=\"sc-9a00e533-0 eZyhnA\">He says the city is trying to return to a state of normality, as tourists who were trapped make their way to Puerto Vallarta's international airport.</p></div></div></body></html>"
         },
         {
             "title": "Watch: Russian soldiers tell BBC they saw commanders order fellow troops' killing",
