@@ -2,6 +2,36 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Kordofan drone strikes: Sudan's pivotal new front line as truce remains elusive",
+            "time": "2026-02-25T00:43:00",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6d5c/live/f65cdfe0-11c4-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Greater Kordofan comprises three states and serves as a vital axis linking the western Darfur region, controlled by the RSF, to the capital, Khartoum, in the eastern Nile Valley, now in army hands.</p></div></div></body></html>"
+        },
+        {
+            "title": "German chancellor lands in Beijing for inaugural China trip",
+            "time": "2026-02-25T03:21:15",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7918/live/c7ba0a00-11bf-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While, in response to past allegations of unfairly controlling its currency's value, it's said it's committed to implementing a floating exchange rate regime, based on market supply and demand, but managed where necessary.</p></div></div></body></html>"
+        },
+        {
+            "title": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC",
+            "time": "2026-02-24T23:30:18",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/40c1/live/bc242da0-1166-11f1-b66b-81ee8bb2df5e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Districts 3 and 4, they ran younger members of the family, better educated and with less of a godfather image than the older generation. In District 3 they ran under the Democrat party, traditionally their preferred political partner, but in District 4, 34-year-old Chatchai Pitutecha ran under Prime Minister Anutin Charvirakul's Bhumjaithai party, known for its deep pockets and its skill in winning \"Baan Yai\" over to his side. </p></div></div></body></html>"
+        },
+        {
+            "title": "Japan to deploy missiles on Yonaguni island near Taiwan by 2031",
+            "time": "2026-02-25T03:30:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2674/live/a06c4dd0-11f8-11f1-ac81-73be0b86ece0.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Takaichi's remarks to parliament plunged ties with China to their lowest level in years and Beijing has been piling on the pressure in a wide range of ways - sending warships, throttling rare earth exports, curbing Chinese tourism, cancelling concerts and even reclaiming its pandas.</p></div></div></body></html>"
+        },
+        {
+            "title": "FBI Director Kash Patel's jet use delayed investigations, Dem alleges",
+            "time": "2026-02-25T02:10:24",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4539/live/97fdba90-11ca-11f1-9e62-fdfd27f5d401.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The whistleblower alleged that same team was delayed in responding to a mass shooting at Brown University in Rhode Island over Patel's guidance and placing a jet on hold. The team instead drove from Quantico, Virginia - where the bureau's headquarters is located - to Providence, Rhode Island, Durbin said. </p></div></div></body></html>"
+        },
+        {
             "title": "Russia soldiers tell BBC they saw fellow troops in Ukraine war executed on commanders' orders",
             "time": "2026-02-24T06:02:13",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/17ca/live/2f09e430-10d2-11f1-801d-ed3cff6bf876.png",
@@ -14,6 +44,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last month, Zelensky said that \"officially\" 55,000 Ukrainians had been killed on the battlefield – but according to other Ukrainian sources, which the BBC has cross-referenced, the number of Ukrainians killed could be as high as 200,000.</p></div></div></body></html>"
         },
         {
+            "title": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
+            "time": "2026-02-24T15:27:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bd38/live/030a8230-118c-11f1-89e5-1f2745badd52.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Sheriff tells BBC he believes Nancy Guthrie being held close to her home</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Sheriff Chris Nanos, who is leading the hunt, said he was confident they would find her - whether it took \"10 days, 10 months, or worse\".</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 days ago</span></p></div></div></body></html>"
+        },
+        {
             "title": "Mexico hunts 23 inmates sprung from jail during wave of violence",
             "time": "2026-02-24T13:43:53",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/943c/live/67eb7c30-1183-11f1-9b7d-4ba81e2249d1.jpg",
@@ -24,18 +60,6 @@
             "time": "2026-02-24T22:25:54",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ab29/live/1c7202c0-1191-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Holding a shovel in his hand among the mud and debris left by a landslide, he told TV Globo: \"We are here to find her, with God giving us strength and comforting our hearts, so that we may find her alive.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Two dead in Maryland after winter storm hammers US northeast",
-            "time": "2026-02-24T15:31:14",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7027/live/40494920-1195-11f1-b6a5-03d43da28d6c.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In Calvert County, Maryland, on Sunday afternoon, a vehicle was struck by a falling tree that toppled onto the road way, killing Michael Simpson, 60, and Virginia Quesenberry, 43, the sheriff's office said. </p></div></div></body></html>"
-        },
-        {
-            "title": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
-            "time": "2026-02-24T15:27:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bd38/live/030a8230-118c-11f1-89e5-1f2745badd52.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Sheriff tells BBC he believes Nancy Guthrie being held close to her home</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Sheriff Chris Nanos, who is leading the hunt, said he was confident they would find her - whether it took \"10 days, 10 months, or worse\".</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 days ago</span></p></div></div></body></html>"
         },
         {
             "title": "US ambassador to France set for talks with foreign minister after row",
@@ -101,7 +125,7 @@
             "title": "US partially evacuates embassy in Lebanon amid rising Iran tensions",
             "time": "2026-02-23T19:08:55",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fd75/live/d26e5f80-10e5-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Texas lawmaker urged to resign over alleged affair with staffer</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Members of both parties want the three-term congressman, who exchanged racy texts with an aide who later died, to step down. He has denied an affair.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Meanwhile, US Secretary of State Rubio's planned trip to Israel appears to have been delayed, with the schedule \"subject to change\", according to a State Department official.</p></div></div></body></html>"
         },
         {
             "title": "Ukraine negotiator tells BBC how it feels to sit over the table from Russia",
@@ -140,32 +164,8 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mugabe and Tobias Tamirepi Matonhodze, 33, also face additional charges, including defeating the ends of justice, which relates to the missing firearm, prosecutors say.</p></div></div></body></html>"
         },
         {
-            "title": "North Korea: Kim Jong Un re-appointed as general secretary at party congress",
-            "time": "2026-02-23T07:15:47",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d27d/live/16e50db0-1089-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While Kim has remained at the top of North Korean leadership, the party congress' presidium, or executive committee, has been reshuffled since the last meeting in 2021. More than half of its 39 members have been replaced, according to state media.</p></div></div></body></html>"
-        },
-        {
-            "title": "Cheryl Grimmer: Prosecutors consider reopening cold case disappearance",
-            "time": "2026-02-23T05:07:47",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9212/live/fc3e91f0-9939-11f0-869a-3fa4ad43e8ee.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last October, Jeremy Buckingham, a member of the NSW Legislative Council, the state's upper house, used parliamentary privilege to name the suspect. He had been known only as Mercury, as his real name is legally protected because he was a minor at the time of the alleged crime.</p></div></div></body></html>"
-        },
-        {
-            "title": "Trump curious why Iran has not 'capitulated', Witkoff says",
-            "time": "2026-02-22T18:18:41",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3c58/live/16a6d830-1005-11f1-909d-47e99fcb7a58.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Why, under this sort of pressure, with the amount of sea power and naval power that we have over there, why haven't they come to us and said, 'We profess that we don't want a weapon, so here's what we're prepared to do?'\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Bones of St Francis of Assisi go on public display in Italy",
-            "time": "2026-02-22T17:49:01",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f0e3/live/9acee870-1008-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The late Pope Francis, who died last year after leading the Roman Catholic Church for more than a decade, chose his name and modelled his papacy after the radical humility of Saint Francis.</p></div></div></body></html>"
-        },
-        {
             "title": "Threat of further violence looms after Mexican cartel rampage",
-            "time": "2026-02-24T21:04:40",
+            "time": "2026-02-25T02:10:46",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0f9/live/7e72af70-11a4-11f1-8efc-bb8df6087c73.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Organised crime, roadblocks set up by cartels, the burning of buses and the kidnap of ordinary citizens are things her community has endured for two decades, she says, since the state's conflict with the cartels was launched during the presidency of Felipe Calderón in 2006.</p></div></div></body></html>"
         },
