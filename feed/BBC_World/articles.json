@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "American citizen among those killed in Cuba boat shooting, US official says",
+            "time": "2026-02-26T22:58:53",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/72f4/live/ac8d0130-1366-11f1-af0d-af544dd82419.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Handguns, assault rifles and improvised explosive devices were recovered from the speedboat, along with other tactical gear, according to the statement.</p></div></div></body></html>"
+        },
+        {
             "title": "US-Iran talks end after 'significant progress', mediator says",
             "time": "2026-02-26T21:43:44",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3d0a/live/096ee5b0-12fb-11f1-801d-ed3cff6bf876.png",
@@ -11,7 +17,7 @@
             "title": "Pakistan says two soldiers killed after Afghan Taliban launches 'retaliatory' attacks",
             "time": "2026-02-26T21:56:49",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/006c/live/85713e00-133d-11f1-ab49-071111eed6a7.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The 78-year-old Lai, however, remains detained for a separate national security case.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">19 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The 78-year-old Lai, however, remains detained for a separate national security case.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">20 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Danish PM calls snap election with Greenland issue centre-stage",
@@ -24,12 +30,6 @@
             "time": "2026-02-26T06:01:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/feab/live/9482f0a0-1257-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Maybe it is only to provoke our nerves, to exhaust us, to kill our patience,\" she said. \"But we are patient, and we have hope, and we will keep waiting. Today, tomorrow, or after a hundred years, we will get him back. God willing, we will get him back.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
-            "time": "2026-02-26T22:00:13",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/979b/live/47d84290-1307-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Wednesday, however, the US Treasury said it would ease some small private sector transactions, including oil sales, to \"support the Cuban people, for commercial and humanitarian use\".</p></div></div></body></html>"
         },
         {
             "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
@@ -75,7 +75,7 @@
         },
         {
             "title": "US justice department accused of withholding Trump-related Epstein files",
-            "time": "2026-02-26T17:30:50",
+            "time": "2026-02-26T23:08:58",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/005c/live/8f39f990-12e8-11f1-8aab-5db5bc9cf939.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">White House spokeswoman Abigail Jackson said on Tuesday that \"by releasing thousands of pages of documents, cooperating with the House Oversight Committee's subpoena request, signing the Epstein Files Transparency Act, and calling for more investigations into Epstein's Democrat friends, President Trump has done more for Epstein's victims than anyone before him.\"</p></div></div></body></html>"
         },
