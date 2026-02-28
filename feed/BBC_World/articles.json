@@ -2,6 +2,42 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+            "time": "2026-02-27T22:21:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/24f6/live/74232660-1417-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Meanwhile, the State Department announced US Secretary of State Marco Rubio would travel to Israel on Monday, where he is expected to meet Prime Minister Benjamin Netanyahu and discuss \"a range of regional priorities\", including Iran.</p></div></div></body></html>"
+        },
+        {
+            "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+            "time": "2026-02-28T01:32:28",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">When questioned about the photograph showing the former president lounging in a hot tub with the person who appeared to be a woman - whose face is blacked out to protect her identity - Bill Clinton told lawmakers that he did not know her. When asked if he had sex with the woman, he said he did not, a source told the BBC. </p></div></div></body></html>"
+        },
+        {
+            "title": "At least 11 killed after military cargo plane crashes in Bolivia",
+            "time": "2026-02-28T01:20:02",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6edd/live/0f6d1480-1442-11f1-a3e5-c9563bbc439d.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At least 11 people have been killed after a military cargo plane crashed in El Alto, Bolivia's second largest city, according to media reports quoting fire officials. </p></div></div></body></html>"
+        },
+        {
+            "title": "Trump has ordered government agencies to stop using Anthropic AI tools",
+            "time": "2026-02-27T22:52:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e2e0/live/32bf1ff0-1433-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Friday morning, groups representing roughly 700,000 tech workers within Amazon, Google, and Microsoft, all companies that have their own contracts with the Defence Department, signed an open letter urging the companies they worked for to also \"refuse to comply\" with the Pentagon's demands.</p></div></div></body></html>"
+        },
+        {
+            "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
+            "time": "2026-02-28T00:03:55",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5afc/live/0c738cc0-1404-11f1-8e3a-e7cecfbdc12f.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The latest derailment in trade talks occurred after former Prime Minister Justin Trudeau made a bombshell public accusation against India in 2023, alleging it was involved in the killing of Hardeep Singh Nijjar, a Sikh separatist, who was gunned down in British Columbia. Four men were later charged in his death, and their case is still before the courts. </p></div></div></body></html>"
+        },
+        {
+            "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+            "time": "2026-02-27T20:31:27",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12a8/live/c3924a30-13ec-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The right-wing government of Israel's Prime Minister, Benjamin Netanyahu, has taken a tough stance against international and Palestinian NGOs as well as UN agencies, some of which have operated in the region for decades, citing security reasons.  It has also passed legislation banning the UN agency for Palestinian refugees, Unrwa, from operating in Israel, impacting its work in the West Bank and Gaza.</p></div></div></body></html>"
+        },
+        {
             "title": "Tram derails in Milan, leaving two dead and dozens injured",
             "time": "2026-02-27T19:03:10",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/442e/live/240f7610-13fe-11f1-b048-c9424b2cf5fd.jpg",
@@ -14,22 +50,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to the strikes, Zabihullah Mujahid, the Afghan Taliban spokesman, published - then subsequently deleted - a post on X that the group had launched strikes early on Friday on Pakistani military positions in Kandahar and Helmand, two provinces in Afghanistan.</p></div></div></body></html>"
         },
         {
-            "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-            "time": "2026-02-27T13:08:03",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b3fe/live/542ab260-13c7-11f1-8c68-835571867502.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">An offensive was launched at 20:00 local time (15:30 GMT) along the border in the provinces of Nangarhar, Nuristan, Kunar, Khost, Paktia and Paktika, according to statements from Taliban officials.</p></div></div></body></html>"
-        },
-        {
             "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
             "time": "2026-02-27T12:46:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/290c/live/54fb4910-1328-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last week, the Axios news outlet reported that his grandson, Raúl Rodríguez Castro – commonly known in Cuba as \"El Cangrejo\", meaning The Crab – is the Trump administration's point of contact inside Castro's inner circle. If so, he's considered one of his grandfather's most trusted confidantes, having been his personal bodyguard, and more business-orientated than ideological, with no high-level diplomatic experience. Neither side, especially not the Cubans, have confirmed he's in talks with Rubio.</p></div></div></body></html>"
-        },
-        {
-            "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-            "time": "2026-02-27T22:21:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/24f6/live/74232660-1417-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Meanwhile, the State Department announced US Secretary of State Marco Rubio would travel to Israel on Monday, where he is expected to meet Prime Minister Benjamin Netanyahu and discuss \"a range of regional priorities\", including Iran.</p></div></div></body></html>"
         },
         {
             "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
@@ -72,54 +96,6 @@
             "time": "2026-02-27T15:47:20",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aec9/live/b4166720-13ed-11f1-82ca-eb805bf206d6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"It asked me for my date of birth and when I gave it, it started rambling about how its mother was born in the same year\" another Reddit user, who had tried to rearrange a delivery, said. </p></div></div></body></html>"
-        },
-        {
-            "title": "Juan Carlos: Spain opposition seeks disgraced ex-monarch's return from exile",
-            "time": "2026-02-27T13:17:34",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/32bd/live/64e99ef0-13d5-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In August 2020, he left the country to live in the United Arab Emirates, where he has resided ever since. His son and heir, King Felipe, endorsed the move which has kept him out of the public eye, with the exception of occasional visits he has made to Spain for sailing regattas and other social events.</p></div></div></body></html>"
-        },
-        {
-            "title": "India and Israel to boost cooperation in defence and technology",
-            "time": "2026-02-27T07:53:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/96ff/live/2a5ddd20-1397-11f1-85bc-a1a4626a110e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The two countries also concluded over a dozen bilateral agreements, including on cybersecurity, trade, space exploration, education, investment, agriculture and economic cooperation.</p></div></div></body></html>"
-        },
-        {
-            "title": "Former US embassy worker in Burkina Faso jailed for life over abuse of minors",
-            "time": "2026-02-27T12:03:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b0b4/live/e6ed3ad0-13d3-11f1-aa2d-1d11f10592ef.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to evidence presented in court, the abuse occurred at a residence leased for US diplomatic personnel. Because the property was reserved for official use, it fell under US jurisdiction, allowing American authorities to prosecute the case.</p></div></div></body></html>"
-        },
-        {
-            "title": "American citizen among those killed in Cuba boat shooting, US official says",
-            "time": "2026-02-26T23:59:54",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bac8/live/9254c220-136c-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Wednesday, however, the US Treasury said it would ease some small private sector transactions, including oil sales, to \"support the Cuban people, for commercial and humanitarian use\".</p></div></div></body></html>"
-        },
-        {
-            "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
-            "time": "2026-02-27T07:19:18",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/11d1/live/bba8b150-13b1-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In an interview with the BBC last week in Berlin, Germany, Hillary Clinton said she had met Maxwell \"on a few occasions\". Maxwell attended the wedding of the couple's daughter, Chelsea Clinton, in 2010 in New York.</p></div></div></body></html>"
-        },
-        {
-            "title": "Jack Dorsey's Block cuts thousands of roles as it embraces AI",
-            "time": "2026-02-27T00:06:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d4cd/live/44d0fa20-13c4-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The layoffs will mean headcount at the company - which owns Square, CashApp and Tidal - will fall to less than 6,000 from 10,000.</p></div></div></body></html>"
-        },
-        {
-            "title": "Danish PM calls snap election with Greenland issue centre-stage",
-            "time": "2026-02-26T13:56:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/490b/live/75f78830-131a-11f1-b513-7d8d8ff19957.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We must rearm to ensure peace on our continent,\" she said. \"We must stick together in Europe, and we must secure the future of the Danish Commonwealth\" - Denmark, Greenland and the Faroe Islands.</p></div></div></body></html>"
-        },
-        {
-            "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
-            "time": "2026-02-26T18:04:34",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/240d/live/811d6680-1338-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Victims rescued from the Athi Rivers complex last September revealed they had signed contracts with an unnamed overseas employment agency, committing to pay up to $18,000 (£13,000) for visas, travel, accommodation, and other logistics, the police said.</p></div></div></body></html>"
         },
         {
             "title": "How South Korean micro-dramas are trying to break into a China-dominated market",
