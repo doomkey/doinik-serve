@@ -2,22 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Panic in the streets, but relief for some: The mood in Iran",
+            "time": "2026-02-28T14:58:51",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db0c/live/db0f4ab0-14b3-11f1-ba49-192aeb4ed0cc.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Many people had been anticipating a possible US attack. Since last night, long queues have formed at petrol stations, and many residents of the capital, Tehran, have begun leaving the city for the north, near the Caspian Sea, which they believe is safer.</p></div></div></body></html>"
+        },
+        {
             "title": "Iran launches retaliatory strikes at targets across Middle East",
             "time": "2026-02-28T13:35:44",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1dea/live/4d759f00-1496-11f1-94cd-7564c887587c.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's Foreign Minister Abbas Araghchi condemned the attack by the US and Israel as \"wholly unprovoked, illegal, and illegitimate\", and said Iran's armed forces \"are prepared for this day and will teach the aggressors the lesson they deserve\".</p></div></div></body></html>"
-        },
-        {
-            "title": "Why did US and Israel attack Iran?",
-            "time": "2026-02-28T12:17:17",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f722/live/4069b410-14a3-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Islamic regime in Iran is a different matter. It presides over a state, not an armed movement. It not a one-man show. If the supreme leader was killed, he would be replaced, most likely by another cleric supported by the Iran's Islamic Revolutionary Guards Corps (IRGC), which exists alongside the conventional armed forces with the explicit task of defending the regime against threats at home and abroad.</p></div></div></body></html>"
-        },
-        {
-            "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-            "time": "2026-02-28T03:43:56",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know about the joint US-Israel attack on Iran</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">39 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
@@ -26,22 +20,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I want to make it clear to those who are trying to take money from the plane involved in this tragedy that this money has no legal value since it has not been issued by the Central Bank and does not have a serial number, and that attempting to use this money is a crime,\" the Minister of Defence, Marcelo Salinas, said. </p></div></div></body></html>"
         },
         {
+            "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+            "time": "2026-02-28T03:43:56",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know about the joint US-Israel attack on Iran</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
+        },
+        {
             "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
             "time": "2026-02-28T00:03:55",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7ae7/live/28bd9bf0-149a-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The latest derailment in trade talks occurred after former Prime Minister Justin Trudeau made a bombshell public accusation against India in 2023, alleging it was involved in the killing of Hardeep Singh Nijjar, a Sikh separatist, who was gunned down in British Columbia. Four men were later charged in his death, and their case is still before the courts. </p></div></div></body></html>"
         },
         {
-            "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
-            "time": "2026-02-27T20:31:27",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12a8/live/c3924a30-13ec-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The right-wing government of Israel's Prime Minister, Benjamin Netanyahu, has taken a tough stance against international and Palestinian NGOs as well as UN agencies, some of which have operated in the region for decades, citing security reasons.  It has also passed legislation banning the UN agency for Palestinian refugees, Unrwa, from operating in Israel, impacting its work in the West Bank and Gaza.</p></div></div></body></html>"
-        },
-        {
             "title": "Trump has ordered government agencies to stop using Anthropic AI tools",
             "time": "2026-02-28T03:50:05",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e2e0/live/32bf1ff0-1433-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Yet, Trump berated the company on his Truth Social platform, saying Anthropic \"better get their act together, and be helpful during this phase out period, or I will use the Full Power of the Presidency to make them comply, with major civil and criminal consequences to follow\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+            "time": "2026-02-27T20:31:27",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12a8/live/c3924a30-13ec-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The right-wing government of Israel's Prime Minister, Benjamin Netanyahu, has taken a tough stance against international and Palestinian NGOs as well as UN agencies, some of which have operated in the region for decades, citing security reasons.  It has also passed legislation banning the UN agency for Palestinian refugees, Unrwa, from operating in Israel, impacting its work in the West Bank and Gaza.</p></div></div></body></html>"
         },
         {
             "title": "DOJ charges 30 more people in Don Lemon anti-ICE protest case",
@@ -77,7 +77,7 @@
             "title": "Netflix drops Warner Bros bid, clearing way for Paramount takeover",
             "time": "2026-02-27T04:32:38",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/153b/live/ee983d20-1397-11f1-85bc-a1a4626a110e.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know about the joint US-Israel attack on Iran</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">39 mins ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know about the joint US-Israel attack on Iran</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
@@ -102,6 +102,12 @@
             "time": "2026-02-27T10:47:47",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bc8a/live/93468770-13b4-11f1-9ab4-edb1bbd74a92.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Kejriwal had accused the governing Bharatiya Janata Party (BJP), which controls the police and investigating agencies in the capital, of plotting against him and targeting opposition leaders - allegations the BJP has denied.</p></div></div></body></html>"
+        },
+        {
+            "title": "Why did US and Israel attack Iran? They see opportunity not to be missed",
+            "time": "2026-02-28T12:17:17",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f722/live/4069b410-14a3-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Islamic regime in Iran is a different matter. It presides over a state, not an armed movement. It is not a one-man show. If the supreme leader was killed, he would be replaced, most likely by another cleric supported by the Iran's Islamic Revolutionary Guards Corps (IRGC), which exists alongside the conventional armed forces with the explicit task of defending the regime against threats at home and abroad.</p></div></div></body></html>"
         },
         {
             "title": "What we know about the joint US-Israel attack on Iran",
@@ -149,7 +155,7 @@
             "title": "Watch: Smoke rises over Iran as Tehran 'seeks regime change'",
             "time": "2026-02-28T07:54:35",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/74ca/live/ce72d2f0-148a-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">US President Donald Trump has confirmed that the US has launched \"major combat operations\" in Iran. </p><p class=\"sc-9a00e533-0 eZyhnA\">His comments came after Israeli Defence Minister Israel Katz said his country has launched a \"pre-emptive\" attack on the country. </p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's Jon Donnison says he's a projectile being shot down in the skies above east Jerusalem, as Trump looks for \"regime change\" in Iran.</p><p class=\"sc-9a00e533-0 eZyhnA\"></p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.co.uk/news/live/cn5ge95q6y7t\" class=\"sc-f9178328-0 iCaRzc\">Follow live update</a> on this story. </p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">US President Donald Trump has confirmed that the US has launched \"major combat operations\" in Iran. </p><p class=\"sc-9a00e533-0 eZyhnA\">His comments came after Israeli Defence Minister Israel Katz said his country has launched a \"pre-emptive\" attack on the country. </p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's Jon Donnison says he saw a projectile being shot down in the skies above east Jerusalem, as Trump looks for \"regime change\" in Iran.</p><p class=\"sc-9a00e533-0 eZyhnA\"></p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.co.uk/news/live/cn5ge95q6y7t\" class=\"sc-f9178328-0 iCaRzc\">Follow live update</a> on this story. </p></div></div></body></html>"
         },
         {
             "title": "Watch: Trump announces 'major combat operations' in Iran",
