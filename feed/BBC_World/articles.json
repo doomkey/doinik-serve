@@ -2,10 +2,10 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Iran's regime is still intact - the coming days will show if it can hold out",
-            "time": "2026-03-01T18:05:06",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bd/live/dfbdff70-1594-11f1-9199-ed1f26c0ffa2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In recent years, there has been speculation that Khamenei's eldest son, Mojtaba, might be in the running. Yet with several of his father's most trusted commanders in the Islamic Revolutionary Guard Corps reportedly killed in the recent strikes, the internal balance of power may have shifted.</p></div></div></body></html>"
+            "title": "Allies of US in the Gulf bear brunt of Iran attacks",
+            "time": "2026-03-01T22:19:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ec8f/live/4ca9d8f0-15a6-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But if the regime survives, and it may well, then Washington's triple demands of Tehran will come back into focus, namely: a curb on Iran's suspect nuclear programme, including a return to inspections; an end to Iran's ballistic missile programme; and an end to Iran's support for proxy militias around the region, such as the Hezbullah, Hamas, and the Houthis.</p></div></div></body></html>"
         },
         {
             "title": "At least 153 dead after reported strike on school, Iran says",
@@ -14,16 +14,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"People have no shelters, the internet is cut, phone lines are down, and there has been no warning to keep children out of school. In these conditions, the minimum requirement should be to stay at home.\"</p></div></div></body></html>"
         },
         {
-            "title": "Nine dead in missile attack on Beit Shemesh, Israel as Iran strikes",
-            "time": "2026-03-01T20:45:57",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d2ca/live/21bba170-15b3-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a post on X, the Israel Defense Forces accused Iran of directly firing missiles toward Beit Shemesh, west of Jerusalem, \"killing innocent civilians\". Officials say a synagogue where people were sheltering from the air raids was hit.</p></div></div></body></html>"
-        },
-        {
             "title": "Deadly Texas bar shooting 'potentially an act of terrorism', FBI says",
-            "time": "2026-03-01T20:21:28",
+            "time": "2026-03-01T23:17:32",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d76/live/bdafc400-15b6-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Jim Davis, president of the University of Texas, said in a statement: \"Our prayers are with the victims and all those impacted, including members of our Longhorn family, and my heart goes out to their families, friends, classmates, professors, and loved ones.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Nine dead in missile attack on Beit Shemesh, Israel as Iran strikes",
+            "time": "2026-03-01T22:24:27",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d2ca/live/21bba170-15b3-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a post on X, the Israel Defense Forces accused Iran of directly firing missiles toward Beit Shemesh, west of Jerusalem, \"killing innocent civilians\". Officials say a synagogue where people were sheltering from the air raids was hit.</p></div></div></body></html>"
         },
         {
             "title": "War photographer Paul Conroy dies aged 61 as tributes paid",
@@ -47,7 +47,7 @@
             "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
             "time": "2026-02-28T03:43:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"When the video of my testimony today is released, I hope it will motivate everyone to go in front of Congress to say what they know,\" Clinton said. \"I hope it will motivate the justice department to finally release all the files and to ensure that this never happens again. The survivors deserve that.\" </p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Deadly Texas bar shooting 'potentially act of terrorism', FBI says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">Just now</span></p></div></div></body></html>"
         },
         {
             "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
@@ -74,10 +74,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"A group of approximately 40 agitators, including all of the defendants named in this Indictment, entered the Church in a coordinated takeover-style attack and engaged in acts of oppression, intimidation, threats, interference, and physical obstruction alleged herein,\" the indictment says. </p></div></div></body></html>"
         },
         {
+            "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+            "time": "2026-03-01T18:05:06",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bd/live/dfbdff70-1594-11f1-9199-ed1f26c0ffa2.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In recent years, there has been speculation that Khamenei's eldest son, Mojtaba, might be in the running. Yet with several of his father's most trusted commanders in the Islamic Revolutionary Guard Corps reportedly killed in the recent strikes, the internal balance of power may have shifted.</p></div></div></body></html>"
+        },
+        {
             "title": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
             "time": "2026-03-01T14:45:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/03d0/live/feee2cf0-158d-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">UK troops and civilians in Middle East put at risk by Iran strikes, Healey says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">British military personnel at a base in Bahrain were \"within several hundred yards\" of a strike, the defence secretary says.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Deadly Texas bar shooting 'potentially act of terrorism', FBI says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">Just now</span></p></div></div></body></html>"
         },
         {
             "title": "Ayatollah Ali Khamenei: Iran's defiant leader's grip on power ends",
@@ -92,16 +98,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The most recent posts the entrepreneur has shared with his 14,000 followers show him enjoying an international lifestyle - expensively dressed, taking in glamorous cities like Hong Kong, London, Istanbul and Marrakech in just the first two months of this year.</p></div></div></body></html>"
         },
         {
-            "title": "Wellness peptide craze: why people are injecting drugs 'not for human consumption'",
-            "time": "2026-03-01T00:51:29",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be4b/live/be9bfbe0-140d-11f1-9120-a910fc22c6ac.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The people using these products are, in essence, becoming lab rats,\" Adam Taylor, professor of anatomy at Lancaster University, explains. \"There is some data out there, but in pre-clinical models. Essentially they've been tested on animals, but not on humans.\"</p></div></div></body></html>"
-        },
-        {
             "title": "Grossglockner manslaughter case sends ripples through climbing community",
             "time": "2026-03-01T00:57:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9806/live/ac0c26f0-155f-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Most accidents that occur during climbing are down to \"poor planning\", says Matt Cooper, a mountain rescue team member in Wales and founder of the Mountaineering Company. This includes not having suitable clothing and equipment, like crampons and an ice axe, not checking and fully understanding the weather forecast, like which wind speeds are too strong, and not navigating properly, he says.</p></div></div></body></html>"
+        },
+        {
+            "title": "Wellness peptide craze: why people are injecting drugs 'not for human consumption'",
+            "time": "2026-03-01T00:51:29",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be4b/live/be9bfbe0-140d-11f1-9120-a910fc22c6ac.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The people using these products are, in essence, becoming lab rats,\" Adam Taylor, professor of anatomy at Lancaster University, explains. \"There is some data out there, but in pre-clinical models. Essentially they've been tested on animals, but not on humans.\"</p></div></div></body></html>"
         },
         {
             "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
