@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+            "time": "2026-03-01T18:05:06",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bd/live/dfbdff70-1594-11f1-9199-ed1f26c0ffa2.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In recent years, there has been speculation that Khamenei's eldest son, Mojtaba, might be in the running. Yet with several of his father's most trusted commanders in the Islamic Revolutionary Guard Corps reportedly killed in the recent strikes, the internal balance of power may have shifted.</p></div></div></body></html>"
+        },
+        {
             "title": "At least 153 dead after reported strike on school, Iran says",
             "time": "2026-03-01T15:32:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f4c1/live/ea898b90-156c-11f1-801d-ed3cff6bf876.png",
@@ -15,9 +21,9 @@
         },
         {
             "title": "Deadly Texas bar shooting 'potentially an act of terrorism', FBI says",
-            "time": "2026-03-01T17:11:18",
+            "time": "2026-03-01T20:21:28",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/97d7/live/0ee313c0-1591-11f1-85e5-f3dff60d76ee.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The SUV was searched and was not carrying explosives, officials said. However, Acting Special Agent in Charge Alex Doran, from the FBI's San Antonio office, said there were indications in the SUV and on the suspect that suggested a \"nexus to terrorism\".</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Jim Davis, president of the University of Texas, said in a statement: \"Our prayers are with the victims and all those impacted, including members of our Longhorn family, and my heart goes out to their families, friends, classmates, professors, and loved ones.\"</p></div></div></body></html>"
         },
         {
             "title": "Grossglockner manslaughter case sends ripples through climbing community",
@@ -32,12 +38,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Some users and rights activists have welcomed the move, arguing that big tech companies should not exploit large developing markets solely for profit. Others, including digital rights activist Nikhil Pahwa, say Meta and WhatsApp, as commercial entities, have a legitimate right to monetise user metadata.</p></div></div></body></html>"
         },
         {
-            "title": "Wellness peptide craze: why people are injecting drugs 'not for human consumption'",
-            "time": "2026-03-01T00:51:29",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be4b/live/be9bfbe0-140d-11f1-9120-a910fc22c6ac.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The people using these products are, in essence, becoming lab rats,\" Adam Taylor, professor of anatomy at Lancaster University, explains. \"There is some data out there, but in pre-clinical models. Essentially they've been tested on animals, but not on humans.\"</p></div></div></body></html>"
-        },
-        {
             "title": "Why has the US attacked Iran? What we know about the attack and Tehran response",
             "time": "2026-03-01T10:58:33",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/65fc/live/6d5bfb50-14ca-11f1-b048-c9424b2cf5fd.png",
@@ -47,7 +47,7 @@
             "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
             "time": "2026-02-28T03:43:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"When the video of my testimony today is released, I hope it will motivate everyone to go in front of Congress to say what they know,\" Clinton said. \"I hope it will motivate the justice department to finally release all the files and to ensure that this never happens again. The survivors deserve that.\" </p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">Just now</span></p></div></div></body></html>"
         },
         {
             "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
@@ -77,7 +77,7 @@
             "title": "The months of planning behind US-Israeli mission to target Iran's supreme leader",
             "time": "2026-03-01T14:45:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/03d0/live/feee2cf0-158d-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Family 'incredibly worried' for jailed Iran couple</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Craig and Lindsay Foreman, from Sussex, were detained in Iran while travelling the world.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">Just now</span></p></div></div></body></html>"
         },
         {
             "title": "Ayatollah Ali Khamenei: Iran's defiant leader's grip on power ends",
@@ -86,22 +86,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But, over the next 30 years, Khamenei developed networks of loyalists in every area of the Iranian establishment - including parliament, the judiciary, the police, the media, and the clerical elite.</p></div></div></body></html>"
         },
         {
+            "title": "Wellness peptide craze: why people are injecting drugs 'not for human consumption'",
+            "time": "2026-03-01T00:51:29",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be4b/live/be9bfbe0-140d-11f1-9120-a910fc22c6ac.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The people using these products are, in essence, becoming lab rats,\" Adam Taylor, professor of anatomy at Lancaster University, explains. \"There is some data out there, but in pre-clinical models. Essentially they've been tested on animals, but not on humans.\"</p></div></div></body></html>"
+        },
+        {
             "title": "Nepal election: As corruption takes centre stage, where have the 'nepo kids' gone?",
             "time": "2026-02-28T23:03:48",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7e98/live/d6f6d970-14f9-11f1-923f-5f9a0375f3f5.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The most recent posts the entrepreneur has shared with his 14,000 followers show him enjoying an international lifestyle - expensively dressed, taking in glamorous cities like Hong Kong, London, Istanbul and Marrakech in just the first two months of this year.</p></div></div></body></html>"
         },
         {
-            "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
-            "time": "2026-02-27T21:46:14",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/abf5/live/5fd30420-1406-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Rodney Benson, a media professor at New York University, called the deal \"concerning\", would leave America's largest media companies further concentrated in the hands of conservatives. Many of those owners, including the Ellison family, have separate, non news-related business interests that depend on government contracts or regulation and are therefore particularly vulnerable to pressure, he adds.</p></div></div></body></html>"
-        },
-        {
             "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
             "time": "2026-02-27T12:46:26",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/290c/live/54fb4910-1328-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last week, the Axios news outlet reported that his grandson, Raúl Rodríguez Castro – commonly known in Cuba as \"El Cangrejo\", meaning The Crab – is the Trump administration's point of contact inside Castro's inner circle. If so, he's considered one of his grandfather's most trusted confidantes, having been his personal bodyguard, and more business-orientated than ideological, with no high-level diplomatic experience. Neither side, especially not the Cubans, have confirmed he's in talks with Rubio.</p></div></div></body></html>"
+        },
+        {
+            "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
+            "time": "2026-02-27T21:46:14",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/abf5/live/5fd30420-1406-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Rodney Benson, a media professor at New York University, called the deal \"concerning\", would leave America's largest media companies further concentrated in the hands of conservatives. Many of those owners, including the Ellison family, have separate, non news-related business interests that depend on government contracts or regulation and are therefore particularly vulnerable to pressure, he adds.</p></div></div></body></html>"
         },
         {
             "title": "Why are Afghanistan and Pakistan fighting?",
@@ -116,10 +122,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Over nearly two years, from February 2002 to November 2003, Clinton flew on Epstein's plane to Europe, Africa, Asia, Russia and - closer to home - Miami and New York, according to the flight logs. At the time, Clinton's team was trying to raise money for his foundation - as much as $100m (£74.3m), according to a memo published by WikiLeaks. </p></div></div></body></html>"
         },
         {
+            "title": "Watch: Moment Iran's state TV announces Supreme Leader has been killed",
+            "time": "2026-03-01T05:11:16",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/90e2/live/0e90c8f0-152c-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's state media has confirmed that Supreme Leader Ali Khamenei has been killed, after attacks across Iran by Israel and the US, which began on Saturday morning local time.</p><p class=\"sc-9a00e533-0 eZyhnA\">Reading a statement from Iran's Supreme National Security Council, state TV outlets in Iran confirmed Khamenei's death. </p><p class=\"sc-9a00e533-0 eZyhnA\">The confirmation came after US President Donald Trump said Khamenei had been killed and Israeli Prime Minister Benjamin Netanyahu announced that Khamenei's Tehran compound had been hit in \"a powerful, surprise strike\".</p></div></div></body></html>"
+        },
+        {
             "title": "Iran: How US-Israel strikes unfolded... in two minutes",
             "time": "2026-03-01T13:49:35",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0000/live/4130b1b0-1560-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The US and Israel launched attacks across Iran on Saturday, with US President Donald Trump later saying Iranian Supreme Leader Ayatollah Ali Khamenei is dead. </p><p class=\"sc-9a00e533-0 eZyhnA\">Israeli Prime Minister Benjamin Netanyahu said Khamenei's compound in Tehran had been destroyed in a \"powerful, surprise strike\". </p><p class=\"sc-9a00e533-0 eZyhnA\">Iranian state media later confirmed Khamenei's death.</p><p class=\"sc-9a00e533-0 eZyhnA\">Iran responded to the US-Israel attack by launching missiles and drones towards Israel and four Gulf Arab countries which host US military bases: Bahrain, Kuwait, Qatar and the UAE.</p><p class=\"sc-9a00e533-0 eZyhnA\"><i id=\"video-produced-by-amy-walker.\" class=\"sc-d16436d-0 iVdNuz\">Video produced by Amy Walker.</i></p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.co.uk/news/live/cn5ge95q6y7t\" class=\"sc-f9178328-0 iCaRzc\">More on this story.</a></p></div></div></body></html>"
+        },
+        {
+            "title": "Celebrations around the world after strikes on Iran",
+            "time": "2026-03-01T06:22:30",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7624/live/516c8600-1536-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">People in the UK, Spain and the United States celebrated on Saturday following news that Iran's Supreme Leader Ali Khamenei had been killed during attacks across Iran by Israel and the US, which began on Saturday morning local time.</p><p class=\"sc-9a00e533-0 eZyhnA\">The death of the 86-year-old ruler of the past three decades was later confirmed on Iranian state TV.</p></div></div></body></html>"
+        },
+        {
+            "title": "Watch key moments from Bill Clinton's deposition",
+            "time": "2026-02-28T02:32:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9903/live/143a8e00-1435-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Bill Clinton has testified to the House Oversight committee about his connection to Jeffrey Epstein on Friday, one day after his wife, Hillary Clinton was also deposed by the panel. In his testimony, the former US president denied having knowledge of Epstein's crimes. </p><p class=\"sc-9a00e533-0 eZyhnA\">He was asked about a photograph from the Epstein files that shows him in a hot tub with an unidentified person, who appears to be a woman. Clinton told lawmakers he did not know who she is, a source told the BBC. </p><p class=\"sc-9a00e533-0 eZyhnA\">Republicans say transcripts of both depositions will be released to the public. Democrats on the committee say the testimony set a new precedent and that President Donald Trump should also testify.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's North America correspondent Nada Tawfik, reporting from Chappaqua, New York, highlights the key moments of Bill Clinton's deposition.</p></div></div></body></html>"
         },
         {
             "title": "Watch: Smoke rises over Iran as Tehran 'seeks regime change'",
@@ -132,12 +156,6 @@
             "time": "2026-02-28T09:57:05",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6078/live/86656b40-14ac-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Donald Trump has announced the US has started \"major combat operations\" in Iran, accusing the Iranian regime of waging an \"unending campaign of bloodshed and mass murder targeting the United States\".</p><p class=\"sc-9a00e533-0 eZyhnA\">The US president released a video on his social media network Truth Social in the early hours of the morning in the US, shortly after explosions were reported in the Iranian capital Tehran.</p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.co.uk/news/live/cn5ge95q6y7t\" class=\"sc-f9178328-0 iCaRzc\">Follow live updates</a> on this story. </p></div></div></body></html>"
-        },
-        {
-            "title": "Watch key moments from Bill Clinton's deposition",
-            "time": "2026-02-28T02:32:50",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9903/live/143a8e00-1435-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">Bill Clinton has testified to the House Oversight committee about his connection to Jeffrey Epstein on Friday, one day after his wife, Hillary Clinton was also deposed by the panel. In his testimony, the former US president denied having knowledge of Epstein's crimes. </p><p class=\"sc-9a00e533-0 eZyhnA\">He was asked about a photograph from the Epstein files that shows him in a hot tub with an unidentified person, who appears to be a woman. Clinton told lawmakers he did not know who she is, a source told the BBC. </p><p class=\"sc-9a00e533-0 eZyhnA\">Republicans say transcripts of both depositions will be released to the public. Democrats on the committee say the testimony set a new precedent and that President Donald Trump should also testify.</p><p class=\"sc-9a00e533-0 eZyhnA\">The BBC's North America correspondent Nada Tawfik, reporting from Chappaqua, New York, highlights the key moments of Bill Clinton's deposition.</p></div></div></body></html>"
         },
         {
             "title": "Biden takes selfies with passengers as he takes commercial flight",
