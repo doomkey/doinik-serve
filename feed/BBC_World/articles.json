@@ -2,28 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Ayatollah Ali Khamenei: Iran's defiant leader's grip on power ends",
-            "time": "2026-03-01T01:47:42",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But, over the next 30 years, Khamenei developed networks of loyalists in every area of the Iranian establishment - including parliament, the judiciary, the police, the media, and the clerical elite.</p></div></div></body></html>"
+            "title": "At least 148 dead after reported strike on school, Iran says",
+            "time": "2026-03-01T11:40:44",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/042f/live/8fad6fc0-14f4-11f1-aec6-05623088f9a7.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"People have no shelters, the internet is cut, phone lines are down, and there has been no warning to keep children out of school. In these conditions, the minimum requirement should be to stay at home.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+            "time": "2026-03-01T12:12:02",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7e41/live/7195dc90-155b-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Qatar, Bahrain, Jordan and Kuwait - all home to US military bases - said they had intercepted missiles fired towards them, but falling debris appeared to have caused widespread damage.</p></div></div></body></html>"
         },
         {
             "title": "Why has the US attacked Iran? What we know about the attack and Tehran response",
             "time": "2026-03-01T10:58:33",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/65fc/live/6d5bfb50-14ca-11f1-b048-c9424b2cf5fd.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The semi-official Tasnim news agency cited the IRGC as saying its forces had responded to the strikes by hitting multiple sites in Israel as well as five major US military facilities in the region - Al Udeid airbase in Qatar, Al Dhafra airbase in the UAE, the US Fifth Fleet headquarters in Bahrain, Ali Al Salem airbase in Kuwait, and Muwaffaq Salti airbase in Jordan.</p></div></div></body></html>"
-        },
-        {
-            "title": "Dozens dead in Iran school blast blamed on US and Israel strikes",
-            "time": "2026-03-01T02:34:04",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/042f/live/8fad6fc0-14f4-11f1-aec6-05623088f9a7.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"People have no shelters, the internet is cut, phone lines are down, and there has been no warning to keep children out of school. In these conditions, the minimum requirement should be to stay at home.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Iran launches retaliatory strikes at targets across Middle East",
-            "time": "2026-02-28T18:15:02",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4283/live/85aa0020-14d0-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's Foreign Minister Abbas Araghchi condemned the attack by the US and Israel as \"wholly unprovoked, illegal, and illegitimate\", and said Iran's armed forces \"are prepared for this day and will teach the aggressors the lesson they deserve\".</p></div></div></body></html>"
         },
         {
             "title": "Nepal election: As corruption takes centre stage, where have the 'nepo kids' gone?",
@@ -38,16 +32,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The people using these products are, in essence, becoming lab rats,\" Adam Taylor, professor of anatomy at Lancaster University, explains. \"There is some data out there, but in pre-clinical models. Essentially they've been tested on animals, but not on humans.\"</p></div></div></body></html>"
         },
         {
+            "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+            "time": "2026-02-28T13:00:39",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3f65/live/a0833490-1492-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I want to make it clear to those who are trying to take money from the plane involved in this tragedy that this money has no legal value since it has not been issued by the Central Bank and does not have a serial number, and that attempting to use this money is a crime,\" the Minister of Defence, Marcelo Salinas, said. </p></div></div></body></html>"
+        },
+        {
             "title": "WhatsApp: Why is the messenger's privacy policy in India facing a legal challenge?",
             "time": "2026-03-01T00:21:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1ebd/live/e1219080-1246-11f1-b145-71f828aa3547.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Some users and rights activists have welcomed the move, arguing that big tech companies should not exploit large developing markets solely for profit. Others, including digital rights activist Nikhil Pahwa, say Meta and WhatsApp, as commercial entities, have a legitimate right to monetise user metadata.</p></div></div></body></html>"
         },
         {
-            "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-            "time": "2026-02-28T13:00:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3f65/live/a0833490-1492-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I want to make it clear to those who are trying to take money from the plane involved in this tragedy that this money has no legal value since it has not been issued by the Central Bank and does not have a serial number, and that attempting to use this money is a crime,\" the Minister of Defence, Marcelo Salinas, said. </p></div></div></body></html>"
+            "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+            "time": "2026-02-27T20:31:27",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12a8/live/c3924a30-13ec-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The right-wing government of Israel's Prime Minister, Benjamin Netanyahu, has taken a tough stance against international and Palestinian NGOs as well as UN agencies, some of which have operated in the region for decades, citing security reasons.  It has also passed legislation banning the UN agency for Palestinian refugees, Unrwa, from operating in Israel, impacting its work in the West Bank and Gaza.</p></div></div></body></html>"
         },
         {
             "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
@@ -62,52 +62,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Yet, Trump berated the company on his Truth Social platform, saying Anthropic \"better get their act together, and be helpful during this phase out period, or I will use the Full Power of the Presidency to make them comply, with major civil and criminal consequences to follow\".</p></div></div></body></html>"
         },
         {
-            "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
-            "time": "2026-02-27T20:31:27",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12a8/live/c3924a30-13ec-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The right-wing government of Israel's Prime Minister, Benjamin Netanyahu, has taken a tough stance against international and Palestinian NGOs as well as UN agencies, some of which have operated in the region for decades, citing security reasons.  It has also passed legislation banning the UN agency for Palestinian refugees, Unrwa, from operating in Israel, impacting its work in the West Bank and Gaza.</p></div></div></body></html>"
-        },
-        {
             "title": "DOJ charges 30 more people in Don Lemon anti-ICE protest case",
             "time": "2026-02-28T02:17:20",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/39d7/live/398d9ac0-1440-11f1-957e-f799a18870eb.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"A group of approximately 40 agitators, including all of the defendants named in this Indictment, entered the Church in a coordinated takeover-style attack and engaged in acts of oppression, intimidation, threats, interference, and physical obstruction alleged herein,\" the indictment says. </p></div></div></body></html>"
         },
         {
-            "title": "Tram derails in Milan, leaving two dead and dozens injured",
-            "time": "2026-02-27T19:03:10",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/442e/live/240f7610-13fe-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The thing that is a little strange, you see, is that there is a stop here that was skipped, and so that adds another element to what happened,\" Sala said, quoted by Reuters. </p></div></div></body></html>"
-        },
-        {
-            "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
-            "time": "2026-02-27T13:19:18",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/028d/live/78630be0-13c8-11f1-8c68-835571867502.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to the strikes, Zabihullah Mujahid, the Afghan Taliban spokesman, published - then subsequently deleted - a post on X that the group had launched strikes early on Friday on Pakistani military positions in Kandahar and Helmand, two provinces in Afghanistan.</p></div></div></body></html>"
-        },
-        {
-            "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
-            "time": "2026-03-01T06:21:42",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16cb/live/66697720-1554-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Minds were concentrated during the 12-day war last June. On the first night alone, in the first wave of attacks, Israel was able to assassinate nine nuclear scientists, and a number of security chiefs. And in the days that followed, more senior scientists and at least 30 leading commanders were killed. </p></div></div></body></html>"
-        },
-        {
-            "title": "Why did US and Israel attack Iran? They see opportunity not to be missed",
-            "time": "2026-03-01T02:03:31",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f722/live/4069b410-14a3-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Islamic regime in Iran is a different matter. It presides over a state, not an armed movement. It is not a one-man show. If a supreme leader is killed, he will be replaced, most likely by another cleric supported by the Iran's Islamic Revolutionary Guards Corps (IRGC), which exists alongside the conventional armed forces with the explicit task of defending the regime against threats at home and abroad.</p></div></div></body></html>"
-        },
-        {
-            "title": "Bahrain strikes raise questions on how US can deal with Iran retaliation",
-            "time": "2026-02-28T19:34:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f435/live/78689930-14d0-11f1-b106-cbf633dcab7a.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran also has significant capabilities to attack the US Navy - if in range. It has large stocks of anti-ship missiles, as well as small, fast, uncrewed attack boats. There is also the unanswered question of whether China may have given Iran military support over the past few months.</p></div></div></body></html>"
-        },
-        {
-            "title": "How the world has reacted to US and Israeli strikes on Iran",
-            "time": "2026-03-01T04:11:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/afe7/live/3c458a30-14c1-11f1-8007-5bc8640dd651.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At an emergency UN Security Council meeting in New York on Saturday afternoon, US Ambassador Mike Waltz said the strikes were \"directed toward specific and strategic objectives: to dismantle missile capabilities that threaten allies, to degrade naval assets used to destabilise international waters, and to disrupt the machinery that arms proxy militias and to ensure the Iranian regime, never ever can threaten the world with a nuclear weapon\".</p></div></div></body></html>"
+            "title": "Ayatollah Ali Khamenei: Iran's defiant leader's grip on power ends",
+            "time": "2026-03-01T01:47:42",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But, over the next 30 years, Khamenei developed networks of loyalists in every area of the Iranian establishment - including parliament, the judiciary, the police, the media, and the clerical elite.</p></div></div></body></html>"
         },
         {
             "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
@@ -134,9 +98,9 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Over nearly two years, from February 2002 to November 2003, Clinton flew on Epstein's plane to Europe, Africa, Asia, Russia and - closer to home - Miami and New York, according to the flight logs. At the time, Clinton's team was trying to raise money for his foundation - as much as $100m (£74.3m), according to a memo published by WikiLeaks. </p></div></div></body></html>"
         },
         {
-            "title": "How US-Israel strikes on Iran unfolded in 90 seconds",
+            "title": "Iran: How US-Israel strikes unfolded... in two minutes",
             "time": "2026-03-01T02:23:51",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a4a7/live/7804ee30-14f8-11f1-9120-a910fc22c6ac.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0000/live/4130b1b0-1560-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The US and Israel launched attacks across Iran on Saturday, with US President Donald Trump later saying Iranian Supreme Leader Ayatollah Ali Khamenei is dead. </p><p class=\"sc-9a00e533-0 eZyhnA\">Israeli Prime Minister Benjamin Netanyahu said Khamenei's compound in Tehran had been destroyed in a \"powerful, surprise strike\". </p><p class=\"sc-9a00e533-0 eZyhnA\">Iranian state media later confirmed Khamenei's death.</p><p class=\"sc-9a00e533-0 eZyhnA\">Iran responded to the US-Israel attack by launching missiles and drones towards Israel and four Gulf Arab countries which host US military bases: Bahrain, Kuwait, Qatar and the UAE.</p><p class=\"sc-9a00e533-0 eZyhnA\"><i id=\"video-produced-by-amy-walker.\" class=\"sc-d16436d-0 iVdNuz\">Video produced by Amy Walker.</i></p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.co.uk/news/live/cn5ge95q6y7t\" class=\"sc-f9178328-0 iCaRzc\">More on this story.</a></p></div></div></body></html>"
         },
         {
