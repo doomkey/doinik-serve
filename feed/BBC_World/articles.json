@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Ayatollah Ali Khamenei: Iran's defiant leader's grip on power ends",
+            "time": "2026-03-01T01:47:42",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But, over the next 30 years, Khamenei developed networks of loyalists in every area of the Iranian establishment - including parliament, the judiciary, the police, the media, and the clerical elite.</p></div></div></body></html>"
+        },
+        {
             "title": "Panic in the streets, but relief for some: The mood in Iran",
             "time": "2026-02-28T15:36:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db0c/live/db0f4ab0-14b3-11f1-ba49-192aeb4ed0cc.jpg",
@@ -17,7 +23,19 @@
             "title": "Bahrain strikes raise questions on how US can deal with Iran retaliation",
             "time": "2026-02-28T19:34:00",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f435/live/78689930-14d0-11f1-b106-cbf633dcab7a.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran also has significant capabilities to attack the US Navy - if in range. It has large stocks of anti-ship missiles, as well as small, fast, uncrewed attack boats. There is also the unanswered question of whether China may have given Iran military support over the past few months.</p></div></div></body></html>"
+        },
+        {
+            "title": "Nepal election: As corruption takes centre stage, where have the 'nepo kids' gone?",
+            "time": "2026-02-28T23:03:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7e98/live/d6f6d970-14f9-11f1-923f-5f9a0375f3f5.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The most recent posts the entrepreneur has shared with his 14,000 followers show him enjoying an international lifestyle - expensively dressed, taking in glamorous cities like Hong Kong, London, Istanbul and Marrakech in just the first two months of this year.</p></div></div></body></html>"
+        },
+        {
+            "title": "WhatsApp: Why is the messenger's privacy policy in India facing a legal challenge?",
+            "time": "2026-03-01T00:21:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1ebd/live/e1219080-1246-11f1-b145-71f828aa3547.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Some users and rights activists have welcomed the move, arguing that big tech companies should not exploit large developing markets solely for profit. Others, including digital rights activist Nikhil Pahwa, say Meta and WhatsApp, as commercial entities, have a legitimate right to monetise user metadata.</p></div></div></body></html>"
         },
         {
             "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
@@ -29,7 +47,7 @@
             "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
             "time": "2026-02-28T03:43:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c11/live/a930bc20-143d-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"When the video of my testimony today is released, I hope it will motivate everyone to go in front of Congress to say what they know,\" Clinton said. \"I hope it will motivate the justice department to finally release all the files and to ensure that this never happens again. The survivors deserve that.\" </p></div></div></body></html>"
         },
         {
             "title": "Trump has ordered government agencies to stop using Anthropic AI tools",
@@ -71,55 +89,25 @@
             "title": "Netflix drops Warner Bros bid, clearing way for Paramount takeover",
             "time": "2026-02-27T04:32:38",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/153b/live/ee983d20-1397-11f1-85bc-a1a4626a110e.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
-            "time": "2026-02-28T00:03:55",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7ae7/live/28bd9bf0-149a-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The latest derailment in trade talks occurred after former Prime Minister Justin Trudeau made a bombshell public accusation against India in 2023, alleging it was involved in the killing of Hardeep Singh Nijjar, a Sikh separatist, who was gunned down in British Columbia. Four men were later charged in his death, and their case is still before the courts. </p></div></div></body></html>"
-        },
-        {
-            "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
-            "time": "2026-02-27T21:30:10",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6dd4/live/040e4550-13f7-11f1-a72a-ab3c0f4bab15.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In its letter to Canadian officials on Thursday, penned by OpenAI's vice-president of global policy and shared with media outlets, the company said it had implemented a series of changes in recent months, including enlisting the help of \"mental health and behavioural experts\" to assess cases and making the criteria for referral to police \"more flexible\". </p></div></div></body></html>"
-        },
-        {
-            "title": "At least 55 Ghanaians killed in Russia-Ukraine war, Minister Samuel Okudzeto Ablakwa says",
-            "time": "2026-02-27T16:13:13",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bdce/live/16146210-13bc-11f1-b1c6-5b17a410755e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"As a father, I live every day with a silent weight on my chest. I wake up and the first thing I think about is my son - whether he has eaten, whether he is safe, whether he still has hope,\" he added.</p></div></div></body></html>"
-        },
-        {
-            "title": "Jeffrey Epstein tried to buy palace in Morocco days before arrest",
-            "time": "2026-02-27T06:02:12",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7e78/live/74bd9a10-1345-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At that time, Epstein thought the palace, owned by German waste magnate Gunter Kiss, was overvalued at €55m and his initial offer was so low that Kiss was offended and refused to deal with Epstein again, the source who was close to Epstein told the BBC.</p></div></div></body></html>"
-        },
-        {
-            "title": "Arvind Kejriwal: Indian court closes corruption case against former Delhi chief minister",
-            "time": "2026-02-27T10:47:47",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bc8a/live/93468770-13b4-11f1-9ab4-edb1bbd74a92.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Kejriwal had accused the governing Bharatiya Janata Party (BJP), which controls the police and investigating agencies in the capital, of plotting against him and targeting opposition leaders - allegations the BJP has denied.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Thursday, chief executive David Ellison welcomed the Warner Bros board's decision in favour of Paramount's sweetened offer. The proposal, he said in a statement, offers Warner Bros shareholders \"superior value, certainty and speed to closing\".</p></div></div></body></html>"
         },
         {
             "title": "Why did US and Israel attack Iran? They see opportunity not to be missed",
-            "time": "2026-02-28T12:17:17",
+            "time": "2026-03-01T02:03:31",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f722/live/4069b410-14a3-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Islamic regime in Iran is a different matter. It presides over a state, not an armed movement. It is not a one-man show. If the supreme leader was killed, he would be replaced, most likely by another cleric supported by the Iran's Islamic Revolutionary Guards Corps (IRGC), which exists alongside the conventional armed forces with the explicit task of defending the regime against threats at home and abroad.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Islamic regime in Iran is a different matter. It presides over a state, not an armed movement. It is not a one-man show. If a supreme leader is killed, he will be replaced, most likely by another cleric supported by the Iran's Islamic Revolutionary Guards Corps (IRGC), which exists alongside the conventional armed forces with the explicit task of defending the regime against threats at home and abroad.</p></div></div></body></html>"
         },
         {
             "title": "What is happening in Iran? What we know about US-Israel attack and Tehran response",
-            "time": "2026-02-28T22:12:38",
+            "time": "2026-03-01T02:00:21",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/65fc/live/6d5bfb50-14ca-11f1-b048-c9424b2cf5fd.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Meanwhile, the UK Foreign Office travel guidance for Jordan, Syria, Lebanon, Iraq, Yemen, Turkey, Saudi Arabia and Oman, is now advising travellers to \"remain vigilant, follow local authority advice and take shelter if advised\".</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's state news agency, Irna, said there were explosions in Tehran, Karaq and Qom, as well as the western provinces of Lorestan, Hamadan, Kermanshah and Ilam; Tabriz in the north west; and parts of the southern Gulf province of Hormozgan, including Qeshm Island.</p></div></div></body></html>"
         },
         {
             "title": "How the world has reacted to US and Israeli strikes on Iran",
-            "time": "2026-02-28T16:00:32",
+            "time": "2026-02-28T23:58:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/afe7/live/3c458a30-14c1-11f1-8007-5bc8640dd651.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The statement, <a target=\"_blank\" href=\"https://x.com/GermanEmbassy/status/2027742802260467832\" class=\"sc-f9178328-0 iCaRzc\">posted on X</a> by the German Embassy in London, said the countries had consistently urged the Iranian regime to end its nuclear and missile programs, refrain from \"destabilising activity\", and to stop the \"appalling violence and repression against its own people\".</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At an emergency UN Security Council meeting in New York on Saturday afternoon, US Ambassador Mike Waltz said the strikes were \"directed toward specific and strategic objectives: to dismantle missile capabilities that threaten allies, to degrade naval assets used to destabilise international waters, and to disrupt the machinery that arms proxy militias and to ensure the Iranian regime, never ever can threaten the world with a nuclear weapon\".</p></div></div></body></html>"
         },
         {
             "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
@@ -156,12 +144,6 @@
             "time": "2026-02-27T09:15:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c8dd/live/c1681840-131d-11f1-b513-7d8d8ff19957.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last October, the group's leader, Abdul Malik al-Houthi, said in a speech that his group had arrested what he described as \"well trained spy cells operating under a humanitarian cover\", from organisations including the WFP and Unicef, the UN's childrens agency. The UN has rejected the allegations.</p></div></div></body></html>"
-        },
-        {
-            "title": "How AI is supercharging Russia's online disinformation campaigns",
-            "time": "2026-02-27T07:53:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/684f/live/cfe405c0-1343-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Unlike traditional Russian propaganda outlets like media companies RT and Sputnik, which the West swiftly sanctioned at the start of the invasion of Ukraine, such campaigns \"allow for a level of... plausible deniability that complicates counter-influence efforts\", said Sophie Williams-Dunning, a cyber and tech researcher at the Royal United Services Institute think tank.</p></div></div></body></html>"
         },
         {
             "title": "Watch: Smoke rises over Iran as Tehran 'seeks regime change'",
