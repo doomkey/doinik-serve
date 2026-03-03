@@ -3,9 +3,9 @@
     "articles": [
         {
             "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
-            "time": "2026-03-03T11:01:15",
+            "time": "2026-03-03T11:52:54",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Hiring a supertanker to move oil from the Middle East to China reached an all-time high on Monday of more than $400,000 (£298,300) almost double the cost last week, according to data from the London Stock Exchange Group.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Hiring a supertanker to move oil from the Middle East to China reached an all-time high on Monday of more than $400,000 (£298,300) per day, almost double the cost last week, according to data from the London Stock Exchange Group.</p></div></div></body></html>"
         },
         {
             "title": "Six US soldiers killed in Iranian strike on Kuwait base",
@@ -14,22 +14,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran has responded to attacks against it by launching missiles at Gulf countries allied with the US. Bahrain, UAE, Saudi Arabia, Oman and Qatar have all also seen strikes.</p></div></div></body></html>"
         },
         {
-            "title": "'The house was shaking': Iranians describe impact of US-Israel attacks",
-            "time": "2026-03-02T13:54:20",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a418/live/98c972a0-1636-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Last night, there were lots of government supporters on the streets, but I saw from their faces that they looked angry and furious. The security forces patrol during the night to frighten people. Bakeries and petrol stations are busy. </p></div></div></body></html>"
-        },
-        {
-            "title": "France to boost nuclear arsenal and extend deterrence to European allies",
-            "time": "2026-03-02T18:16:14",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fb2e/live/e103afb0-1661-11f1-b1a8-d97a7a8b24a4.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He said eight other European countries – the UK, Germany, Poland, the Netherlands, Belgium, Greece, Sweden and Denmark – had agreed to participate in a new \"advanced deterrence\" strategy.</p></div></div></body></html>"
-        },
-        {
-            "title": "South Sudan attack in Ruweng kills at least 169 people",
-            "time": "2026-03-02T16:11:52",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/67f2/live/ab0fe890-164f-11f1-b29a-e1e1dc0900a9.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">''The dead include 90 children, women and elderly people, as well as 79 members of regional forces, including police,'' Mijok said.</p></div></div></body></html>"
+            "title": "US-Israel war with Iran: OpenAI changes deal with US after backlash",
+            "time": "2026-03-03T11:51:31",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7073/live/0c673370-16f3-11f1-a694-e5c2b699acf9.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The software brings together a huge range of military information, from satellite data to intelligence reports, which can then be analysed by commercial AI systems such as Claude to help make \"faster, more efficient, and ultimately more lethal decisions where that's appropriate\", Louis Mosley, the head of Palantir's UK operations said.</p></div></div></body></html>"
         },
         {
             "title": "US sanctions Rwanda's army for violating Trump-brokered DR Congo peace deal",
@@ -38,22 +26,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The sanctioned Rwandan officials include army chief of staff Vincent Nyakarundi,  Ruki Karusisi, commander of the 5th Infantry Division, Mubarakh Muganga, Rwanda's chief of defence staff and Stanislas Gashugi, head of special operations.</p></div></div></body></html>"
         },
         {
+            "title": "India's top court angry after junior judge cites fake AI-generated orders",
+            "time": "2026-03-03T11:34:01",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In its order, the high court said that \"the citations may be non-existent, but if the learned trial court has considered the correct principles of law and its application to the facts of the case is also correct, mere mentioning of incorrect or non-existent rulings/citations in the order cannot be a ground to set aside the order\".</p></div></div></body></html>"
+        },
+        {
+            "title": "South Sudan attack in Ruweng kills at least 169 people",
+            "time": "2026-03-02T16:11:52",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/67f2/live/ab0fe890-164f-11f1-b29a-e1e1dc0900a9.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">''The dead include 90 children, women and elderly people, as well as 79 members of regional forces, including police,'' Mijok said.</p></div></div></body></html>"
+        },
+        {
+            "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+            "time": "2026-03-02T18:16:14",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fb2e/live/e103afb0-1661-11f1-b1a8-d97a7a8b24a4.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He said eight other European countries – the UK, Germany, Poland, the Netherlands, Belgium, Greece, Sweden and Denmark – had agreed to participate in a new \"advanced deterrence\" strategy.</p></div></div></body></html>"
+        },
+        {
             "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
             "time": "2026-03-02T20:18:12",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b355/live/9a5a8070-1616-11f1-9697-634d5add2261.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Carney to push his middle power strategy during Australia visit </h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Defence, trade, and the global place of \"middle powers\" will be on the agenda as Prime Minister Mark Carney meets his Australian counterpart, Anthony Albanese. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">16 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "Rembrandt's Vision of Zacharias in the Temple rediscovered after 65 years",
-            "time": "2026-03-02T16:54:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5cc3/live/fe63eae0-1628-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Materials analysis, stylistic and thematic similarities, alterations made by Rembrandt, and the overall quality of the painting all support the conclusion that this painting is a genuine work,\" the gallery said.</p></div></div></body></html>"
-        },
-        {
-            "title": "Saturday Night Live criticised by charity for 'hurtful' Tourette's sketch",
-            "time": "2026-03-02T16:43:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/557c/live/59eadb60-164e-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">During a mock prayer in his introduction, in which he also took aim at several celebrities, Cole said: \"If there are any white men out here in the audience, Lord, with Tourette's, I advise you to tell them they'd better read the room tonight, Lord.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Carney to push his middle power strategy during Australia visit </h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Defence, trade, and the global place of \"middle powers\" will be on the agenda as Prime Minister Mark Carney meets his Australian counterpart, Anthony Albanese. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">17 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Three victims identified in deadly Texas bar shooting FBI says could have terrorism links",
@@ -62,10 +56,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Jim Davis, president of the University of Texas, said in a statement: \"Our prayers are with the victims and all those impacted, including members of our Longhorn family, and my heart goes out to their families, friends, classmates, professors, and loved ones.\"</p></div></div></body></html>"
         },
         {
-            "title": "Actor Awards red carpet: Timothée Chalamet, Emma Stone and Michael B Jordan",
-            "time": "2026-03-02T01:33:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/def3/live/24fc5210-15f6-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Actor Awards: The winners and nominations in full</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The ceremony, formerly known as the SAG Awards, took place in Los Angeles on Sunday night.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 day ago</span></p></div></div></body></html>"
+            "title": "Saturday Night Live criticised by charity for 'hurtful' Tourette's sketch",
+            "time": "2026-03-02T16:43:24",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/557c/live/59eadb60-164e-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">During a mock prayer in his introduction, in which he also took aim at several celebrities, Cole said: \"If there are any white men out here in the audience, Lord, with Tourette's, I advise you to tell them they'd better read the room tonight, Lord.</p></div></div></body></html>"
+        },
+        {
+            "title": "Rembrandt's Vision of Zacharias in the Temple rediscovered after 65 years",
+            "time": "2026-03-02T16:54:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5cc3/live/fe63eae0-1628-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Materials analysis, stylistic and thematic similarities, alterations made by Rembrandt, and the overall quality of the painting all support the conclusion that this painting is a genuine work,\" the gallery said.</p></div></div></body></html>"
         },
         {
             "title": "Deepfake attack: 'Many people could have been cheated'",
@@ -86,22 +86,40 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Some users and rights activists have welcomed the move, arguing that big tech companies should not exploit large developing markets solely for profit. Others, including digital rights activist Nikhil Pahwa, say Meta and WhatsApp, as commercial entities, have a legitimate right to monetise user metadata.</p></div></div></body></html>"
         },
         {
+            "title": "The little town making nearly all of China's lanterns",
+            "time": "2026-03-03T05:28:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5fbe/live/80c410f0-07c9-11f1-a37e-fd1b08007a23.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In China, red lanterns could guide a traveller to safety in cold winter alleyways, be symbols of power outside an imperial hall, or act as a call to religious devotion when hung in a temple.</p></div></div></body></html>"
+        },
+        {
+            "title": "Texas Republicans back Trump over Iran strikes - but some fear 'a quagmire'",
+            "time": "2026-03-03T09:57:15",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0772/live/170cd980-16f6-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Senate primary fights are the marquee matchup in Texas on Tuesday, with contested races for both the Democrats and Republicans. While those on the left have been comfortable criticising Trump and his decision to launch the Iran operation, Republicans have tended, like Paxton, to offer praise of Trump and then move on to other topics.</p></div></div></body></html>"
+        },
+        {
+            "title": "Why did US and Israel attack Iran and how long could the war last?",
+            "time": "2026-03-03T07:49:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eb4d/live/57511b80-163f-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US state department on Monday urged American nationals to \"depart now\" from Bahrain, Egypt, Iran, Iraq, Israel, the West Bank and Gaza, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates and Yemen.</p></div></div></body></html>"
+        },
+        {
             "title": "Balen Shah: Rap star hopes to unseat former PM Oli in Nepal's Gen Z election",
             "time": "2026-03-02T06:34:28",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0e21/live/c38782f0-15e8-11f1-a645-c915a9476d84.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Throughout the campaign, Balen Shah has mostly avoided interviews with the press, opting to speak to voters through social media posts instead. As we and other media outlets tried to approach him for comment, he stormed to his campaign car, flanked by police and his entourage.</p></div></div></body></html>"
         },
         {
-            "title": "Iran must select a new leader - the coming days will show if the regime can hold out",
-            "time": "2026-03-01T18:05:06",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c115/live/555f5c70-1625-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In recent years, there has been speculation that Khamenei's eldest son, Mojtaba, might be in the running. Yet with several of his father's most trusted commanders in the Islamic Revolutionary Guard Corps reportedly killed in the recent strikes, the internal balance of power may have shifted.</p></div></div></body></html>"
-        },
-        {
             "title": "Kim Ju Ae: Could Kim Jong Un's teen daughter become North Korea's next leader?",
             "time": "2026-03-01T23:11:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c8d/live/5a92b220-13f3-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ryu, who served as a diplomat before defecting in 2019, says the North Korean legal code, created by the Kim family, requires the country to be run by a person of the Paektu bloodline - in other words, a direct descendant of the country's founder Kim Il Sung.</p></div></div></body></html>"
+        },
+        {
+            "title": "'The house was shaking': Iranians describe impact of US-Israel attacks",
+            "time": "2026-03-02T13:54:20",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a418/live/98c972a0-1636-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Last night, there were lots of government supporters on the streets, but I saw from their faces that they looked angry and furious. The security forces patrol during the night to frighten people. Bakeries and petrol stations are busy. </p></div></div></body></html>"
         },
         {
             "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
@@ -170,10 +188,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Over nearly two years, from February 2002 to November 2003, Clinton flew on Epstein's plane to Europe, Africa, Asia, Russia and - closer to home - Miami and New York, according to the flight logs. At the time, Clinton's team was trying to raise money for his foundation - as much as $100m (£74.3m), according to a memo published by WikiLeaks. </p></div></div></body></html>"
         },
         {
-            "title": "What happened on the third day of the US-Israeli war with Iran",
-            "time": "2026-03-02T23:21:16",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d82c/live/6efc9490-168e-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">The US-Israeli war with Iran entered its third day with more violent drone and air strikes traded between the opposing sides.</p><p class=\"sc-9a00e533-0 eZyhnA\">In a fast-moving day, the US struck locations in Iran, with scenes of devastation seen on the streets.</p><p class=\"sc-9a00e533-0 eZyhnA\">Israel launched strikes on Lebanon, targeting sites believed to be Hezbollah positions.</p><p class=\"sc-9a00e533-0 eZyhnA\">Three US fighter jets crashed in Kuwait, which the US says went down in apparent friendly fire.</p><p class=\"sc-9a00e533-0 eZyhnA\">In Cyprus, a British RAF base was hit by an Iranian drone, causing an evacuation.</p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.co.uk/news/articles/c5y4v8g13wxo\" class=\"sc-f9178328-0 iCaRzc\">Read more on how the conflict widened today.</a></p></div></div></body></html>"
+            "title": "US-Israel war with Iran widens as strikes continue",
+            "time": "2026-03-03T10:20:26",
+            "imgUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n49z8r.jpg",
+            "body": "<html><body></body></html>"
         },
         {
             "title": "Watch: How the US-Israel war with Iran is jeopardising shipping",
