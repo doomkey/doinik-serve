@@ -2,28 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Iran delays Khamenei funeral as US and Israeli bombardment continues",
+            "time": "2026-03-04T18:10:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b0ce/live/619b2dc0-17e7-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mojtaba, a 56-year-old cleric, is a shadowy figure said to have amassed significant power and wealth under his father's rule. He is close to conservatives and the powerful Islamic Revolutionary Guard Corps (IRGC), which is tasked with defending the country's Islamic system.</p></div></div></body></html>"
+        },
+        {
             "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
             "time": "2026-03-04T12:30:50",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9855/live/0e2cb550-17b0-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a 10-minute televised address, the Spanish prime minister reflected on the wars in Ukraine and Gaza, as well as the Iraq War more than 20 years ago, and said the Spanish government's position could be summed up as \"no to war\".</p></div></div></body></html>"
         },
         {
-            "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-            "time": "2026-03-04T13:13:08",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4baf/live/b98d77b0-17bd-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mihaloliakos, a Holocaust denier, was released from prison on health grounds in September 2025, less than halfway into his 13-year sentence. Lawyers for the Fyssas family called the ruling \"scandalous\".</p></div></div></body></html>"
-        },
-        {
             "title": "Higher tariffs likely this week, says US Treasury",
             "time": "2026-03-04T16:22:22",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fa45/live/822c3050-17cb-11f1-96f2-bf3adf077467.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Trump has previously used them to impose import taxes on metals, including steel and aluminium, cars and other items. He has also explored wielding them in fights over digital taxes, pharmaceutical imports and other issues.</p></div></div></body></html>"
-        },
-        {
-            "title": "Mosiuoa Lekota: South Africa's long-serving former defence minister dies",
-            "time": "2026-03-04T12:45:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4b49/live/15b504e0-17aa-11f1-a2ea-c9162e82aeaa.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The party did well in the general elections held a year later, gaining 30 seats in parliament, but its electoral fortunes declined over the years mainly due to a leadership battle between Lekota and Shilowa. By the 2024 elections, Cope failed to secure enough votes to have any seats in parliament.</p></div></div></body></html>"
         },
         {
             "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
@@ -38,10 +32,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Khork was \"truly the life of the party, known for his infectious spirit, generous heart, and deep care for those who served alongside him and for everyone blessed to know him\", his mother, Donna Burhans, father, James Khork, and stepmother, Stacey Khork, said in a statement.</p></div></div></body></html>"
         },
         {
-            "title": "Nigeria halts Christian pilgrimages to Holy Land over Middle East conflict",
-            "time": "2026-03-04T16:19:38",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/67c1/live/64168240-17cc-11f1-96f2-bf3adf077467.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Nigeria, Africa's most populous nation, is home to a large Christian population, particularly in the south of the country. The pilgrimages are widely regarded as being spiritually significant, with many saving for years to make the trip.</p></div></div></body></html>"
+            "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+            "time": "2026-03-04T18:14:04",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7aca/live/c2b724f0-17e8-11f1-9c51-afc92387d880.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The SBU told BBC Ukraine it was not commenting on \"the situation with the tanker in the Mediterranean\", although a Ukrainian government-linked social media account, United24, teased that the drones were \"Definitely. Maybe\" not part of the Ukrainian fleet.</p></div></div></body></html>"
+        },
+        {
+            "title": "Mosiuoa Lekota: South Africa's long-serving former defence minister dies",
+            "time": "2026-03-04T12:45:24",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4b49/live/15b504e0-17aa-11f1-a2ea-c9162e82aeaa.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The party did well in the general elections held a year later, gaining 30 seats in parliament, but its electoral fortunes declined over the years mainly due to a leadership battle between Lekota and Shilowa. By the 2024 elections, Cope failed to secure enough votes to have any seats in parliament.</p></div></div></body></html>"
+        },
+        {
+            "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
+            "time": "2026-03-04T17:01:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d345/live/421b6b90-17ec-11f1-9c51-afc92387d880.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"To begin with, no presidential administration has ever accepted the War Powers Act as constitutional – not Republican presidents, not Democratic presidents,\" Rubio, a former senator, said. </p></div></div></body></html>"
         },
         {
             "title": "Chimamanda Ngozi Adichie: Nigeria medical council suspends doctors over death of author's son",
@@ -50,16 +56,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The family of Adichie had accused the hospital of negligence, alleging that medics denied oxygen to her son and administered excessive sedation, which they say led to cardiac arrest.</p></div></div></body></html>"
         },
         {
+            "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
+            "time": "2026-03-04T13:13:08",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4baf/live/b98d77b0-17bd-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mihaloliakos, a Holocaust denier, was released from prison on health grounds in September 2025, less than halfway into his 13-year sentence. Lawyers for the Fyssas family called the ruling \"scandalous\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Nigeria halts Christian pilgrimages to Holy Land over Middle East conflict",
+            "time": "2026-03-04T16:19:38",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/67c1/live/64168240-17cc-11f1-96f2-bf3adf077467.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Nigeria, Africa's most populous nation, is home to a large Christian population, particularly in the south of the country. The pilgrimages are widely regarded as being spiritually significant, with many saving for years to make the trip.</p></div></div></body></html>"
+        },
+        {
             "title": "US and Ecuadorean forces launch joint drug trafficking operation",
             "time": "2026-03-04T16:45:24",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ee99/live/0c571a80-177a-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Together, we are taking decisive action to confront narco-terrorists who have long inflicted terror, violence, and corruption on citizens throughout the hemisphere,\" the US Southern Command said on Tuesday.</p></div></div></body></html>"
-        },
-        {
-            "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
-            "time": "2026-03-04T17:01:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d345/live/421b6b90-17ec-11f1-9c51-afc92387d880.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"To begin with, no presidential administration has ever accepted the War Powers Act as constitutional – not Republican presidents, not Democratic presidents,\" Rubio, a former senator, said. </p></div></div></body></html>"
         },
         {
             "title": "Chloe Jeffries: Australian girl, 8, killed in snowmobile accident in Japan",
@@ -96,6 +108,12 @@
             "time": "2026-03-04T00:34:49",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/642d/live/9816c7c0-1723-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We know just how risky end-to-end-encrypted platforms can be for children, preventing the detection of child sexual abuse and exploitation and contributing to a worrying global decline in reports,\" said Rani Govender, its associate head of policy for child online safety.</p></div></div></body></html>"
+        },
+        {
+            "title": "Winter Paralympics: Watershed moment as Russia's sporting exile ends - BBC Sport",
+            "time": "2026-03-04T17:57:28",
+            "imgUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/85d4/live/2869b3e0-17ed-11f1-9c51-afc92387d880.jpg",
+            "body": "<html><body><div><div class=\"ssrcss-nqezkk-RichTextContainer e5tfeyi1\"><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">IOC president Kirsty Coventry certainly suggested as much recently when she said: \"Our game is sport. That means keeping sport a neutral ground. A place where every athlete can compete freely, without being held back by the politics or divisions of their governments.\"</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Although she did not directly reference any particular country, the comments were widely interpreted to be hinting at a potential lifting of the partial Olympic ban on Russia and Belarus. Her words were welcomed warmly by Russian officials, with its sports minister suggesting the IOC could consider reinstatement in the spring.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">So could Russia's Olympic exile be over by the time of the LA Games in 2028? Notably, Paulo Zampolli, US President Donald Trump's special representative for global partnerships, has appeared to support Russian participation at the Paralympics, <a href=\"https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html?unlocked_article_code=1.OFA.pNRk.SQLZtjI8MF63&amp;smid=url-share\" class=\"ssrcss-18834jl-InlineLink e1kn3p7n0\">reportedly saying that \"sport is for all\".<span class=\"visually-hidden ssrcss-i2z2ig-VisuallyHidden e16en2lz0\">, external</span></a></p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">While some international sports organisations - such as World Athletics - have continued with blanket bans on Russian athletes, others have started to ease restrictions. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">For instance, last year the International Judo Federation <a href=\"/sport/judo/articles/ce8nx2zkk70o\" class=\"ssrcss-18834jl-InlineLink e1kn3p7n0\">allowed them to compete under their national flag</a>. And in December, the IOC advised sports governing bodies to let Russian youth athletes <a href=\"/sport/articles/c3r7jr0r30eo\" class=\"ssrcss-18834jl-InlineLink e1kn3p7n0\">compete at international events again</a>, under their own flag and national anthem.</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">In international football, there are also moves to reintegrate Russia. The country was unable to compete at the 2022 World Cup and Euro 2024, and will not be part of the 2026 World Cup. However, Fifa president Gianni Infantino recently said the governing body would consider lifting its ban, adding the sanction has \"has not achieved anything\" and \"has just created more frustration and hatred\".</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Ukraine's opposition to such moves remains steadfast. According to its sports minister, Russia has killed more than 650 Ukrainian athletes and coaches, and damaged 814 sports facilities. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">Global Athlete, an international athlete-led movement and campaign group, says: \"Now is the time for sport to show leadership, not weakness. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"The global sporting community must stand together and demand that the IOC increase sanctions on Russia, not relax them. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">\"Russia should only be allowed back when the war ends and Russia withdraws from Ukraine. The peaceful nation of Ukraine needs support, not enablers.\"</p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">The IPC may have paved the way for other global sports bodies to try to follow suit. At at a time of geopolitical upheaval, and more frequent demands for these organisations to take a stand against certain countries, the suspension of Russia could be seen as undermining their insistence that sport and politics be kept separate. </p><p class=\"ssrcss-1q0x1qg-Paragraph e1jhz7w10\">But while the conflict continues, any moves by the IOC, Fifa or other sports bodies to do so will be met with considerable opposition, especially in Europe.</p></div></div></body></html>"
         },
         {
             "title": "National People's Congress: What is China's Two Sessions and why does it matter?",
