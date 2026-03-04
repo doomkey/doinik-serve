@@ -2,12 +2,6 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-            "time": "2026-03-03T21:44:31",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fbfe/live/76242da0-1724-11f1-a87c-4f2760b09a7c.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Hiring a supertanker to move oil from the Middle East to China reached an all-time high on Monday of more than $400,000 (£298,300) per day, almost double the cost last week, according to data from the London Stock Exchange Group.</p></div></div></body></html>"
-        },
-        {
             "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
             "time": "2026-03-04T12:30:50",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9855/live/0e2cb550-17b0-11f1-9120-a910fc22c6ac.jpg",
@@ -15,9 +9,15 @@
         },
         {
             "title": "Partner of Labour MP arrested on suspicion of spying for China",
-            "time": "2026-03-04T12:54:27",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+            "time": "2026-03-04T13:29:51",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/460b/live/964a7250-17ca-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The men, aged 39, 43 and 68, were arrested in London and Wales as part of a counter-terrorism policing investigation under the National Security Act, the Metropolitan Police said in a statement.</p></div></div></body></html>"
+        },
+        {
+            "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
+            "time": "2026-03-04T13:13:08",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4baf/live/b98d77b0-17bd-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mihaloliakos, a Holocaust denier, was released from prison on health grounds in September 2025, less than halfway into his 13-year sentence. Lawyers for the Fyssas family called the ruling \"scandalous\".</p></div></div></body></html>"
         },
         {
             "title": "US and Ecuador forces launch operation to fight drug trafficking",
@@ -34,7 +34,7 @@
         {
             "title": "Pregnant women's brains shed grey matter to prime them for motherhood, study suggests",
             "time": "2026-03-04T07:05:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c7ec/live/63fc5de0-16f8-11f1-801d-ed3cff6bf876.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6e17/live/291802d0-17cd-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ana Mudrinic, a new mum we spoke to in London, says that, at times during her pregnancy, she felt forgetful and explains: \"I wanted to send an email to my boss and in that moment, I simply couldn't remember her name.\"</p></div></div></body></html>"
         },
         {
@@ -48,6 +48,12 @@
             "time": "2026-03-03T17:14:21",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b90c/live/3e86f3e0-1720-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The attack at Apalachee High School outside the city of Atlanta claimed the lives of Christian Angulo, 14, Mason Schermerhorn, 14, Richard Aspinwall, 39, and Cristina Irimie, 53.</p></div></div></body></html>"
+        },
+        {
+            "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+            "time": "2026-03-03T21:44:31",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fbfe/live/76242da0-1724-11f1-a87c-4f2760b09a7c.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Hiring a supertanker to move oil from the Middle East to China reached an all-time high on Monday of more than $400,000 (£298,300) per day, almost double the cost last week, according to data from the London Stock Exchange Group.</p></div></div></body></html>"
         },
         {
             "title": "South Korea woman and doctors guilty of murder of newborn baby",
@@ -78,6 +84,12 @@
             "time": "2026-03-04T03:49:39",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b734/live/77774010-175c-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Four of the deceased, all US Army Reserve soldiers, were identified on Tuesday by the US military: Capt Cody Khork, 35, Sgt Noah Tietjens, 42, Sgt Nicole Amor, 39, and Sgt Declan Coady, 20.</p></div></div></body></html>"
+        },
+        {
+            "title": "Key takeaways from Texas primaries, as Talarico beats Crockett in Democratic race",
+            "time": "2026-03-04T12:55:17",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8407/live/6edce6d0-17bb-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">For the Democrats, state representative James Talarico defeated Dallas-based US Congresswoman Jasmine Crockett and will advance to the general election. The Republican race was not decided on Tuesday, as Texas Attorney General Ken Paxton and US Senator John Cornyn, the incumbent, each finished with less than 50% of the overall vote. The two men will advance to a run-off election on 26 May.</p></div></div></body></html>"
         },
         {
             "title": "Celebrating Holi - the Hindu festival brings its array of colours to India and elsewhere",
