@@ -2,10 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Iran delays Khamenei funeral as US and Israeli bombardment continues",
-            "time": "2026-03-04T18:10:50",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b0ce/live/619b2dc0-17e7-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mojtaba, a 56-year-old cleric, is a shadowy figure said to have amassed significant power and wealth under his father's rule. He is close to conservatives and the powerful Islamic Revolutionary Guard Corps (IRGC), which is tasked with defending the country's Islamic system.</p></div></div></body></html>"
+            "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+            "time": "2026-03-05T08:18:19",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2bef/live/d1a7a8c0-1867-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Between 25 and 35 million Kurds inhabit a mountainous region straddling the borders of Turkey, Iraq, Syria, Iran and Armenia. They make up the fourth-largest ethnic group in the Middle East, but they have never obtained a permanent nation state.</p></div></div></body></html>"
+        },
+        {
+            "title": "Pentagon identifies six US soldiers killed in Iran conflict",
+            "time": "2026-03-05T01:42:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b734/live/77774010-175c-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Those killed were Chief Warrant Officer 3 Robert M Marzan, 54, Maj Jeffrey R O'Brien, 45, Capt Cody Khork, 35, Sgt Noah Tietjens, 42, Sgt Nicole Amor, 39, and Sgt Declan Coady, 20, who was posthumously promoted from specialist.</p></div></div></body></html>"
         },
         {
             "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
@@ -16,32 +22,14 @@
         {
             "title": "China sets lowest economic growth target since 1991",
             "time": "2026-03-05T03:10:52",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0a7e/live/d0224ba0-1843-11f1-9d99-6b22f9815f61.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5737/live/4e7bc740-186e-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Beijing aims to reshape its economy as it faces issues like weak consumption, a shrinking population, an ongoing property crisis, global trade tensions and an energy crunch due to the Iran war.</p></div></div></body></html>"
-        },
-        {
-            "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-            "time": "2026-03-04T20:42:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9855/live/0e2cb550-17b0-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a 10-minute televised address, the Spanish prime minister reflected on the wars in Ukraine and Gaza, as well as the Iraq War more than 20 years ago, and said the Spanish government's position could be summed up as \"no to war\".</p></div></div></body></html>"
         },
         {
             "title": "Trade court orders tariff refunds in setback for Trump",
             "time": "2026-03-05T00:13:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9a1d/live/ba9c0310-1821-11f1-8ff3-d5f5110756d9.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US Supreme Court's judgement struck those down last month, as well as some the administration had previously announced on goods from Mexico, Canada and China, citing emergency powers.</p></div></div></body></html>"
-        },
-        {
-            "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
-            "time": "2026-03-04T14:55:30",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/54e2/live/04843b80-17cf-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"If they [Hezbollah] can't end Israel, I think they should stop - but hopefully we will defeat it,\" said Lamyaa at the displacement camp, as she criticised the Lebanese military for pulling back from positions on the border with Israel.</p></div></div></body></html>"
-        },
-        {
-            "title": "Pentagon identifies six US soldiers killed in Iran conflict",
-            "time": "2026-03-05T01:42:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b734/live/77774010-175c-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Those killed were Chief Warrant Officer 3 Robert M Marzan, 54, Maj Jeffrey R O'Brien, 45, Capt Cody Khork, 35, Sgt Noah Tietjens, 42, Sgt Nicole Amor, 39, and Sgt Declan Coady, 20, who was posthumously promoted from specialist.</p></div></div></body></html>"
         },
         {
             "title": "Cuba: Millions plunged into darkness as fuel crisis deepens",
@@ -54,6 +42,12 @@
             "time": "2026-03-04T18:14:04",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7aca/live/c2b724f0-17e8-11f1-9c51-afc92387d880.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The SBU told BBC Ukraine it was not commenting on \"the situation with the tanker in the Mediterranean\", although a Ukrainian government-linked social media account, United24, teased that the drones were \"Definitely. Maybe\" not part of the Ukrainian fleet.</p></div></div></body></html>"
+        },
+        {
+            "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+            "time": "2026-03-04T20:42:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9855/live/0e2cb550-17b0-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a 10-minute televised address, the Spanish prime minister reflected on the wars in Ukraine and Gaza, as well as the Iraq War more than 20 years ago, and said the Spanish government's position could be summed up as \"no to war\".</p></div></div></body></html>"
         },
         {
             "title": "Mosiuoa Lekota: South Africa's long-serving former defence minister dies",
@@ -140,7 +134,7 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Mark Cancian, a former US Marine colonel with the Washington-based Center for Strategic and International Studies (CSIS), says that, after the initial attack from a distance, the US \"can now use less expensive missiles and bombs\". </p></div></div></body></html>"
         },
         {
-            "title": "Iranians describe life under 'constant' US-Israeli strikes: 'Every day feels like a month'",
+            "title": "Iranians describe life under US-Israeli strikes: 'Every day feels like a month'",
             "time": "2026-03-04T19:31:24",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5b29/live/d97a7270-17eb-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">BBC Persian also spoke to Kaveh, whose name has also been changed, who lives in Zanjan, a city around 275km (170 miles) north-east of Tehran, which has also been targeted.</p></div></div></body></html>"
