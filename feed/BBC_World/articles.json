@@ -2,10 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Iran conflict and China: How it is unsettling Beijing and its ambitions",
-            "time": "2026-03-05T23:13:57",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But then, he adds: \"Probably, along with everyone else, they would also be thinking, oh God, they really have gone into this with no plan at all. Right, we don't want to get dragged into this like we don't want to get dragged into anything else, but we also need to do something.\"</p></div></div></body></html>"
+            "title": "Flight paths squeezed as Iran conflict closes more airspace",
+            "time": "2026-03-06T18:09:19",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e387/live/766dbec0-195e-11f1-9a35-7db562c1d2fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The central corridor across Iran, Iraq and the Gulf is effectively closed, so most traffic is going either north via the Caucasus and Afghanistan, or south via Egypt/Saudi/Oman,\" said David Mumford, international operations specialist at Opsgroup.</p></div></div></body></html>"
+        },
+        {
+            "title": "Armed robots take to the battlefield in Ukraine war",
+            "time": "2026-03-07T00:36:19",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Russia has also been developing combat UGVs, such as the Kuryer. According to Russian media reports, it can be equipped with a flame-thrower, a heavy machine gun normally found on tanks, and it can run autonomously for five hours. </p></div></div></body></html>"
+        },
+        {
+            "title": "Israel strikes Beirut after evacuation warning sparks panic",
+            "time": "2026-03-06T04:08:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a57e/live/46bb1f70-18bd-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Several people told the BBC on Thursday morning that they had left the building at the beginning of the week and were staying elsewhere because of safety concerns, noting that the area had been targeted in the past. They said they did not know, or would not comment on, what the target may have been.</p></div></div></body></html>"
         },
         {
             "title": "Ngoshe attack: 'Massive' numbers killed, Nigerian Senator Ndume tells BBC",
@@ -42,12 +54,6 @@
             "time": "2026-03-05T18:19:34",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2844/live/c16d4e80-18a6-11f1-8a24-35cedd1a21de.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He has spoken to counterparts across the Gulf - in the United Arab Emirates, Qatar, Bahrain, Jordan and Kuwait - and is promising what he calls \"concrete steps\" to help them defend their military bases and civilian infrastructure from Iranian attack.</p></div></div></body></html>"
-        },
-        {
-            "title": "Israel strikes Beirut after evacuation warning sparks panic",
-            "time": "2026-03-06T04:08:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a57e/live/46bb1f70-18bd-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Several people told the BBC on Thursday morning that they had left the building at the beginning of the week and were staying elsewhere because of safety concerns, noting that the area had been targeted in the past. They said they did not know, or would not comment on, what the target may have been.</p></div></div></body></html>"
         },
         {
             "title": "Anthropic officially designated a supply chain risk by Pentagon",
@@ -92,10 +98,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Texas Republican, who is married with six children, said the relationship with married staff member Regina Santos-Aviles, who died by suicide last year, was a \"mistake\" and a \"lapse in judgement\".</p></div></div></body></html>"
         },
         {
-            "title": "Azerbaijan furious with Iran as war spills over its border",
-            "time": "2026-03-06T11:39:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/195f/live/85482130-18da-11f1-ac88-a3dfa1fd20ed.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">They are also a politically significant community. This week the exiled crown prince, Reza Pahlavi, has been urging Iranian Azerbaijanis, among other ethnic minorities, to rise up against the regime.</p></div></div></body></html>"
+            "title": "IRIS Dena: The final voyage of the Iranian warship sunk by the US",
+            "time": "2026-03-07T00:59:39",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5cd8/live/9706a980-17e2-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The attack, Singh says, appears to have involved a single Mark-48 torpedo, a heavyweight weapon carrying about 650 pounds of high explosive, capable of snapping a ship in two. Video footage suggests the submarine may have fired from 3-4km away, around 05:30 local time.</p></div></div></body></html>"
+        },
+        {
+            "title": "AI-generated Iran war videos surge as creators use new tech to cash in",
+            "time": "2026-03-07T00:32:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3e3b/live/ed517120-197d-11f1-b048-c9424b2cf5fd.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Google's AI tools, including its video generator Veo, are on the growing list of popular AI platforms, like OpenAI's Sora model, Chinese AI app Seedance, and Grok which is built into X.</p></div></div></body></html>"
         },
         {
             "title": "US President Donald Trump sets his sights on crisis-hit Cuba after Iran action",
@@ -104,10 +116,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Standing in front of an awkward-looking Lionel Messi, Luis Suarez and the other stars of the Inter Miami soccer team on Thursday, Trump told the team's owner, Cuban-born magnate Jorge Mas, that they would soon be \"celebrating what's going on in Cuba\", adding that the Cuban authorities \"want to make a deal. So badly you have no idea\".</p></div></div></body></html>"
         },
         {
-            "title": "Ethiopia's Tigray crisis: Why young women took up arms to fight Abiy Ahmed's government",
-            "time": "2026-03-06T00:05:46",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/550d/live/86931950-193e-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She saw herself as a feminist, taking on traditional attitudes about women's participation in sport. The teenager was also an outstanding student, studying IT in Tigray's main city of Mekelle, and had a clear vision for her future.</p></div></div></body></html>"
+            "title": "Iran conflict and China: How it is unsettling Beijing and its ambitions",
+            "time": "2026-03-05T23:13:57",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But then, he adds: \"Probably, along with everyone else, they would also be thinking, oh God, they really have gone into this with no plan at all. Right, we don't want to get dragged into this like we don't want to get dragged into anything else, but we also need to do something.\"</p></div></div></body></html>"
         },
         {
             "title": "Australia: Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
@@ -116,16 +128,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Observers say it's because of a combination of good bike-riding weather, parents with deep pockets – the cheapest model of one of the most popular brands retails for a minimum AUD$3,000 (US$2,110, £1,579) - and a lack of reliable public transport.</p></div></div></body></html>"
         },
         {
-            "title": "Iran war: Why the boots on Iran's ground could be Kurdish",
-            "time": "2026-03-05T21:20:49",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/902e/live/22cb9620-18b9-11f1-97ba-493bedc7637b.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"When I get to the first village,\" he told us, \"I will say with a loud voice: 'I have been fighting for you, you are my people, and now I will fight even more.'\" He believes he will be there in time to celebrate the Kurdish new year festival, Nowruz, which falls on 21 March.</p></div></div></body></html>"
-        },
-        {
-            "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
-            "time": "2026-03-05T18:40:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/651c/live/72da95e0-18ae-11f1-8a24-35cedd1a21de.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">If accurate, this would not necessarily indicate the collapse of command structures. Iran's military doctrine, particularly within the Islamic Revolution Guard Corps (IRGC), has long incorporated decentralised elements to ensure continuity under heavy attack.</p></div></div></body></html>"
+            "title": "Ethiopia's Tigray crisis: Why young women took up arms to fight Abiy Ahmed's government",
+            "time": "2026-03-06T00:05:46",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/550d/live/86931950-193e-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She saw herself as a feminist, taking on traditional attitudes about women's participation in sport. The teenager was also an outstanding student, studying IT in Tigray's main city of Mekelle, and had a clear vision for her future.</p></div></div></body></html>"
         },
         {
             "title": "Lebanon: Beirut evacuees 'sleeping in tents and cars'",
