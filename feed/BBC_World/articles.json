@@ -2,12 +2,6 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Trump demands 'unconditional surrender' amid Iran-Russia talks",
-            "time": "2026-03-07T02:04:06",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8dd6/live/fa5d3e90-197c-11f1-9156-4356592fc9c8.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"After that, and the selection of a GREAT &amp; ACCEPTABLE Leader(s), we, and many of our wonderful and very brave allies and partners, will work tirelessly to bring Iran back from the brink of destruction, making it economically bigger, better, and stronger than ever before. </p></div></div></body></html>"
-        },
-        {
             "title": "Armed robots take to the battlefield in Ukraine war",
             "time": "2026-03-07T00:36:19",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg",
@@ -38,22 +32,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I can confirm that there was an unfortunate incident and, due to the efforts of security personnel, we were able to repel the insurgents,\" he said, adding that a search and rescue operation was under way.</p></div></div></body></html>"
         },
         {
-            "title": "Russian strike on Kharkiv apartment block kills seven",
+            "title": "Russian strike on Kharkiv apartment block kills ten",
             "time": "2026-03-07T07:54:22",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/04e4/live/782b0310-19f6-11f1-bd6f-8f561353e15e.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Detailing the aftermath of the strikes, Synegubov said that in Kharkiv, a 65-year-old woman, a 40-year-old man, and a 13-year-old girl were among those killed.</p></div></div></body></html>"
-        },
-        {
-            "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
-            "time": "2026-03-07T01:56:20",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a985/live/c69bef90-19b1-11f1-b9ec-35cf11968638.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She will be joined by conservative leaders from eight nations — Argentina, Paraguay, El Salvador, Chile, Panama, Honduras, Guyana, and Ecuador — who share ideological ties with the Trump administration. Colombia, Mexico, and Brazil will be absent.</p></div></div></body></html>"
         },
         {
             "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
             "time": "2026-03-07T02:04:23",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/810e/live/f9e9c6e0-18b9-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">He also worries about the impact on SBC's coverage of foreign news. The broadcaster maintains correspondents in the US, Russia, China, the Middle East and Latin America, as well as in Brussels, Berlin, Paris, Rome and London. </p></div></div></body></html>"
+        },
+        {
+            "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
+            "time": "2026-03-07T01:56:20",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a985/live/c69bef90-19b1-11f1-b9ec-35cf11968638.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">She will be joined by conservative leaders from eight nations — Argentina, Paraguay, El Salvador, Chile, Panama, Honduras, Guyana, and Ecuador — who share ideological ties with the Trump administration. Colombia, Mexico, and Brazil will be absent.</p></div></div></body></html>"
         },
         {
             "title": "Indonesia to ban social media and other online platforms for under 16s",
