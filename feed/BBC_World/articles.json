@@ -11,13 +11,19 @@
             "title": "Countries agree to record release of emergency oil reserves as prices surge",
             "time": "2026-03-11T15:51:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">All 32 of the International Energy Agency's (IEA) members — including the UK, the US, and many of the world's richest nations — will release 400 million barrels to combat what the group said were challenges \"unprecedented in scale\".</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Pressure has intensified on the strait, one of the world's most important shipping lanes, since Israel and the US attacked Iran late last month. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">17 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
             "time": "2026-03-11T16:00:34",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b32f/live/5c1157f0-1d6c-11f1-b048-c9424b2cf5fd.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Sahar, a woman in her 20s, told BBC Persian that she was spending most days sheltering at home in Tehran, cooking, reading, and playing a life simulation video game.</p></div></div></body></html>"
+        },
+        {
+            "title": "National People's Congress: China's biggest political meeting is ending - what have we learned?",
+            "time": "2026-03-11T23:03:12",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/66b0/live/12dbb070-1d2c-11f1-8436-5d0a9bb808e5.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">China is also investing heavily in semiconductors, robotics, biotechnology, quantum computing, and emerging fields such as 6G communications and brain-computer interfaces.</p></div></div></body></html>"
         },
         {
             "title": "EU and UK demand Israel stop surge in West Bank settler violence",
@@ -95,13 +101,7 @@
             "title": "Woman charged with attempted murder after shooting at Rihanna's home",
             "time": "2026-03-11T03:10:09",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de26/live/e8673110-1d1d-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Volcanic fragments rain down as Hawaii's Kilauea volcano erupts</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">This eruption episode sent fragments made of ash, pumice, and pieces of volcanic glass into communities, forcing highway closures and the evacuation of tourists.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "Katy Perry: Australian designer Katie Perry wins High Court appeal vs pop star",
-            "time": "2026-03-11T05:36:25",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2eb1/live/ca8fc480-1d1e-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Katie Perry, who changed her surname to Taylor in 2015, successfully sued Perry two years ago for selling merchandise during a 2014 Australian tour, but the ruling was overturned in 2024 with the designer's trademark cancelled.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Volcanic fragments rain down as Hawaii's Kilauea volcano erupts</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">This eruption episode sent fragments made of ash, pumice, and pieces of volcanic glass into communities, forcing highway closures and the evacuation of tourists.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Epstein had two key aides - why do they still control his money and secrets?",
