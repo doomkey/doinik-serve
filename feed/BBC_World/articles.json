@@ -2,7 +2,7 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+            "title": "Oil price jumps despite deal to release record amount of reserves",
             "time": "2026-03-12T03:04:24",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b1e7/live/7f186850-1db8-11f1-9502-59ba76ba5db5.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Wednesday, Iran warned that oil could reach $200 a barrel as its attacks on ships  intensify in the Strait of Hormuz, a key waterway for energy shipments.</p></div></div></body></html>"
@@ -35,7 +35,13 @@
             "title": "Countries agree to record release of emergency oil reserves as prices surge",
             "time": "2026-03-11T15:51:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Pressure has intensified on the strait, one of the world's most important shipping lanes, since Israel and the US attacked Iran late last month. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Pressure has intensified on the strait, one of the world's most important shipping lanes, since Israel and the US attacked Iran late last month. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
+            "time": "2026-03-12T04:03:00",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d5ba/live/2c461f50-1dc2-11f1-beb9-01b83e355edc.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Police said they had found their silver Subaru Forester near the town of Kilkivan near Gympie on Wednesday afternoon, after a largescale search by officers, the State Emergency Service and helicopters.</p></div></div></body></html>"
         },
         {
             "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
@@ -96,12 +102,6 @@
             "time": "2026-03-11T10:31:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2658/live/8803f1d0-1d38-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The former first lady, now 60, gained a reputation, and criticism, over the years for her alleged appetite for shopping and extravagance, earning her the moniker \"Gucci Grace\".</p></div></div></body></html>"
-        },
-        {
-            "title": "Dresden city centre to be evacuated after WW2 bomb found",
-            "time": "2026-03-11T15:55:47",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The police headquarters, Saxony's state parliament, several ministries, retirement and nursing homes, daycare centres and other social institutions were also in the evacuated area.</p></div></div></body></html>"
         },
         {
             "title": "Why Namibia's 'green hydrogen' dream could be a red flag for penguins and succulents",
