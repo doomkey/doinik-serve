@@ -2,10 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+            "time": "2026-03-13T00:04:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7df7/live/48199650-1c94-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Then there were those \"neo-conservatives\" who wanted to reshape the Middle East, bringing democracy and removing dictatorships hostile to the US. Baghdad first, then Tehran, some said, a reminder how long Iran has been on the agenda. And finally after the 11 September attacks in 2001 which killed 2,977 people (not counting the 19 hijackers) after planes were crashed into the Twin Towers, the Pentagon and a field in Pensylvania, there were hawks in Washington who wanted to restore America's deterrent power and show what it could do.</p></div></div></body></html>"
+        },
+        {
             "title": "Iran's new Supreme Leader vows to continue blocking Strait of Hormuz",
             "time": "2026-03-12T20:32:55",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0728/live/24bf66b0-1e26-11f1-8cc8-6d61f147f0ba.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">UFC fighters to train FBI agents at Quantico</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">UFC fighters will visit the FBI academy in Quantico, Virginia, this weekend for a training seminar on techniques and tactics and preparing for competition. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">UFC fighters to train FBI agents at Quantico</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">UFC fighters will visit the FBI academy in Quantico, Virginia, this weekend for a training seminar on techniques and tactics and preparing for competition. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">4 hrs ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "French vote tests polarised electorate with right hoping to win control of Paris",
+            "time": "2026-03-13T00:15:23",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d1d9/live/de4095d0-1987-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Polls consistently put all the candidates, except for Mariani, above the 10% level of votes needed to get through to the second round. And if Mariani were to get more than 5%, he, too, would be allowed to form a pact to merge his list with another's.</p></div></div></body></html>"
         },
         {
             "title": "Emirati minister tells BBC Iran must end strikes on Gulf",
@@ -26,6 +38,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Five guards were later accused of \"acting against the detainee with severe violence, including stabbing the detainee's bottom with a sharp object, which had penetrated near the detainee's rectum\", according to a statement from the military at the time. The detainee suffered \"cracked ribs, a punctured lung and an inner rectal tear\".</p></div></div></body></html>"
         },
         {
+            "title": "Strait of Hormuz: Sailors stranded on ships due to Iran war",
+            "time": "2026-03-13T01:47:54",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ef99/live/95e4bc80-1d79-11f1-801d-ed3cff6bf876.png",
+            "body": "<html><body><div><span data-testid=\"byline-contributors\" class=\"sc-3adb3607-12 csUdlZ\"><p data-testid=\"byline-contributors-contributor-0\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Mohammad Zubair Khan,</span><span data-testid=\"byline-contributors-contributor-0-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Urdu,</span></p><p data-testid=\"byline-contributors-contributor-1\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Aye Thu San,</span><span data-testid=\"byline-contributors-contributor-1-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Burmese,</span></p><p data-testid=\"byline-contributors-contributor-2\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Hyojung Kim,</span><span data-testid=\"byline-contributors-contributor-2-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Korean</span><span class=\"sc-3adb3607-10 cTtxA-d\">and</span></p><p data-testid=\"byline-contributors-contributor-3\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Andrew Webb &amp; Grace Tsoi,</span><span data-testid=\"byline-contributors-contributor-3-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC World Service</span></p></span></div></body></html>"
+        },
+        {
             "title": "France's ghost car scandal that allowed one million illegal vehicles onto the roads",
             "time": "2026-03-12T17:44:09",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/71ef/live/9f700d20-1e25-11f1-ae25-5d55e47d8760.jpg",
@@ -44,6 +62,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The law makes it clearer than ever that in Xi Jinping's PRC non-Han peoples must do more to integrate themselves with the Han majority, and above all else be loyal to Beijing,\" Allen Carlson, an associate professor of government at Cornell University said, referencing China by the initials of its official name. </p></div></div></body></html>"
         },
         {
+            "title": "MPs 'deeply troubled' by BBC World Service funding uncertainty",
+            "time": "2026-03-13T01:47:19",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ba71/live/68876740-1e2a-11f1-ae25-5d55e47d8760.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">FCDO Minister Chris Elmore MP said: \"The work the World Service does as an independent and trusted broadcaster, showcasing the UK, our culture, and our values around the globe, is highly valued by this government.</p></div></div></body></html>"
+        },
+        {
             "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
             "time": "2026-03-12T00:05:52",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ad37/live/f06de510-1deb-11f1-801d-ed3cff6bf876.jpg",
@@ -59,7 +83,7 @@
             "title": "Noma head chef René Redzepi resigns after abuse allegations and protests",
             "time": "2026-03-12T04:09:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2e00/live/374fa660-1dbc-11f1-ab28-9b4059b178c6.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Sheriff: Synagogue suspect dead, security guard injured</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">There are no apparent injuries to staff or children at the attached preschool, Oakland County Sheriff Michael Bouchard says, but a security guard was injured.\n</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">4 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Who wants to eat in an environment of abuse,\" Saru Jayaraman, a member of One Fair Wage, told the BBC's US media partner CBS News. \"Who wants to eat food that comes from the tears and sweat of people who are suffering?\"</p></div></div></body></html>"
         },
         {
             "title": "Hozier, Jessie Buckley and Bruce Springsteen record Shane MacGowan tribute album",
@@ -122,22 +146,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Saxon claimed West, 48, agreed to pay him $20,000 (£14,916) per week but only gave him one $20,000 payment and one other payment of $100,000 (£74,582) for construction costs.</p></div></div></body></html>"
         },
         {
-            "title": "No evidence Swiss bus fire was terrorism, officials say",
-            "time": "2026-03-11T15:04:47",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/15d1/live/8627cf80-1ccf-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to police, initial findings suggest the man boarded the bus in the Düdingen municipality, 17km south of Kerzers, at around 17:45 local time (18:45 GMT) before setting himself on fire roughly 40 minutes later. </p></div></div></body></html>"
+            "title": "Americans react to Iran strikes: 'What if this turns into a forever war?'",
+            "time": "2026-03-13T00:03:34",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9e1b/live/63b1c880-1e18-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">[Trump] was about to have a roaring economy, with no taxes on tips, no taxes on overtime...Inflation was going down, and I think that's all going to go in the tank, if this keeps going. </p></div></div></body></html>"
         },
         {
-            "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
-            "time": "2026-03-12T04:03:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d5ba/live/2c461f50-1dc2-11f1-beb9-01b83e355edc.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Chinese national arrested over attempt to smuggle 2,000 queen ants from Kenya </h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The suspect had packed some ants in test tubes while others were concealed in tissue paper rolls, prosecutor says. </p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">15 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "Countries agree to record release of emergency oil reserves as prices surge",
-            "time": "2026-03-11T15:51:11",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">All 32 of the International Energy Agency's (IEA) members — including the UK, the US, and many of the world's richest nations — will release 400 million barrels to combat what the group said were challenges \"unprecedented in scale\".</p></div></div></body></html>"
+            "title": "Oscars 2026: 17 facts you need to know about the nominees from Hamnet to Sinners",
+            "time": "2026-03-13T00:02:30",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f3e9/live/f148b1f0-1d6d-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The others are Javier Bardem, Marcello Mastroianni, Giancarlo Giannini, Max von Sydow, Gérard Depardieu, Massimo Troisi, Antonio Banderas and Roberto Benigni (who is the only one to win, for 1997's Life is Beautiful).</p></div></div></body></html>"
         },
         {
             "title": "Iran war: Doubts creep in for Iranians who had supported war",
@@ -156,18 +174,6 @@
             "time": "2026-03-12T13:57:56",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8f51/live/d65ed2b0-1e0e-11f1-b2b0-1752c6d93b6f.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Since the conflict began, the price of oil has soared and is currently trading at over a third higher at $100 a barrel, pushed up by air strikes on shipping and energy infrastructure, and the effective closure of the Strait of Hormuz, a vital waterway for energy shipments, which carries a fifth of global oil supplies. </p></div></div></body></html>"
-        },
-        {
-            "title": "War in Ukraine spills into Hungarian election",
-            "time": "2026-03-12T09:03:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/19fd/live/c59dc9e0-1d69-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Many people contact us, asking why, if the danger of attack is real, the government does not provide information about air-raid shelters,\" Tamas Polgar Toth, a journalist at the independent Debreciner news portal told the BBC. The Fidesz mayor of Debrecen, Laszlo Papp, later told the portal that this was being considered.</p></div></div></body></html>"
-        },
-        {
-            "title": "National People's Congress: China's biggest political meeting is over - what have we learned?",
-            "time": "2026-03-12T08:10:16",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eec8/live/52db8a60-1dbd-11f1-ab60-99e4924fa43c.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">China is also investing heavily in semiconductors, robotics, biotechnology, quantum computing, and emerging fields such as 6G communications and brain-computer interfaces.</p></div></div></body></html>"
         },
         {
             "title": "Farooq Abdullah attack: Video shows moment gunshot misses Kashmir ex-chief minister",
