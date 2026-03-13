@@ -2,10 +2,10 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "US KC-135 refuelling plane crashes in Iraq, military says",
-            "time": "2026-03-13T08:04:34",
+            "title": "Four crew dead after US refuelling plane crashes in Iraq, military says",
+            "time": "2026-03-13T09:55:20",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The tanker had been involved in ongoing US operations against Iran, and was one of two aircraft involved in the incident, the military command unit said. The second landed safely, it added.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Trump's immigration comments may incite hate crimes, UN watchdog says</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">It says the president's comments have fuelled \"serious human rights violations\", an accusation the White House dismisses.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
@@ -16,7 +16,7 @@
         {
             "title": "Strait of Hormuz: Sailors stranded on ships due to Iran war",
             "time": "2026-03-13T01:47:54",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ef99/live/95e4bc80-1d79-11f1-801d-ed3cff6bf876.png",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8278/live/dbf69dd0-1ec1-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><span data-testid=\"byline-contributors\" class=\"sc-3adb3607-12 csUdlZ\"><p data-testid=\"byline-contributors-contributor-0\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Mohammad Zubair Khan,</span><span data-testid=\"byline-contributors-contributor-0-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Urdu,</span></p><p data-testid=\"byline-contributors-contributor-1\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Aye Thu San,</span><span data-testid=\"byline-contributors-contributor-1-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Burmese,</span></p><p data-testid=\"byline-contributors-contributor-2\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Hyojung Kim,</span><span data-testid=\"byline-contributors-contributor-2-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Korean,</span></p><p data-testid=\"byline-contributors-contributor-3\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Andrew Webb</span><span class=\"sc-3adb3607-10 cTtxA-d\">and</span></p><p data-testid=\"byline-contributors-contributor-4\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Grace Tsoi,</span><span data-testid=\"byline-contributors-contributor-4-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC World Service</span></p></span></div></body></html>"
         },
         {
@@ -24,24 +24,6 @@
             "time": "2026-03-13T00:15:23",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d1d9/live/de4095d0-1987-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Polls consistently put all the candidates, except for Mariani, above the 10% level of votes needed to get through to the second round. And if Mariani were to get more than 5%, he, too, would be allowed to form a pact to merge his list with another's.</p></div></div></body></html>"
-        },
-        {
-            "title": "Israel drops charges against soldiers accused of abusing Gaza detainee",
-            "time": "2026-03-12T20:36:10",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ec60/live/ce9fc140-1e4c-11f1-a2e6-b3517c784faa.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Five guards were later accused of \"acting against the detainee with severe violence, including stabbing the detainee's bottom with a sharp object, which had penetrated near the detainee's rectum\", according to a statement from the military at the time. The detainee suffered \"cracked ribs, a punctured lung and an inner rectal tear\".</p></div></div></body></html>"
-        },
-        {
-            "title": "UFC fighters to train FBI agents at Quantico",
-            "time": "2026-03-12T22:23:46",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/25c6/live/d3f473b0-1e61-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While the UFC has not confirmed its full plans for the event, White has said he expects around 5,000 spectators to attend the show, which will take place an octagon on the South Lawn, along with around 80,000 fans watching at a nearby park in Washington.</p></div></div></body></html>"
-        },
-        {
-            "title": "Nepal: Rapper-politician Balendra Shah's party wins Nepal election",
-            "time": "2026-03-12T15:25:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d2e/live/58a32b30-1e88-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The result is an amazing turn in fortune for the RSP, which was only founded in 2022 and came fourth in the election held that same year. Shah, like the party he only recently joined, is largely untested - his only political experience so far has been as the mayor of the capital, Kathmandu. </p></div></div></body></html>"
         },
         {
             "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs after meeting",
@@ -56,10 +38,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In October, Kang had told the BBC that \"there's definitely more we can do with these characters in this world\", adding: \"Whatever it will be, it will be a story that deserves to be a sequel, and it will be something that we want to see.\"</p></div></div></body></html>"
         },
         {
+            "title": "Israel drops charges against soldiers accused of abusing Gaza detainee",
+            "time": "2026-03-12T20:36:10",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ec60/live/ce9fc140-1e4c-11f1-a2e6-b3517c784faa.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Five guards were later accused of \"acting against the detainee with severe violence, including stabbing the detainee's bottom with a sharp object, which had penetrated near the detainee's rectum\", according to a statement from the military at the time. The detainee suffered \"cracked ribs, a punctured lung and an inner rectal tear\".</p></div></div></body></html>"
+        },
+        {
             "title": "Suspect dead after ramming vehicle into Temple Israel synagogue in Michigan",
-            "time": "2026-03-13T02:18:48",
+            "time": "2026-03-13T10:16:36",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e5ae/live/8e2ab4e0-1e4b-11f1-a2e6-b3517c784faa.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Students were evacuated and taken to a nearby country club, Temple Israel said in a statement on Facebook. The school's 140 students as well as \"our amazing staff, our courageous teachers, and our heroic security personnel\" were all accounted for and safe, it said.</p></div></div></body></html>"
+        },
+        {
+            "title": "Nepal: Rapper-politician Balendra Shah's party wins Nepal election",
+            "time": "2026-03-12T15:25:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d2e/live/58a32b30-1e88-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The result is an amazing turn in fortune for the RSP, which was only founded in 2022 and came fourth in the election held that same year. Shah, like the party he only recently joined, is largely untested - his only political experience so far has been as the mayor of the capital, Kathmandu. </p></div></div></body></html>"
+        },
+        {
+            "title": "UFC fighters to train FBI agents at Quantico",
+            "time": "2026-03-12T22:23:46",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/25c6/live/d3f473b0-1e61-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While the UFC has not confirmed its full plans for the event, White has said he expects around 5,000 spectators to attend the show, which will take place an octagon on the South Lawn, along with around 80,000 fans watching at a nearby park in Washington.</p></div></div></body></html>"
         },
         {
             "title": "Qantas agrees to pay $74m over Covid-19 travel voucher refunds",
