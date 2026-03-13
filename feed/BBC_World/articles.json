@@ -2,22 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Four crew members killed after US refuelling plane crashes in Iraq",
-            "time": "2026-03-13T12:37:17",
+            "title": "All six crew members killed after US refuelling plane crashes in Iraq",
+            "time": "2026-03-13T14:29:12",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8ba4/live/9b5b1120-1ed5-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">France's military announced on Friday that a drone had killed a French soldier, who it identified as Staff Sgt Arnaud Frion, and wounded six others at a Kurdish military base in northern Iraq yesterday.</p></div></div></body></html>"
-        },
-        {
-            "title": "Strait of Hormuz: Sailors stranded on ships due to Iran war",
-            "time": "2026-03-13T01:47:54",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8278/live/dbf69dd0-1ec1-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><span data-testid=\"byline-contributors\" class=\"sc-3adb3607-12 csUdlZ\"><p data-testid=\"byline-contributors-contributor-0\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Mohammad Zubair Khan,</span><span data-testid=\"byline-contributors-contributor-0-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Urdu,</span></p><p data-testid=\"byline-contributors-contributor-1\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Aye Thu San,</span><span data-testid=\"byline-contributors-contributor-1-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Burmese,</span></p><p data-testid=\"byline-contributors-contributor-2\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Hyojung Kim,</span><span data-testid=\"byline-contributors-contributor-2-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Korean,</span></p><p data-testid=\"byline-contributors-contributor-3\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Andrew Webb</span><span class=\"sc-3adb3607-10 cTtxA-d\">and</span></p><p data-testid=\"byline-contributors-contributor-4\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Grace Tsoi,</span><span data-testid=\"byline-contributors-contributor-4-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC World Service</span></p></span></div></body></html>"
         },
         {
             "title": "Iris Dena: Bodies of 84 Iranian sailors killed in US attack to be repatriated",
             "time": "2026-03-13T10:43:21",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's Foreign Minister Abbas Araghchi said the US had \"perpetrated an atrocity at sea, 2,000 miles away from Iran's shores\", adding that \"the US will come to bitterly regret precedent it has set\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Cuba says it will release 51 prisoners in the coming days",
+            "time": "2026-03-13T14:17:06",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7776/live/38b9d650-1ed0-11f1-b8f6-b15aa2adfcf4.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Over the last three years, the ministry added, another 10,000 people who had been imprisoned were released \"through various other forms of relief\". The government said the decision was \"sovereign\" and in line with the upcoming Holy Week in the Christian calendar.</p></div></div></body></html>"
         },
         {
             "title": "French vote tests polarised electorate with right hoping to win control of Paris",
@@ -38,6 +38,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Alberta's Indigenous relations minister, Rajan Sawhney, told reporters on Wednesday that she would like to meet Chief Pete to discuss the alleged treaty violations, but added: \"At this point, I don't agree with these allegations.\"</p></div></div></body></html>"
         },
         {
+            "title": "Strait of Hormuz: Sailors stranded on ships due to Iran war",
+            "time": "2026-03-13T01:47:54",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8278/live/dbf69dd0-1ec1-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><span data-testid=\"byline-contributors\" class=\"sc-3adb3607-12 csUdlZ\"><p data-testid=\"byline-contributors-contributor-0\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Mohammad Zubair Khan,</span><span data-testid=\"byline-contributors-contributor-0-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Urdu,</span></p><p data-testid=\"byline-contributors-contributor-1\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Aye Thu San,</span><span data-testid=\"byline-contributors-contributor-1-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Burmese,</span></p><p data-testid=\"byline-contributors-contributor-2\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Hyojung Kim,</span><span data-testid=\"byline-contributors-contributor-2-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC News Korean,</span></p><p data-testid=\"byline-contributors-contributor-3\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Andrew Webb</span><span class=\"sc-3adb3607-10 cTtxA-d\">and</span></p><p data-testid=\"byline-contributors-contributor-4\" class=\"sc-3adb3607-5 fpwMAZ\"><span class=\"sc-3adb3607-8 ivQuQW\">Grace Tsoi,</span><span data-testid=\"byline-contributors-contributor-4-role-location\" class=\"sc-3adb3607-9 gWPTDS\">BBC World Service</span></p></span></div></body></html>"
+        },
+        {
             "title": "Suspect dead after ramming vehicle into Temple Israel synagogue in Michigan",
             "time": "2026-03-13T10:16:36",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e5ae/live/8e2ab4e0-1e4b-11f1-a2e6-b3517c784faa.jpg",
@@ -45,9 +51,9 @@
         },
         {
             "title": "France returns 'talking drum' to Ivory Coast",
-            "time": "2026-03-13T13:11:56",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7446/live/acf80b00-1eca-11f1-84c5-132fa5d854db.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Djidji Ayôkwé, as the talking drum is called, was welcomed home by members of the Ebrié community, its original owners. It is more than three metres (10 ft) long, weighs about 430kg (68 stone), and is carved from iroko wood.</p></div></div></body></html>"
+            "time": "2026-03-13T15:02:57",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1fc9/live/2c66b310-1ee8-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Djidji Ayôkwé (Panther Lion), as the talking drum is called, was welcomed home by members of the Ebrié community, its original owners. It is more than three metres (10 ft) long, weighs about 430kg (68 stone), and is carved from iroko wood.</p></div></div></body></html>"
         },
         {
             "title": "Supreme Court: India top court rejects menstrual leave petition saying 'no-one will hire women'",
@@ -152,15 +158,9 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Those rings, called the Van Allen belts, shield Earth from cosmic radiation, solar storms and streaming solar wind, which are harmful to humans and can damage technology.</p></div></div></body></html>"
         },
         {
-            "title": "Ethiopia flood death toll in Gamo Zone rises above 60",
-            "time": "2026-03-12T14:46:09",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cb8c/live/cb0afa10-1d41-11f1-8a7a-4725a6287ab3.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The official death toll, initially put at just over 30, has steadily risen over the past 24 hours. Earlier on Thursday, a senior policeman said 64 had died. Dozens are still missing.</p></div></div></body></html>"
-        },
-        {
             "title": "Americans react to Iran strikes: 'What if this turns into a forever war?'",
             "time": "2026-03-13T00:03:34",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9e1b/live/63b1c880-1e18-11f1-801d-ed3cff6bf876.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/829d/live/e4120900-1ee4-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">[Trump] was about to have a roaring economy, with no taxes on tips, no taxes on overtime...Inflation was going down, and I think that's all going to go in the tank, if this keeps going. </p></div></div></body></html>"
         },
         {
