@@ -2,28 +2,34 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Kharg Island: Why has it been targeted by the US?",
+            "time": "2026-03-14T11:39:38",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ecce/live/0a54bbc0-1f86-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ehsan Jahanian, political deputy to the governor of Bushehr province in southern Iran, said \"no military personnel, oil company employees, or island residents suffered casualties in the attack, and all sectors are continuing their routine activities\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+            "time": "2026-03-14T12:05:46",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7534/live/ec98b280-1f9e-11f1-968c-f7c713610d57.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">At the same time, Hamas, which governs Gaza, affirmed Tehran's right to defend itself against attacks by the US and Israel, who are continuing to strike Iran.</p></div></div></body></html>"
+        },
+        {
             "title": "More US Marines and warships to be moved to Middle East, reports say",
             "time": "2026-03-14T00:53:15",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/edf4/live/8a4b88f0-1f8a-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Charges dropped against Georgia teens whose teacher died during toilet paper prank</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The teacher's family had asked for charges, including one of homicide, to be dropped \"to prevent a separate tragedy from occuring\" over the prank turned fatal.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">9 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Charges dropped against Georgia teens whose teacher died during toilet paper prank</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The teacher's family had asked for charges, including one of homicide, to be dropped \"to prevent a separate tragedy from occuring\" over the prank turned fatal.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">10 hrs ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+            "time": "2026-03-14T12:45:41",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1c8d/live/c299f6d0-1f79-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This is a cowardly act of aggression towards the Jewish community,\" the mayor said, adding that Amsterdam \"must be a place where Jews can live safely\". Prime Minister Rob Jetten said \"there must be no place for antisemitism\" in the Netherlands.</p></div></div></body></html>"
         },
         {
             "title": "Rescuers blame weather and 'underprepared skiers’ for rise in avalanche deaths",
             "time": "2026-03-14T05:59:09",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c670/live/c49e5040-141e-11f1-963a-55716ece1b4d.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"A lot of the victims are skiers who come here often, are technically skilled, but aren't necessarily connoisseurs of the mountain environment,\" suggests Stéphane Bornet, the director of Anena, a French snow safety association.</p></div></div></body></html>"
-        },
-        {
-            "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
-            "time": "2026-03-13T22:02:39",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I will go to my mother's grave, then my fathers, and my brothers,\" he says. \"I will go to all the friends and family I will never see again, and lay flowers and tell them: 'I remember you always, and I cry for you.'\"  At this, he is silenced by his grief and his memories.</p></div></div></body></html>"
-        },
-        {
-            "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-            "time": "2026-03-14T08:11:15",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1c8d/live/c299f6d0-1f79-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This is a cowardly act of aggression towards the Jewish community,\" Halsema said, stressing that Amsterdam \"must be a place where Jews can live safely\".</p></div></div></body></html>"
         },
         {
             "title": "LA28 Epstein fallout: City Council urges Wasserman investigation",
@@ -89,7 +95,7 @@
             "title": "Iris Dena: Bodies of 84 Iranian sailors killed in US attack to be repatriated",
             "time": "2026-03-13T10:43:21",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Charges dropped against Georgia teens whose teacher died during toilet paper prank</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The teacher's family had asked for charges, including one of homicide, to be dropped \"to prevent a separate tragedy from occuring\" over the prank turned fatal.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">9 hrs ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Charges dropped against Georgia teens whose teacher died during toilet paper prank</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The teacher's family had asked for charges, including one of homicide, to be dropped \"to prevent a separate tragedy from occuring\" over the prank turned fatal.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">10 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs after meeting",
@@ -140,16 +146,22 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Students were evacuated and taken to a nearby country club, Temple Israel said in a statement on Facebook. The school's 140 students as well as \"our amazing staff, our courageous teachers, and our heroic security personnel\" were all accounted for and safe, it said.</p></div></div></body></html>"
         },
         {
-            "title": "Nepal: Rapper-politician Balendra Shah's party wins Nepal election",
-            "time": "2026-03-12T15:25:35",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d2e/live/58a32b30-1e88-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The result is an amazing turn in fortune for the RSP, which was only founded in 2022 and came fourth in the election held that same year. Shah, like the party he only recently joined, is largely untested - his only political experience so far has been as the mayor of the capital, Kathmandu. </p></div></div></body></html>"
-        },
-        {
             "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
             "time": "2026-03-14T00:02:29",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2e66/live/827f6f50-1ef0-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to United Arab Emirates (UAE) authorities, since the start of Iran's attacks, UAE air defences have dealt with 285 ballistic missiles, 15 cruise missiles, and 1,567 drones. Officials say that more than 90% were intercepted and destroyed.</p></div></div></body></html>"
+        },
+        {
+            "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+            "time": "2026-03-13T22:02:39",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I will go to my mother's grave, then my fathers, and my brothers,\" he says. \"I will go to all the friends and family I will never see again, and lay flowers and tell them: 'I remember you always, and I cry for you.'\"  At this, he is silenced by his grief and his memories.</p></div></div></body></html>"
+        },
+        {
+            "title": "Xi Jinping: Why is the Chinese leader's anti-corruption drive still going on?",
+            "time": "2026-03-13T23:08:36",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12ea/live/99535ca0-1f09-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">For Xi, observers argue, corruption has become a catch-all term that encompasses not just graft, from small-time favours to huge bribes, but much more - ideological impurity, a lack of commitment to China's ambitions and, crucially, disloyalty.</p></div></div></body></html>"
         },
         {
             "title": "How the Iran war exposed cracks in Trump's Republican coalition",
@@ -160,14 +172,8 @@
         {
             "title": "She spent 16 hours a day on Instagram. Jury to decide if Meta is to blame",
             "time": "2026-03-14T00:02:15",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/219d/live/51f0ac50-1f09-11f1-801d-ed3cff6bf876.jpg",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/571b/live/1b1cfd80-1f9c-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">So potentially fraught is the outcome that Mark Zuckerberg, the billionaire co-founder and chief executive of Meta, which owns Instagram, Facebook and WhatsApp, appeared in person to <a target=\"_self\" href=\"https://www.bbc.com/news/articles/c5y42znjnjvo\" class=\"sc-f9178328-0 iCaRzc\">defend his platforms</a>. It was the first time he had ever given such testimony before a court, despite his company being sued hundreds of times in the past.</p></div></div></body></html>"
-        },
-        {
-            "title": "Xi Jinping: Why is the Chinese leader's anti-corruption drive still going on?",
-            "time": "2026-03-13T23:08:36",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12ea/live/99535ca0-1f09-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">For Xi, observers argue, corruption has become a catch-all term that encompasses not just graft, from small-time favours to huge bribes, but much more - ideological impurity, a lack of commitment to China's ambitions and, crucially, disloyalty.</p></div></div></body></html>"
         },
         {
             "title": "Rostam Aziz and NMG: Billionaire takes control of East Africa's largest media house",
