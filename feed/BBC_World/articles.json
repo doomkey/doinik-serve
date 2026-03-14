@@ -2,12 +2,6 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Kharg Island: Why has it been targeted by the US?",
-            "time": "2026-03-14T13:42:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ecce/live/0a54bbc0-1f86-11f1-b048-c9424b2cf5fd.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ehsan Jahanian, political deputy to the governor of Bushehr province in southern Iran, said \"no military personnel, oil company employees, or island residents suffered casualties in the attack, and all sectors are continuing their routine activities\".</p></div></div></body></html>"
-        },
-        {
             "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
             "time": "2026-03-14T13:34:17",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d793/live/0c4b6660-1fac-11f1-b048-c9424b2cf5fd.png",
@@ -18,6 +12,18 @@
             "time": "2026-03-14T13:27:32",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/edf4/live/8a4b88f0-1f8a-11f1-9120-a910fc22c6ac.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The Wall Street Journal, which <a target=\"_blank\" href=\"https://www.wsj.com/livecoverage/us-israel-iran-war-news-2026/card/pentagon-sends-marine-expeditionary-unit-to-middle-east-WeoODg0XIIe31W3np2aI\" class=\"sc-f9178328-0 iCaRzc\">first reported</a> the movement of US personnel, also reported that the request for reinforcements was made by US Central Command, the part of the US military responsible for the Middle East, and approved by Defence Secretary Pete Hegseth.</p></div></div></body></html>"
+        },
+        {
+            "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+            "time": "2026-03-14T17:51:28",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6242/live/c74b5b30-1fcc-11f1-9c85-1d495aee893e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The ship's treasure, being sent to the east coast to create a reserve for banks, sank 7,000 feet to the bottom of the ocean, taking with it 425 passengers and crew, and contributing to the financial panic of 1857. </p></div></div></body></html>"
+        },
+        {
+            "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+            "time": "2026-03-14T17:57:49",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/64c1/live/b9ad4ac0-1fcb-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The capital, Havana, which has seen blackouts of up to 15 hours a day, has been the epicentre of recent protests.</p></div></div></body></html>"
         },
         {
             "title": "Rescuers blame weather and 'underprepared skiers’ for rise in avalanche deaths",
@@ -42,6 +48,12 @@
             "time": "2026-03-14T04:34:30",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/83db/live/08115180-744a-11f0-a975-cb151ca452f4.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A statement said: \"Utterly destroying HG Wells' classic novel, director Rich Lee... chose a goofy gimmick, hack dialogue, and a particularly hilarious performance by its lead, Ice Cube, to seize 2025's biggest number of statues.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "German philosopher and social critic Jürgen Habermas dies at 96",
+            "time": "2026-03-14T18:02:15",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8bae/live/b15cff00-1fcb-11f1-9c85-1d495aee893e.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">His most influential work, The Theory of Communicative Action, published in 1981, argued that human societies were sustained not by political or economic power but by the capacity for rational dialogue.</p></div></div></body></html>"
         },
         {
             "title": "LA28 Epstein fallout: City Council urges Wasserman investigation",
@@ -116,6 +128,12 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Alberta's Indigenous relations minister, Rajan Sawhney, told reporters on Wednesday that she would like to meet Chief Pete to discuss the alleged treaty violations, but added: \"At this point, I don't agree with these allegations.\"</p></div></div></body></html>"
         },
         {
+            "title": "Kharg Island: Why has it been targeted by the US?",
+            "time": "2026-03-14T13:42:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ecce/live/0a54bbc0-1f86-11f1-b048-c9424b2cf5fd.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ehsan Jahanian, political deputy to the governor of Bushehr province in southern Iran, said \"no military personnel, oil company employees, or island residents suffered casualties in the attack, and all sectors are continuing their routine activities\".</p></div></div></body></html>"
+        },
+        {
             "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
             "time": "2026-03-14T00:02:29",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2e66/live/827f6f50-1ef0-11f1-9120-a910fc22c6ac.jpg",
@@ -128,16 +146,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I will go to my mother's grave, then my fathers, and my brothers,\" he says. \"I will go to all the friends and family I will never see again, and lay flowers and tell them: 'I remember you always, and I cry for you.'\" At this, he is silenced by his grief and his memories.</p></div></div></body></html>"
         },
         {
-            "title": "Mojtaba Khamenei: Iranians react to new Supreme Leader's first address",
-            "time": "2026-03-13T15:53:48",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5bc7/live/4a92b800-1ed6-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's UN ambassador, Amir Saeid Iravani, said on Tuesday that thousands of civilian sites had been destroyed by the strikes, including schools and housing. The US-based Human Rights Activists in Iran (HRANA) group says nearly 1,800 people have been killed in the conflict, around two-thirds of whom were civilians.</p></div></div></body></html>"
-        },
-        {
             "title": "Xi Jinping: Why is the Chinese leader's anti-corruption drive still going on?",
             "time": "2026-03-13T23:08:36",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12ea/live/99535ca0-1f09-11f1-801d-ed3cff6bf876.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">For Xi, observers argue, corruption has become a catch-all term that encompasses not just graft, from small-time favours to huge bribes, but much more - ideological impurity, a lack of commitment to China's ambitions and, crucially, disloyalty.</p></div></div></body></html>"
+        },
+        {
+            "title": "Mojtaba Khamenei: Iranians react to new Supreme Leader's first address",
+            "time": "2026-03-13T15:53:48",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5bc7/live/4a92b800-1ed6-11f1-801d-ed3cff6bf876.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's UN ambassador, Amir Saeid Iravani, said on Tuesday that thousands of civilian sites had been destroyed by the strikes, including schools and housing. The US-based Human Rights Activists in Iran (HRANA) group says nearly 1,800 people have been killed in the conflict, around two-thirds of whom were civilians.</p></div></div></body></html>"
         },
         {
             "title": "How the Iran war exposed cracks in Trump's Republican coalition",
