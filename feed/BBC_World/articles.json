@@ -3,9 +3,15 @@
     "articles": [
         {
             "title": "Top US counterterrorism official Joe Kent resigns over Iran war",
-            "time": "2026-03-17T14:49:18",
+            "time": "2026-03-17T16:43:34",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0b41/live/90b14820-220e-11f1-934f-036468834728.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Kent, a long-time supporter of Trump's who unsuccessfully ran for Congress twice, was nominated by the president early in his administration and narrowly confirmed to his post in, with many Democrats criticising his links to extremist groups including members of the Proud Boys. </p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Kent, a long-time supporter of Trump's who unsuccessfully ran for Congress twice, was nominated by the president early in his administration and narrowly confirmed to his post, with many Democrats criticising his links to extremist groups including members of the Proud Boys. </p></div></div></body></html>"
+        },
+        {
+            "title": "Israel says Iranian security chief Ali Larijani killed in strike",
+            "time": "2026-03-17T15:31:43",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a4b2/live/40055f60-2209-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">His brother, Sadegh Larijani, is another influential figure in the Islamic Republic. He chairs the Expediency Council, a top arbitration body that serves as the final arbiter between parliament and the constitutional watchdog, the Guardian Council.</p></div></div></body></html>"
         },
         {
             "title": "Afghanistan: Pakistan air strike kills at least 100 at Kabul drug rehab centre",
@@ -32,7 +38,13 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Conditions are different further east, however, particularly from areas near the Rockies to the High Plains, where dry air, parched vegetation, and persistent breezes could create a much more favourable environment for wildfires to ignite and spread.</p></div></div></body></html>"
         },
         {
-            "title": "Zambia's election: Aspiring female politicians asked for sexual favours, official says",
+            "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+            "time": "2026-03-17T16:10:06",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/91ac/live/15f950b0-21f9-11f1-9256-9b680459597d.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Moldova has a population of 2.4 million, but Russia still has a military base in the Russian-speaking, breakaway region of Transnistria, which lies along much of Moldova's eastern border with Ukraine. Local TV reports say oil has been spotted in Transnistria although officials there do not expect to impose restrictions on drinking water.</p></div></div></body></html>"
+        },
+        {
+            "title": "Zambia's election: Aspiring female politicians were asked for sexual favours, official says",
             "time": "2026-03-17T13:31:08",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31c9/live/e1d39630-220f-11f1-b297-95b0a0a8331e.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"This situation is very troubling as it discourages many women from participating in politics, particularly as candidates,'' Beauty Katebe, who chairs the board of the Non-Governmental Gender Organisations Coordinating Council, told the BBC. </p></div></div></body></html>"
@@ -68,16 +80,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a famous speech on independence day, in front of Belgian dignitaries including King Baudouin, Lumumba, aged 34, castigated Belgium saying that the Congolese had been held in \"humiliating slavery\".</p></div></div></body></html>"
         },
         {
-            "title": "Columbia University protester Leqaa Kordia released after year in immigration custody",
-            "time": "2026-03-17T01:08:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/43d9/live/d5f59ad0-2196-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Last month, Kordia was admitted to hospital for three days after having a seizure at the Alvarado, Texas, detention facility, where she also had fainting episodes.</p></div></div></body></html>"
-        },
-        {
-            "title": "Maiduguri attacks: Suspected suicide bombings kill at least 23 in north-east Nigeria",
-            "time": "2026-03-17T12:00:43",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f487/live/51e24310-21eb-11f1-a79a-77e93010d956.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Belgian court clears way for trial over 1961 killing of Congo PM Lumumba</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Etienne Davignon, a 93-year-old ex-diplomat, is accused of involvement in the assassination of the independence hero.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">59 mins ago</span></p></div></div></body></html>"
+            "title": "Strait of Hormuz: What have US allies and China said about sending ships to key shipping route?",
+            "time": "2026-03-17T16:35:29",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3f86/live/cf452550-21f7-11f1-9256-9b680459597d.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In his original request on 14 March, he had said: \"Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships\".</p></div></div></body></html>"
         },
         {
             "title": "Surge in US gas prices deepens political peril for Trump over Iran",
@@ -114,12 +120,6 @@
             "time": "2026-03-16T04:43:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a11a/live/30940050-211d-11f1-b048-c9424b2cf5fd.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Restricting internet access not only restricts communication with the outside world, but also limits protesters' ability to mobilise, plan and communicate among each other. Encrypted messaging apps and platforms often function as tools for organising rallies, sharing protest locations, and circulating calls to action.</p></div></div></body></html>"
-        },
-        {
-            "title": "Far-left and far-right gains throw French mainstream parties into a quandary",
-            "time": "2026-03-16T10:46:41",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/155f/live/c6e5b910-2120-11f1-801d-ed3cff6bf876.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Take Marseille.  There, after round one, the incumbent Socialist Mayor, Benoît Payan, is only a whisker ahead of RN candidate Franck Allisio.</p></div></div></body></html>"
         },
         {
             "title": "Why did only two Iranian football players stay in Australia?",
