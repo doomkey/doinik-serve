@@ -20,12 +20,6 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Kent, 45, is a US special forces and CIA veteran whose wife, navy cryptologic technician Shannon Kent, was killed in a suicide bombing in Syria in 2019. </p></div></div></body></html>"
         },
         {
-            "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
-            "time": "2026-03-17T18:45:54",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2090/live/10ef2a40-2230-11f1-a79a-77e93010d956.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Gul Meer was in the facility for over seven months now. Since last night when the attack happened, we have no information about him, I don't know what happened to him, I am waiting for the list to be announced later,\" said the woman, a mother of nine.</p></div></div></body></html>"
-        },
-        {
             "title": "Ozempic, Wegovy: India's cheap weight-loss drugs could reshape global obesity fight",
             "time": "2026-03-18T00:30:49",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/93c1/live/1ad74b40-22b8-11f1-a79a-77e93010d956.jpg",
@@ -35,7 +29,13 @@
             "title": "US judge orders Trump administration to reopen Voice of America",
             "time": "2026-03-18T11:01:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3b0f/live/d8346f80-4ea9-11f0-9e07-7900e9cdda16.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Juliana Stratton wins Illinois Democratic primary for US Senate </h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The 60-year-old Democrat, backed by Governor JB Pritzker, pulled off a surprise victory after months of trailing in the polls.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">8 mins ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Juliana Stratton wins Illinois Democratic primary for US Senate </h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The 60-year-old Democrat, backed by Governor JB Pritzker, pulled off a surprise victory after months of trailing in the polls.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">2 hrs ago</span></p></div></div></body></html>"
+        },
+        {
+            "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+            "time": "2026-03-17T18:45:54",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2090/live/10ef2a40-2230-11f1-a79a-77e93010d956.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Gul Meer was in the facility for over seven months now. Since last night when the attack happened, we have no information about him, I don't know what happened to him, I am waiting for the list to be announced later,\" said the woman, a mother of nine.</p></div></div></body></html>"
         },
         {
             "title": "Italy warns Russian tanker Arctic Metagaz could explode in Mediterranean",
@@ -56,16 +56,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"As Attorney General, you are directly responsible for overseeing the Department's collection, review, and determinations regarding the release of files pursuant to the Epstein Files Transparency Act, and the Committee therefore believes that you possess valuable insight into these efforts,\" he said of Bondi. Bondi has been asked to appear on 14 April.</p></div></div></body></html>"
         },
         {
-            "title": "Afghanistan: Pakistan air strike kills at least 100 at Kabul drug rehab centre",
-            "time": "2026-03-17T12:38:49",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f1f8/live/5f67f710-21cc-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">China, which has tried to cool tensions, said its Foreign Minister, Wang Yi, had spoken to his Afghan and Pakistani counterparts over the phone in the past week.</p></div></div></body></html>"
-        },
-        {
             "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
             "time": "2026-03-17T16:10:06",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/91ac/live/15f950b0-21f9-11f1-9256-9b680459597d.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Moldova has a population of 2.4 million, but Russia still has a military base in the Russian-speaking, breakaway region of Transnistria, which lies along much of Moldova's eastern border with Ukraine. Local TV reports say oil has been spotted in Transnistria although officials there do not expect to impose restrictions on drinking water.</p></div></div></body></html>"
+        },
+        {
+            "title": "Afghanistan: Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+            "time": "2026-03-17T12:38:49",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f1f8/live/5f67f710-21cc-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">China, which has tried to cool tensions, said its Foreign Minister, Wang Yi, had spoken to his Afghan and Pakistani counterparts over the phone in the past week.</p></div></div></body></html>"
         },
         {
             "title": "Chile's president begins building border barrier less than week into term",
