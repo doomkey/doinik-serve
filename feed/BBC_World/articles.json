@@ -2,16 +2,16 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+            "time": "2026-03-19T22:41:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Gas prices, which had already been rising since the start of the conflict, surged in response to the Iranian attack on Qatar. The UK benchmark peaked briefly at almost 183p per therm on Thursday before easing back to 154.8p, an 11.3% increase from Wednesday's level. European prices also rose by more than 10%.</p></div></div></body></html>"
+        },
+        {
             "title": "US considers lifting sanctions on some Iranian oil",
             "time": "2026-03-19T19:55:51",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3ee4/live/b3f62e10-23c9-11f1-934f-036468834728.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"To put it mildly, this is bananas,\" said David Tannenbaum, director of Blackstone Compliance Services, a consultancy specialising in maritime sanctions.  \"Essentially we're allowing Iran to sell oil, which could then be used to fund the war effort.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks",
-            "time": "2026-03-19T19:31:21",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">While the US has concentrated much of its military effort on degrading Iran's missile and drone capability, sinking its Navy and, in recent days, attacking targets along Iran's long Gulf shoreline, Israel has gone to great lengths to assassinate Iran's leaders and attack elements of state control, including paramilitary Basij units responsible for much of the violent crackdown on protests earlier this year.</p></div></div></body></html>"
         },
         {
             "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
@@ -26,13 +26,7 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Tasnim, a semi-official news agency associated with Iran's Revolutionary Guard Corps (IRGC), reported that Mohammadi, Mehdi Ghasemi, and Saeed Davoudi were found guilty of killing two police officers in separate attacks in Qom.</p></div></div></body></html>"
         },
         {
-            "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
-            "time": "2026-03-19T21:37:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a8dd/live/c1e897c0-2314-11f1-83bb-2f220ea2da92.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Dolores Huerta said that, in the 1960s, Chavez, who co-founded the United Farm Workers union (UFW) with her, once \"manipulated and pressured\" her into having sex, and on another occasion forced her.</p></div></div></body></html>"
-        },
-        {
-            "title": "ABC pulls Taylor Frankie Paul's season of The Bachelorette after domestic abuse allegations",
+            "title": "Taylor Frankie Paul's Bachelorette season pulled after abuse allegations",
             "time": "2026-03-19T22:24:51",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/fe5510f0-23d5-11f1-92f6-6d3dbba93239.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A spokesperson for Disney, which owns ABC, said it made the decision to pull the season \"in light of the newly released video just surfaced today\", referring to the footage, which was published by TMZ.</p></div></div></body></html>"
@@ -42,6 +36,12 @@
             "time": "2026-03-19T20:14:30",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1fcc/live/9934c930-23cc-11f1-b3c7-29f2e801ef4b.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The first rape charge, dating back to 2018, took place at his the crown prince and princess's official Skaugum estate outside Oslo. Commentators saw his trial as the biggest scandal Norway's royals had ever had to face.</p></div></div></body></html>"
+        },
+        {
+            "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
+            "time": "2026-03-19T21:37:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a8dd/live/c1e897c0-2314-11f1-83bb-2f220ea2da92.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Dolores Huerta said that, in the 1960s, Chavez, who co-founded the United Farm Workers union (UFW) with her, once \"manipulated and pressured\" her into having sex, and on another occasion forced her.</p></div></div></body></html>"
         },
         {
             "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
@@ -59,7 +59,7 @@
             "title": "Joe Kent: Former counter-terrorism head under FBI investigation over alleged leaks",
             "time": "2026-03-19T17:12:27",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0645/live/521aeab0-2369-11f1-934f-036468834728.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Teenager among first to be executed over Iran's anti-government protests</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Saleh Mohammadi, a member of Iran's national wrestling team, was found guilty of killing police officers alongside two other men, state media say.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">20 mins ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Teenager among first to be executed over Iran's anti-government protests</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">Saleh Mohammadi, a member of Iran's national wrestling team, was found guilty of killing police officers alongside two other men, state media say.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
         },
         {
             "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
@@ -74,10 +74,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The paramilitary Rapid Support Forces (RSF), which controls most of the western Darfur region bordering Chad, is suspected of carrying out the attack. It denies any involvement and blames Sudan's army, which has blamed the RSF.</p></div></div></body></html>"
         },
         {
-            "title": "Iran conflict looms large over Trump's meeting with Japan PM",
-            "time": "2026-03-19T18:06:37",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/839e/live/e28ff680-23be-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">As of a few weeks ago, the upcoming meeting looked set to be a success, with Takaichi \"fresh off <a target=\"_self\" href=\"https://www.bbc.com/news/articles/cddn7qed35eo\" class=\"sc-f9178328-0 iCaRzc\">a dominant election victory</a> and with a new round of investment projects in the US\", Emma Chanlett-Avery, director for political and security affairs at the Asia Society Policy Institute, told the BBC. </p></div></div></body></html>"
+            "title": "BTS Seoul concert: Capital braces for the Army as band returns",
+            "time": "2026-03-19T23:03:53",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/851b/live/c0512e70-238e-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ami Ostrovskaia, who moved to Seoul from Russia last year to study, is one of the lucky ones. \"BTS is the reason I'm here,\" she says. \"It's why I started learning about Korean history, culture, food, sports, and the language.\"</p></div></div></body></html>"
+        },
+        {
+            "title": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks",
+            "time": "2026-03-19T23:19:00",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Thursday morning,<b id=\"\" class=\"sc-d16436d-0 gnUCoQ\"> </b>Alex Gandler, spokesman for the Israeli embassy in London, told the BBC, \"We are very much aligned on most or all of our goals regarding the Islamic regime in Iran, the IRGC [Islamic Revolutionary Guard Corps], their ballistic and nuclear programmes,\" and \"We want the same thing.\"</p></div></div></body></html>"
         },
         {
             "title": "How Europe sleepwalked into yet another energy crisis",
@@ -102,12 +108,6 @@
             "time": "2026-03-19T00:42:16",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1dc9/live/f606a950-237a-11f1-b297-95b0a0a8331e.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The US state department has clarified that it is not forcibly returning any evacuees to Afghanistan, but that some have voluntarily returned. It did not confirm whether it was paying those returning to Afghanistan, but sources have told the BBC that evacuees were offered $4,500 (£3,338) for the main applicant, and $1,200 for each of their family members.</p></div></div></body></html>"
-        },
-        {
-            "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
-            "time": "2026-03-18T16:04:29",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b43e/live/c8e1b7c0-22ef-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"To be honest, in the last days I'm losing hope a little bit,\" said Sigal as we sheltered in the safe room. \"I feel there's no end to it, there's no direction, we can't see the light at the end of the tunnel. We must endure this, but I'm not sure how long it will take, [or] where we are going from here.\"</p></div></div></body></html>"
         },
         {
             "title": "As Cuba struggles with power cuts, how is the island holding out?",
