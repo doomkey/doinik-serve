@@ -2,6 +2,42 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "The global winners and losers of the war in Iran",
+            "time": "2026-03-20T00:08:53",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Firstly, because some producers are heavily exposed to disruption in the Middle East. ExxonMobil, for instance, has operations at <a target=\"_self\" href=\"https://www.bbc.co.uk/news/articles/cj6d66w0995o\" class=\"sc-f9178328-0 iCaRzc\">Qatar's Ras Laffan industrial hub</a>, where production has been shut down since early March, and which has now been hit by Iranian missile attacks, causing \"extensive damage\".</p></div></div></body></html>"
+        },
+        {
+            "title": "Watch: Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
+            "time": "2026-03-19T17:50:38",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/86c1/live/d0aaf4f0-23ba-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-6bafae19-3 fVsqyB\"><p class=\"sc-9a00e533-0 eZyhnA\">In a meeting with Japanese Prime Minister Sanae Takaichi in the Oval Office, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran. </p><p class=\"sc-9a00e533-0 eZyhnA\"></p><p class=\"sc-9a00e533-0 eZyhnA\">Trump responded by raising Japan's attack on Pearl Harbor during World War II, saying, \"Who ​knows better about surprise than Japan?\" </p><p class=\"sc-9a00e533-0 eZyhnA\"></p><p class=\"sc-9a00e533-0 eZyhnA\"><a target=\"_self\" href=\"https://www.bbc.com/news/live/c24d410m3g4t\" class=\"sc-f9178328-0 iCaRzc\">More on the latest on the conflict in the Middle East here.</a></p></div></div></body></html>"
+        },
+        {
+            "title": "Delta Airlines: Several injured as turbulence hits flight into Sydney",
+            "time": "2026-03-20T01:26:01",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3d2f/live/4a7d6730-23f8-11f1-b6f7-2d6237dffb60.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Delta Flight 41 \"encountered brief turbulence\" as it landed at Sydney Airport, an airline spokesperson told the BBC. Four flight attendants were injured, and no passengers were hurt, the airline said.</p></div></div></body></html>"
+        },
+        {
+            "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+            "time": "2026-03-19T21:52:36",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9bd4/live/ce7b2b90-23d9-11f1-92f6-6d3dbba93239.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Soon afterwards, a small military contingent of Danish, French, German, Norwegian and Swedish soldiers was flown to the Greenland capital Nuuk and Kangerlussuaq, where there is an airport.</p></div></div></body></html>"
+        },
+        {
+            "title": "Anthony Albanese: Australia PM heckled at Sydney mosque Ramadan event",
+            "time": "2026-03-20T02:54:21",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2b9a/live/eb9bcca0-2417-11f1-8144-93249bfb3df2.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Community tensions - and reports of both antisemitism and Islamophobia - have been rising in Australia since Hamas attacked Israel on 7 October 2023, killing more than 1,200 people and taking 251 others hostage. Israel's offensive in Gaza has led to more than 72,000 Palestinian deaths, according to the Hamas-run health ministry.</p></div></div></body></html>"
+        },
+        {
+            "title": "Taylor Frankie Paul's Bachelorette season pulled after abuse allegations",
+            "time": "2026-03-20T01:41:58",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/fe5510f0-23d5-11f1-92f6-6d3dbba93239.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A spokesperson for Disney, which owns ABC, said it made the decision to pull the season \"in light of the newly released video just surfaced today\", referring to the footage, which was published by TMZ.</p></div></div></body></html>"
+        },
+        {
             "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
             "time": "2026-03-19T22:41:40",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg",
@@ -11,19 +47,7 @@
             "title": "Strait of Hormuz: Which ships are passing through?",
             "time": "2026-03-20T00:04:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Trump 24-karat gold coin approved by hand-picked federal panel</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The coin, intended to mark the nation's 250th birthday, should be \"as large as possible\", says one panel member.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">5 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "US considers lifting sanctions on some Iranian oil",
-            "time": "2026-03-19T19:55:51",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3ee4/live/b3f62e10-23c9-11f1-934f-036468834728.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"To put it mildly, this is bananas,\" said David Tannenbaum, director of Blackstone Compliance Services, a consultancy specialising in maritime sanctions.  \"Essentially we're allowing Iran to sell oil, which could then be used to fund the war effort.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-            "time": "2026-03-19T21:52:36",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9bd4/live/ce7b2b90-23d9-11f1-92f6-6d3dbba93239.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Soon afterwards, a small military contingent of Danish, French, German, Norwegian and Swedish soldiers was flown to the Greenland capital Nuuk and Kangerlussuaq, where there is an airport.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Trump 24-karat gold coin approved by hand-picked federal panel</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The coin, intended to mark the nation's 250th birthday, should be \"as large as possible\", says one panel member.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "Iran: Teenager among first to be executed over anti-government protests",
@@ -32,22 +56,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Tasnim, a semi-official news agency associated with Iran's Revolutionary Guard Corps (IRGC), reported that Mohammadi, Mehdi Ghasemi, and Saeed Davoudi were found guilty of killing two police officers in separate attacks in Qom.</p></div></div></body></html>"
         },
         {
-            "title": "Taylor Frankie Paul's Bachelorette season pulled after abuse allegations",
-            "time": "2026-03-20T01:41:58",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/fe5510f0-23d5-11f1-92f6-6d3dbba93239.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A spokesperson for Disney, which owns ABC, said it made the decision to pull the season \"in light of the newly released video just surfaced today\", referring to the footage, which was published by TMZ.</p></div></div></body></html>"
-        },
-        {
-            "title": "Delta Airlines: Several injured as turbulence hits flight into Sydney",
-            "time": "2026-03-20T01:26:01",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3d2f/live/4a7d6730-23f8-11f1-b6f7-2d6237dffb60.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">There were 245 passengers and 15 crew members on the Airbus A350, the Delta spokesperson said, adding that the plane landed \"safely and normally\" at Sydney Airport at 06:48 local time on Friday (19:48 GMT on Thursday).</p></div></div></body></html>"
-        },
-        {
-            "title": "Anthony Albanese: Australia PM heckled at Sydney mosque Ramadan event",
-            "time": "2026-03-20T02:54:21",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2b9a/live/eb9bcca0-2417-11f1-8144-93249bfb3df2.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Community tensions - and reports of both antisemitism and Islamophobia - have been rising in Australia since Hamas attacked Israel on 7 October 2023, killing more than 1,200 people and taking 251 others hostage. Israel's offensive in Gaza has led to more than 72,000 Palestinian deaths, according to the Hamas-run health ministry.</p></div></div></body></html>"
+            "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
+            "time": "2026-03-20T06:01:02",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f8eb/live/aed36b70-2390-11f1-9ab7-93c12e0817f9.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">After reviewing the data, Nasa managers signed off on a second rollout and the next phase of checks, which take place at the pad. If those tests are completed without incident, Artemis II will become the first crewed mission in the programme, paving the way for another crewed test flight, Artemis III in Earth orbit, sceduled for 2027 ahead of Artemis IV in planned for 2028, which will aims to see astronauts set foot on the Moon..</p></div></div></body></html>"
         },
         {
             "title": "Norway crown princess to address Epstein links as son's rape trial closes",
@@ -56,22 +68,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The first rape charge, dating back to 2018, took place at his the crown prince and princess's official Skaugum estate outside Oslo. Commentators saw his trial as the biggest scandal Norway's royals had ever had to face.</p></div></div></body></html>"
         },
         {
-            "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
-            "time": "2026-03-19T21:37:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a8dd/live/c1e897c0-2314-11f1-83bb-2f220ea2da92.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Dolores Huerta said that, in the 1960s, Chavez, who co-founded the United Farm Workers union (UFW) with her, once \"manipulated and pressured\" her into having sex, and on another occasion forced her.</p></div></div></body></html>"
-        },
-        {
-            "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
-            "time": "2026-03-19T14:00:19",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3a8f/live/71c98770-2398-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"There are things that, when we study them, with our present-day criteria, our values, obviously cannot make us feel proud,\" Felipe said while visiting an exhibition on indigenous Mexican women in Madrid's National Archaeological Museum.</p></div></div></body></html>"
-        },
-        {
-            "title": "Joe Kent: Former counter-terrorism head under FBI investigation over alleged leaks",
-            "time": "2026-03-19T17:12:27",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0645/live/521aeab0-2369-11f1-934f-036468834728.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Trump 24-karat gold coin approved by hand-picked federal panel</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The coin, intended to mark the nation's 250th birthday, should be \"as large as possible\", says one panel member.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">5 hrs ago</span></p></div></div></body></html>"
+            "title": "Nowruz: Iran prepare for Persian new year under the shadow of war",
+            "time": "2026-03-20T00:04:34",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3660/live/2dc8e250-23a2-11f1-9699-87c229cb26a0.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">To Iranians, Nowruz represents their history, national character and tradition. Persians, Parsis, Kurds, Armenians, Azerbaijanis, Tajiks, Kazakhs, Uzbeks and other cultures celebrate the festival and have their own traditions surrounding it.</p></div></div></body></html>"
         },
         {
             "title": "BTS 2026: Seoul braces for the Army as band returns",
@@ -86,10 +86,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">India's environment ministry has told state pollution boards to let restaurants and hotels temporarily switch to biomass (wood, dried crops, animal manure), fuel pellets, kerosene and coal for a month, prioritising cooking gas for households and essential sectors.</p></div></div></body></html>"
         },
         {
-            "title": "Nowruz: Iran prepare for Persian new year under the shadow of war",
-            "time": "2026-03-20T00:04:34",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3660/live/2dc8e250-23a2-11f1-9699-87c229cb26a0.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">To Iranians, Nowruz represents their history, national character and tradition. Persians, Parsis, Kurds, Armenians, Azerbaijanis, Tajiks, Kazakhs, Uzbeks and other cultures celebrate the festival and have their own traditions surrounding it.</p></div></div></body></html>"
+            "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
+            "time": "2026-03-20T00:01:51",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d920/live/219706b0-238e-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Such a step was, she suggested, one of the keys to delivering the economic growth Labour promised in the 2024 election campaign but which, so far, has largely eluded it. The economy grew by 1.3% in 2025, an improvement on growth of 1.1% in 2024, although worse than official forecasts of 1.5%.</p></div></div></body></html>"
         },
         {
             "title": "Kenya food crisis: Desperate people turn to the gingerbread tree in Turkana",
@@ -102,12 +102,6 @@
             "time": "2026-03-19T23:19:00",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Thursday morning,<b id=\"\" class=\"sc-d16436d-0 gnUCoQ\"> </b>Alex Gandler, spokesman for the Israeli embassy in London, told the BBC, \"We are very much aligned on most or all of our goals regarding the Islamic regime in Iran, the IRGC [Islamic Revolutionary Guard Corps], their ballistic and nuclear programmes,\" and \"We want the same thing.\"</p></div></div></body></html>"
-        },
-        {
-            "title": "How Europe sleepwalked into yet another energy crisis",
-            "time": "2026-03-19T05:59:49",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Italian Prime Minister, Giorgia Meloni, said last week: \"With the outbreak of the crisis in the Middle East, the issue of energy prices has clearly become even more important, which is why, at European level, we are also calling for the urgent suspension of the application of the ETS to electricity production.\"</p></div></div></body></html>"
         },
         {
             "title": "As Cuba struggles with power cuts, how is the island holding out?",
