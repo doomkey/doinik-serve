@@ -2,6 +2,12 @@
     "source": "BBC News",
     "articles": [
         {
+            "title": "Iranian strikes on bases used by US caused $800m in damage, analysis shows",
+            "time": "2026-03-20T22:34:05",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/df12/live/54d66e70-24ac-11f1-9e4f-af01f1e509c3.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Iran's retaliatory strikes targeted US air-defence and satellite-communication systems, among other assets, in Jordan, the United Arab Emirates, and other countries across the Middle East.</p></div></div></body></html>"
+        },
+        {
             "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
             "time": "2026-03-20T15:30:28",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d7b4/live/059b7740-2459-11f1-a89a-5b5e5d061970.jpg",
@@ -14,16 +20,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The superheated oil (from the burning tanks) cooked the system from inside, damaging the sensors, the valves, all the safety systems inside the pipeline,\" he told the BBC. His information is based on conversations with Hungarian and Ukrainian pipeline engineers.</p></div></div></body></html>"
         },
         {
-            "title": "Israel strikes Syria after Druze clashes",
-            "time": "2026-03-20T16:02:50",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/04d1/live/28ea6be0-243e-11f1-a79a-77e93010d956.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Israel, which has a sizable Druze minority, has previously framed such strikes as efforts to protect the community across the border. The Druze are a community in Syria, Lebanon, Israel and the Israeli-occupied Golan Heights, whose religion is an offshoot of Shia Islam with its own unique identity and beliefs.</p></div></div></body></html>"
+            "title": "Elon Musk misled Twitter investors, jury finds",
+            "time": "2026-03-20T22:55:41",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d41c/live/8e58b150-24af-11f1-934f-036468834728.jpg",
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">BBC asks Chuck Norris about being a 'successful, really terrible' actor</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The Hollywood action star, who got his big screen break alongside Bruce Lee in 1972's Way Of The Dragon, has died aged 86.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">7 hrs ago</span></p></div></div></body></html>"
         },
         {
             "title": "BTS Arirang review: K-pop idols rekindle their fire",
             "time": "2026-03-20T04:04:50",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6d2b/live/414b95e0-23c8-11f1-b050-bdbe6e966f25.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A <a target=\"_blank\" href=\"https://www.youtube.com/watch?v=_SvkNXpWsrQ\" class=\"sc-f9178328-0 iCaRzc\">promotional video for the album</a> shows RM, V, Jin, Jungkook, Jimin, j-hope and Suga listening to that wax cylinder recording, creating a connection across 130 years of history and placing them in a tradition of exporting Korean culture to the world.</p></div></div></body></html>"
+        },
+        {
+            "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
+            "time": "2026-03-20T22:36:13",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4039/live/9f81f350-240b-11f1-8fe6-c5696d01f03e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Until 1973, immigration was influenced by the infamous White Australia policy, which had actively limited the number of non-white immigrants entering Australia in favour of those from European countries. Even since that policy ended, however, issues of immigration, especially involving asylum seekers, have remained divisive.</p></div></div></body></html>"
+        },
+        {
+            "title": "Israel strikes Syria after Druze clashes",
+            "time": "2026-03-20T16:02:50",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/04d1/live/28ea6be0-243e-11f1-a79a-77e93010d956.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Israel, which has a sizable Druze minority, has previously framed such strikes as efforts to protect the community across the border. The Druze are a community in Syria, Lebanon, Israel and the Israeli-occupied Golan Heights, whose religion is an offshoot of Shia Islam with its own unique identity and beliefs.</p></div></div></body></html>"
         },
         {
             "title": "Tunisian anti‑racism activist Saadia Mosbah sentenced to eight years for money laundering",
@@ -68,28 +86,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">A spokesperson for Disney, which owns ABC, said it made the decision to pull the season \"in light of the newly released video just surfaced today\", referring to the footage, which was published by TMZ.</p></div></div></body></html>"
         },
         {
-            "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-            "time": "2026-03-19T21:52:36",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9bd4/live/ce7b2b90-23d9-11f1-92f6-6d3dbba93239.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Soon afterwards, a small military contingent of Danish, French, German, Norwegian and Swedish soldiers was flown to the Greenland capital Nuuk and Kangerlussuaq, where there is an airport.</p></div></div></body></html>"
-        },
-        {
-            "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
-            "time": "2026-03-19T22:41:40",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Gas prices, which had already been rising since the start of the conflict, surged in response to the Iranian attack on Qatar. The UK benchmark peaked briefly at almost 183p per therm on Thursday before easing back to 154.8p, an 11.3% increase from Wednesday's level. European prices also rose by more than 10%.</p></div></div></body></html>"
-        },
-        {
             "title": "Strait of Hormuz: Which ships are passing through?",
             "time": "2026-03-20T00:04:57",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">BBC asks Chuck Norris about being a 'successful, really terrible' actor</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The Hollywood action star, who got his big screen break alongside Bruce Lee in 1972's Way Of The Dragon, has died aged 86.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">6 hrs ago</span></p></div></div></body></html>"
-        },
-        {
-            "title": "Iran: Teenager among first to be executed over anti-government protests",
-            "time": "2026-03-19T22:07:17",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8fb9/live/aeb455a0-23db-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Tasnim, a semi-official news agency associated with Iran's Revolutionary Guard Corps (IRGC), reported that Mohammadi, Mehdi Ghasemi, and Saeed Davoudi were found guilty of killing two police officers in separate attacks in Qom.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The mix of threats - drones, missiles, fast attack boats and potentially mines - presents a serious challenge, says Arun Dawson from the King's College Freeman Air and Space Institute.</p></div></div></body></html>"
         },
         {
             "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
@@ -110,8 +110,8 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">To Iranians, Nowruz represents their history, national character and tradition. Persians, Parsis, Kurds, Armenians, Azerbaijanis, Tajiks, Kazakhs, Uzbeks and other cultures celebrate the festival and have their own traditions surrounding it.</p></div></div></body></html>"
         },
         {
-            "title": "BTS Arirang: Seoul braces for the Army as K-pop band returns",
-            "time": "2026-03-19T23:03:53",
+            "title": "BTS Arirang: What you need to know about their comeback show",
+            "time": "2026-03-20T23:06:10",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a405/live/0b891c80-23f9-11f1-b6f7-2d6237dffb60.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Ami Ostrovskaia, who moved to Seoul from Russia last year to study, is one of the lucky ones. \"BTS is the reason I'm here,\" she says. \"It's why I started learning about Korean history, culture, food, sports, and the language.\"</p></div></div></body></html>"
         },
