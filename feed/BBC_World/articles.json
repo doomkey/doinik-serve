@@ -2,10 +2,22 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Trump at a crossroads in US-Israel war with Iran",
-            "time": "2026-03-21T22:12:04",
+            "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+            "time": "2026-03-21T23:01:07",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a746/live/54a9dcf0-256c-11f1-a10c-f7c2a7618727.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Officially, the site is said to focus solely on research. But for around six decades, it has been an open secret that Israel developed a nuclear bomb there, even if each succeeding government has maintained a position of ambiguity over this.  </p></div></div></body></html>"
+        },
+        {
+            "title": "Trump at a crossroads as US weighs tough options in Iran",
+            "time": "2026-03-22T00:50:43",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5fa8/live/c5a4f260-2557-11f1-932e-8b5a2fd820dc.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Just over a week ago, US media reported that a Marine expeditionary unit, with about 2,500 combat soldiers and supporting ships and aircraft, had been dispatched from Japan to the Middle East, which it should reach in the coming days. Another Marine force of similar size recently departed its base in California with its arrival expected in mid-April.</p></div></div></body></html>"
+        },
+        {
+            "title": "Cuba's second power cut in a week leaves 10 million in darkness",
+            "time": "2026-03-22T02:02:40",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0f79/live/464c5270-257e-11f1-a79a-77e93010d956.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Friday Cuban Deputy Foreign Minister Carlos Fernandez de Cossio insisted that \"the political system of Cuba is not up for negotiation, and of course neither the president nor the position of any official in Cuba is subject to negotiation with the United States\", Reuters reported. </p></div></div></body></html>"
         },
         {
             "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
@@ -20,16 +32,16 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Numerous employees have reported to me that their bank accounts are at zero or negative,\" Johnny Jones, a Dallas-based official in the government workers' union AFGE, told USA Today.</p></div></div></body></html>"
         },
         {
-            "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-            "time": "2026-03-21T22:01:45",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b574/live/09b69730-253d-11f1-9348-f3405f852bad.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a subsequent post, the governor warned that, because the ground had already been saturated by the earlier rainfall, \"it will take much less rain to trigger flooding, road closures and damage\".</p></div></div></body></html>"
-        },
-        {
             "title": "BTS Arirang: Seoul hosts tens of thousands of excited fans",
             "time": "2026-03-21T13:24:34",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9dc5/live/c3a870d0-2530-11f1-a79a-77e93010d956.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to entertainment company HYBE, about 104,000 people attended the concert on Saturday at Gwanghwamun Square, where the seven K-pop stars - RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook - performed together for the first time since October 2022.</p></div></div></body></html>"
+        },
+        {
+            "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+            "time": "2026-03-21T22:01:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b574/live/09b69730-253d-11f1-9348-f3405f852bad.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a subsequent post, the governor warned that, because the ground had already been saturated by the earlier rainfall, \"it will take much less rain to trigger flooding, road closures and damage\".</p></div></div></body></html>"
         },
         {
             "title": "Pentagon restrictions on press violate First Amendment, judge rules",
@@ -47,7 +59,7 @@
             "title": "Elon Musk misled Twitter investors, jury finds",
             "time": "2026-03-20T23:44:09",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d41c/live/8e58b150-24af-11f1-934f-036468834728.jpg",
-            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">54 mins ago</span></p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">1 hr ago</span></p></div></div></body></html>"
         },
         {
             "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
@@ -110,10 +122,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The mix of threats - drones, missiles, fast attack boats and potentially mines - presents a serious challenge, says Arun Dawson from the King's College Freeman Air and Space Institute.</p></div></div></body></html>"
         },
         {
-            "title": "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
-            "time": "2026-03-21T01:05:03",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9123/live/8a9f3e40-251c-11f1-be9b-b9861df1e9c5.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Compelling citizens to engage in public performances of patriotism is a way of reminding citizens of the regime's overwhelming power,\" says Paul Goode, professor of Russian studies at Carleton University, Canada. That perception is reinforced by state-run media, state-commissioned public opinion polls and rigged elections, he adds.</p></div></div></body></html>"
+            "title": "Nigeria's herder-farmer conflict: Deadly mix of religion, cattle and land in Plateau state",
+            "time": "2026-03-22T00:55:31",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0f76/live/a8dac520-23ad-11f1-934f-036468834728.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"More recently, it has been random killings. Ambushes, where they kill one here, two there, three here,\" he says.</p></div></div></body></html>"
+        },
+        {
+            "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
+            "time": "2026-03-22T00:45:45",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/374e/live/100efcf0-23b0-11f1-934f-036468834728.png",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The BBC, working in collaboration with analysts Jeremy Carrasco and Angel Nulani from Riddance, has identified 60 such accounts, mainly on Instagram, that have carried links, or chains of links, to paid-for sexually explicit content on third-party sites. The sites labelled the imagery as AI-generated, but the Instagram accounts did not.</p></div></div></body></html>"
+        },
+        {
+            "title": "Quebec's secularism law heads to Canada's Supreme Court",
+            "time": "2026-03-22T00:17:02",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ea6b/live/c60d00e0-2484-11f1-a79a-77e93010d956.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\"><b id=\"since-2019,-a-secularism-law-in-quebec-has-barred-some-public-sector-workers,-like-judges,-police-officers-and-teachers,-from-wearing-religious-attire-at-work.-now,-the-country's-highest-court-is-preparing-to-consider-its-future.\" class=\"sc-d16436d-0 gnUCoQ\">Since 2019, a secularism law in Quebec has barred some public sector workers, like judges, police officers and teachers, from wearing religious attire at work. Now, the country's highest court is preparing to consider its future.</b></p></div></div></body></html>"
+        },
+        {
+            "title": "Italians are voting in a referendum on constitutional change",
+            "time": "2026-03-22T00:10:15",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/979c/live/e80fb280-2481-11f1-b297-95b0a0a8331e.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The geopolitical situation is very tough, of course. People are scared. I completely feel that. But we need to stay focused on the purpose of the referendum,\" Andrea di Giuseppe, a member of Meloni's Fratelli d'Italia party, argues.</p></div></div></body></html>"
         },
         {
             "title": "Chuck Norris memes were undefeated for a generation of young fans",
@@ -128,34 +158,10 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"The Pakistani military regime has once again violated Afghanistan's airspace and targeted a drug rehabilitation hospital in Kabul, resulting in the death and injury of addicts who were undergoing treatment,\" posted Zabihullah Mujahid, the Taliban government's spokesperson, who added he considers such an act to be \"a crime against humanity\".</p></div></div></body></html>"
         },
         {
-            "title": "Nowruz: Iran prepare for Persian new year under the shadow of war",
-            "time": "2026-03-20T00:04:34",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a6e4/live/fbf43f20-2439-11f1-934f-036468834728.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">To Iranians, Nowruz represents their history, national character and tradition. Persians, Parsis, Kurds, Armenians, Azerbaijanis, Tajiks, Kazakhs, Uzbeks and other cultures celebrate the festival and have their own traditions surrounding it.</p></div></div></body></html>"
-        },
-        {
-            "title": "Russia, China and the US - the global winners and losers of the Iran war",
-            "time": "2026-03-20T00:08:53",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Firstly, because some producers are heavily exposed to disruption in the Middle East. ExxonMobil, for instance, has operations at <a target=\"_self\" href=\"https://www.bbc.co.uk/news/articles/cj6d66w0995o\" class=\"sc-f9178328-0 iCaRzc\">Qatar's Ras Laffan industrial hub</a>, where production has been shut down since early March, and which has now been hit by Iranian missile attacks, causing \"extensive damage\".</p></div></div></body></html>"
-        },
-        {
-            "title": "Iran war: Gas shortage risks pushing India towards polluting fuels",
-            "time": "2026-03-20T00:59:29",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/08ee/live/9ec5bb60-235f-11f1-a79a-77e93010d956.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">India's environment ministry has told state pollution boards to let restaurants and hotels temporarily switch to biomass (wood, dried crops, animal manure), fuel pellets, kerosene and coal for a month, prioritising cooking gas for households and essential sectors.</p></div></div></body></html>"
-        },
-        {
-            "title": "Kenya food crisis: Desperate people turn to the gingerbread tree in Turkana",
-            "time": "2026-03-20T00:06:24",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9be5/live/bef7b0c0-2150-11f1-a79a-77e93010d956.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">According to experts at the local National Drought Management Authority, the rains have been uneven, with some parts of Turkana receiving little to none, while the rainfall remains unpredictable and insufficient to offset the impact of the last two failed rainy seasons.</p></div></div></body></html>"
-        },
-        {
-            "title": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks",
-            "time": "2026-03-19T23:19:00",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">On Thursday morning,<b id=\"\" class=\"sc-d16436d-0 gnUCoQ\"> </b>Alex Gandler, spokesman for the Israeli embassy in London, told the BBC, \"We are very much aligned on most or all of our goals regarding the Islamic regime in Iran, the IRGC [Islamic Revolutionary Guard Corps], their ballistic and nuclear programmes,\" and \"We want the same thing.\"</p></div></div></body></html>"
+            "title": "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
+            "time": "2026-03-21T01:05:03",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9123/live/8a9f3e40-251c-11f1-be9b-b9861df1e9c5.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"Compelling citizens to engage in public performances of patriotism is a way of reminding citizens of the regime's overwhelming power,\" says Paul Goode, professor of Russian studies at Carleton University, Canada. That perception is reinforced by state-run media, state-commissioned public opinion polls and rigged elections, he adds.</p></div></div></body></html>"
         },
         {
             "title": "'BTS is everything for us': K-pop fans gather in Seoul for comeback show",
