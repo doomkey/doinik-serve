@@ -2,14 +2,14 @@
     "source": "BBC News",
     "articles": [
         {
-            "title": "Plane and ground vehicle collide at New York's LaGuardia airport halting flights",
-            "time": "2026-03-23T07:53:53",
+            "title": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
+            "time": "2026-03-23T09:40:11",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b500/live/620c2290-268e-11f1-b297-95b0a0a8331e.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">CBS News, the BBC US partner, reported the plane was arriving from Montreal and had landed. It had slowed to about 24mph when it collided with a vehicle from the Port Authority of New York and New Jersey, which runs the airport.</p></div></div></body></html>"
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I visited them both in the hospital, as has the chairman, and they were able to speak and we're notifying their families\", said Garcia.</p></div></div></body></html>"
         },
         {
-            "title": "Asia stocks slide as US and Iran threaten to intensify war",
-            "time": "2026-03-23T08:11:01",
+            "title": "Stocks slide and oil rises as US and Iran threaten to escalate war",
+            "time": "2026-03-23T10:02:15",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In a social media post published at 23:44 GMT Saturday, Trump said: \"If Iran doesn't FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, the United States of America will hit and obliterate their various POWER PLANTS, STARTING WITH THE BIGGEST ONE FIRST!\"</p></div></div></body></html>"
         },
@@ -26,16 +26,28 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">But in Nice Eric Ciotti, leader of the UDR party, won a clear victory over the incumbent Christian Estrosi,  a former LR member who defected to the Macronite centre.  This was hailed by the RN as a sign of an emerging new right, no longer held back by any taboo about working with Le Pen.</p></div></div></body></html>"
         },
         {
+            "title": "UN issues new climate warning as El Niño looms",
+            "time": "2026-03-23T04:06:22",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to the report, UN Secretary General António Guterres reiterated his call for countries to move away from fossil fuels to renewable energy to \"deliver climate security, energy security and national security\".</p></div></div></body></html>"
+        },
+        {
             "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
             "time": "2026-03-22T22:38:24",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The leader of Israel's centre-left Democrats, Yair Golan, condemned the latest attacks, accusing Israel's government of allowing it to happen. He wrote on X: \"While we are fighting in Iran and on the northern border, under missile attacks and with many seriously wounded, this government is encouraging total anarchy.</p></div></div></body></html>"
         },
         {
-            "title": "UN issues new climate warning as El Niño looms",
-            "time": "2026-03-23T04:06:22",
-            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">In response to the report, UN Secretary General António Guterres reiterated his call for countries to move away from fossil fuels to renewable energy to \"deliver climate security, energy security and national security\".</p></div></div></body></html>"
+            "title": "Hong Kong police can now demand phone passwords under national security law",
+            "time": "2026-03-23T08:06:25",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b2d/live/45166ad0-268c-11f1-82d0-fd391f4a7261.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Those who refuse could face up to a year in jail and a fine of up to HK$100,000 ($12,700; £9,600), and individuals who provide \"false or misleading information\" could face up to three years in jail.</p></div></div></body></html>"
+        },
+        {
+            "title": "Australian Broadcasting Corporation staff to go on strike for first time in 20 years",
+            "time": "2026-03-23T09:16:35",
+            "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3ae9/live/08caea40-2693-11f1-b5dd-c99b06386340.jpg",
+            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"We can't accept a deal that cuts conditions, sends pay backwards against inflation and refuses to rule out replacing ABC journalists with AI bots,\" said Michael Slezak of the journalists' union, Media, Entertainment and Arts Alliance (MEAA).</p></div></div></body></html>"
         },
         {
             "title": "Cuba's second power cut in a week leaves 10 million in darkness",
@@ -89,7 +101,7 @@
             "title": "Qatari and Turkish citizens die in military helicopter crash",
             "time": "2026-03-22T13:35:44",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de05/live/d191bf30-25ee-11f1-a3f0-379050aefd37.png",
-            "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">The two technicians were from the Aselsan defence corporation, the ministry said, adding that the exact cause of the crash would be determined by Qatari authorities.</p></div></div></body></html>"
+            "body": "<html><body><div><div data-testid=\"card-text-wrapper\" class=\"sc-43200f40-6 iqYZaz\"><div class=\"sc-feaf8701-1 CmGTn\"><p class=\"sc-feaf8701-0 ktNWyK\"><h2 data-testid=\"card-headline\" class=\"sc-feaf8701-3 dkPqjG\">Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport</h2></p></div><p data-testid=\"card-description\" class=\"sc-43200f40-0 gLycTb\">The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident.</p><p class=\"sc-1907e52a-0 jHVUiR\"><span data-testid=\"card-metadata-lastupdated\" class=\"sc-1907e52a-1 dbmope\">23 mins ago</span></p></div></div></body></html>"
         },
         {
             "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
@@ -98,7 +110,7 @@
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">\"I did not always agree with everything that Robert Mueller did,\" Andrew Weissmann, a member of Mueller's team, told the BBC. \"I think it's really important for people to know how much integrity and how much thoughtfulness went into his decision-making and how much faith he had - maybe more than I did - in the American people, in citizens and in Congress.\"</p></div></div></body></html>"
         },
         {
-            "title": "The cutthroat battle for the US weight-loss drug market",
+            "title": "US weight loss drugmakers slash prices in fight to win customers",
             "time": "2026-03-23T06:03:48",
             "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
             "body": "<html><body><div><div class=\"sc-82b3c53b-0 IAFLu\"><p class=\"sc-9a00e533-0 eZyhnA\">Normally, such battles would occur behind closed doors, as manufacturers, insurance companies, employers and other firms furiously negotiate coverage, rebates and other factors, before presenting the final bill to patients. </p></div></div></body></html>"
